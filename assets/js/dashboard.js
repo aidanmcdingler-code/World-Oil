@@ -187,8 +187,12 @@
 
   function copyLink() {
     const btn = $("copy-link");
-    const done = (text) => { btn.textContent = text; setTimeout(() => { btn.textContent = "Copy link to this view"; }, 2000); };
-    if (navigator.clipboard) navigator.clipboard.writeText(location.href).then(() => done("Link copied ✓"), () => done("Copy the address bar instead"));
+    const done = (text, ok) => {
+      btn.textContent = text;
+      if (ok) btn.classList.add("is-copied");
+      setTimeout(() => { btn.textContent = "Copy link to this view"; btn.classList.remove("is-copied"); }, 1500);
+    };
+    if (navigator.clipboard) navigator.clipboard.writeText(location.href).then(() => done("Link copied ✓", true), () => done("Copy the address bar instead"));
     else done("Copy the address bar instead");
   }
 

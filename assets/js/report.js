@@ -196,7 +196,9 @@
 
   function refreshGlobe(features) {
     document.getElementById("g-year-out").textContent = G.year;
-    document.getElementById("g-year").value = G.year;
+    const slider = document.getElementById("g-year");
+    slider.value = G.year;
+    if (T.syncRange) T.syncRange(slider);   // keep the styled track fill in step during Play
     show(document.getElementById("g-legend-prod"), G.mode === "p");
     show(document.getElementById("g-legend-trade"), G.mode !== "p");
     const colors = { Exports: cssVar("--accent") || "#f5a524", Imports: cssVar("--series-1") || "#4c8dff" };
