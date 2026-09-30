@@ -149,6 +149,7 @@
     fillSelect($("measure"), Object.entries(MEASURES));
     fillSelect($("breakdown"), Object.entries(BREAKDOWNS));
     applyDefaults();
+    readUrl();
 
     ["f-from", "f-to", "f-region", "f-country", "f-opec", "f-product", "variable", "measure", "breakdown"]
       .forEach((id) => $(id).addEventListener("change", render));
@@ -159,6 +160,36 @@
       applyDefaults();
       render();
     });
+    $("copy-link").addEventListener("click", copyLink);
+  }
+
+  /* ---------- shareable links: the current view lives in the URL ---------- */
+  const URL_KEYS = { from: "f-from", to: "f-to", region: "f-region", country: "f-country", opec: "f-opec",
+    group: "f-group", product: "f-product", variable: "variable", measure: "measure", breakdown: "breakdown" };
+
+  function readUrl() {
+    const q = new URLSearchParams(location.search);
+    const set = (key) => {
+      const el = $(URL_KEYS[key]);
+      if (q.has(key) && [...el.options].some((o) => o.value === q.get(key))) el.value = q.get(key);
+    };
+    set("group");
+    updateProductOptions();   // product choices depend on the group
+    Object.keys(URL_KEYS).filter((k) => k !== "group").forEach(set);
+  }
+
+  function writeUrl(s) {
+    const q = new URLSearchParams();
+    Object.keys(URL_KEYS).forEach((k) => { if (String(s[k]) !== String(DEFAULTS[k])) q.set(k, s[k]); });
+    const qs = q.toString();
+    history.replaceState(null, "", location.pathname + (qs ? "?" + qs : ""));
+  }
+
+  function copyLink() {
+    const btn = $("copy-link");
+    const done = (text) => { btn.textContent = text; setTimeout(() => { btn.textContent = "Copy link to this view"; }, 2000); };
+    if (navigator.clipboard) navigator.clipboard.writeText(location.href).then(() => done("Link copied ✓"), () => done("Copy the address bar instead"));
+    else done("Copy the address bar instead");
   }
 
   function applyDefaults() {
@@ -295,6 +326,7 @@
 
     renderTable(groups, s, whole);
     renderGlobe(s);
+    writeUrl(s);
   }
 
   const round = (x, d = 1) => (x == null || isNaN(x) ? null : Math.round(x * 10 ** d) / 10 ** d);
