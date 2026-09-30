@@ -70,8 +70,22 @@
       <aside class="globe-panel" aria-live="polite">
         <p class="eyebrow">Click a country</p>
         <h2 id="gp-name">Crude oil production by country</h2>
-        <p id="gp-meta" class="muted">Drag to spin, scroll to zoom. Countries are shaded by their <span data-f="last_full_year">2025</span> average crude output. Grey means no complete year of production data in JODI.</p>
-        <div class="globe-legend"><span>Low</span><span class="ramp"></span><span>High</span></div>
+        <p id="gp-meta" class="muted">Drag to spin, scroll to zoom. Slide through the years or press Play to watch output shift. Grey means that year's figures are incomplete in JODI.</p>
+        <div class="globe-controls">
+          <div class="seg" role="group" aria-label="What the globe shows">
+            <button type="button" class="btn" data-globe-mode="p" aria-pressed="true">Production</button>
+            <button type="button" class="btn" data-globe-mode="trade" aria-pressed="false">Exports &amp; imports</button>
+          </div>
+          <label class="year-slider">Year <output id="g-year-out">2025</output>
+            <input type="range" id="g-year" min="2010" max="2025" step="1" value="2025">
+          </label>
+          <button type="button" class="btn" id="g-play" aria-pressed="false">▶ Play 2010–2025</button>
+        </div>
+        <div class="globe-legend" id="g-legend-prod"><span>Low</span><span class="ramp"></span><span>High</span></div>
+        <div class="globe-legend trade-key" id="g-legend-trade" hidden>
+          <span class="key-exports">Exports</span><span class="key-imports">Imports</span>
+          <span class="muted">Column height = barrels per day. JODI reports totals, not routes.</span>
+        </div>
         <div id="gp-stats"></div>
         <div class="chart-box short"><canvas id="gp-trend" aria-label="Production trend"></canvas></div>
         <h3>Recent oil news</h3>
@@ -163,12 +177,12 @@
       <h2>In April 2020 jet fuel and kerosene demand fell by two thirds</h2>
       <p>
         In the <span data-f="demand_n">40</span> countries that reported demand for every refined product in every month, total product demand in
-        April 2020 was <b><span data-f="covid_all">-21.9</span>%</b> below April 2019. The drop depended on what the fuel is used for.
-        Kerosene and jet fuel fell <b><span data-f="covid_jet">-66.5</span>%</b> as flights stopped. Gasoline fell
-        <b><span data-f="covid_gasoline">-35.1</span>%</b> as people stayed home.
+        April 2020 was <b><span data-f="covid_all" data-fmt="abs1">-21.9</span>%</b> below April 2019. The drop depended on what the fuel is used for.
+        Kerosene and jet fuel fell <b><span data-f="covid_jet" data-fmt="abs1">-66.5</span>%</b> as flights stopped. Gasoline fell
+        <b><span data-f="covid_gasoline" data-fmt="abs1">-35.1</span>%</b> as people stayed home.
       </p>
       <p>
-        Diesel, which moves freight, fell a smaller <span data-f="covid_diesel">-19.1</span>%. LPG and naphtha, used for cooking
+        Diesel, which moves freight, fell a smaller <span data-f="covid_diesel" data-fmt="abs1">-19.1</span>%. LPG and naphtha, used for cooking
         and to make plastics, barely changed.
       </p>
       <div class="chart-card">
@@ -183,11 +197,11 @@
       <h2>Air travel took five years to return: jet fuel demand first matched 2019 in <span data-f="jet_first_back" data-fmt="month">June 2025</span></h2>
       <p>
         Comparing each month to the same month of 2019 shows how slow the recovery was. Across 2021, kerosene and jet
-        fuel demand was still <b><span data-f="jet_2021">-32.4</span>%</b> below 2019. The gap narrowed each year, but the first month
+        fuel demand was still <b><span data-f="jet_2021" data-fmt="abs1">-32.4</span>%</b> below 2019. The gap narrowed each year, but the first month
         at or above its 2019 level was <b><span data-f="jet_first_back" data-fmt="month">June 2025</span></b>.
       </p>
       <p>
-        Road fuels bounced back much faster. In 2022, average gasoline demand was only <span data-f="gasoline_2022_vs_2019">-2.3</span>% below 2019,
+        Road fuels bounced back much faster. In 2022, average gasoline demand was only <span data-f="gasoline_2022_vs_2019" data-fmt="abs1">-2.3</span>% below 2019,
         and diesel was <span data-f="diesel_2022_vs_2019" data-fmt="signed1">+2.8</span>% above it. Jet fuel lagged because long-haul and international travel reopened last.
       </p>
       <div class="chart-card">
@@ -255,6 +269,24 @@
       </div>
     </section>
 
+    <!-- Aidan: this is a draft. Rewrite it in your own words, it's the personal part of the site. -->
+    <section class="about" id="about">
+      <p class="eyebrow">Why I built this</p>
+      <h2>Following the barrels</h2>
+      <p>
+        Oil shows up everywhere in finance: in inflation numbers, in what airlines and truckers pay to operate, and in
+        the share prices of some of the biggest companies in the market. I kept reading headlines about the shale boom,
+        OPEC cuts and the 2020 crash, and I wanted to see whether those stories actually show up in the raw numbers
+        governments report, country by country and month by month.
+      </p>
+      <p>
+        They do, and in a few places the data told a sharper story than the headlines. What surprised me most was how
+        long jet fuel took to come back, and how completely the US changed from a buyer of crude into one of the
+        biggest sellers. The dashboard is there so you can go looking for your own stories in the same data.
+      </p>
+      <p class="muted">— Aidan Dingler</p>
+    </section>
+
     <section class="stocks" aria-label="Live oil company stocks">
       <h2>Oil majors and crude prices, live</h2>
       <p class="muted">A live market view for context. Prices come from TradingView and are not part of the JODI data or any number above.</p>
@@ -319,6 +351,7 @@
   </footer>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-annotation/3.1.0/chartjs-plugin-annotation.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/globe.gl@2.46.2/dist/globe.gl.min.js"></script>
   <script src="assets/js/theme.js"></script>
   <script src="assets/js/common.js"></script>

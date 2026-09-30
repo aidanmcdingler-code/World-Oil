@@ -163,31 +163,30 @@ def main():
     (ROOT / "data" / "report.json").write_text(json.dumps({"facts": facts, "charts": charts}, indent=1))
     print(json.dumps(facts, indent=1))
 
-    # Globe: 2025 annual averages for countries with all 12 months, else last year reported
-    globe = {}
-    last_full_year = int(LAST[:4])
+    # Globe: per-country annual averages for every year 2010-2025, for the time slider.
+    # A value is only given for a year when all 12 months are reported, so a missing
+    # report never shows up as a low number.
+    measures = {"p": "production_kbd", "x": "exports_kbd", "m": "imports_kbd"}
+    countries = {}
     # every country in the panel gets an entry, even with no crude rows, so the globe
     # can tell "reports to JODI but no crude data" apart from "not in JODI"
     for code, row in panel.drop_duplicates("code").set_index("code").iterrows():
         g = crude[crude["code"] == code]
-        p = g.dropna(subset=["production_kbd"])
-        yrs = p.groupby("year")["date"].nunique()
-        yrs = yrs[yrs == 12]
-        entry = {"country": row["country"], "region": row["region"], "opec": row["opec_group"]}
-        if len(yrs):
-            y = int(yrs.index.max())
-            gy = g[g["year"] == y]
-            entry |= {"year": y, "current": y == last_full_year,
-                      "production": r(gy["production_kbd"].mean()),
-                      "exports": r(gy["exports_kbd"].mean()) if gy["exports_kbd"].notna().all() else None,
-                      "imports": r(gy["imports_kbd"].mean()) if gy["imports_kbd"].notna().all() else None,
-                      "trend": [r(v) for v in annual_avg(p[p["year"].isin(yrs.index)], "production_kbd")],
-                      "trend_years": [int(v) for v in yrs.index]}
-        globe[code] = entry
-    (ROOT / "data" / "globe.json").write_text(json.dumps(globe, separators=(",", ":")))
-    print(f"globe.json: {len(globe)} countries, "
-          f"{sum(1 for v in globe.values() if v.get('current'))} with full {last_full_year} data")
-
+        years = {}
+        for y, gy in g.groupby("year"):
+            vals = {k: r(gy[col].mean()) for k, col in measures.items()
+                    if gy[col].notna().sum() == 12}
+            if vals:
+                years[str(y)] = vals
+        countries[code] = {"country": row["country"], "region": row["region"],
+                           "opec": row["opec_group"], "years": years}
+    all_vals = lambda k: [v[k] for c in countries.values() for v in c["years"].values() if k in v]
+    meta = {"first": int(FIRST[:4]), "last": int(LAST[:4]),
+            "max": {k: max(all_vals(k)) for k in measures}}
+    (ROOT / "data" / "globe.json").write_text(
+        json.dumps({"meta": meta, "countries": countries}, separators=(",", ":")))
+    have = sum(1 for c in countries.values() if "p" in c["years"].get(str(meta["last"]), {}))
+    print(f"globe.json: {len(countries)} countries, {have} with full {meta['last']} production")
 
 if __name__ == "__main__":
     main()
