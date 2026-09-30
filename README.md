@@ -42,6 +42,7 @@ complete records. The report's "About the data" section has the details.
 
 | File | What it does |
 |---|---|
+| `README.md` | This file: what the project is, where the data came from, every file, and how to rebuild it |
 | `index.html` | Report page |
 | `dashboard.html` | Dashboard page |
 | `assets/css/style.css` | Shared fonts, colors, layout and animation styles for both pages |
