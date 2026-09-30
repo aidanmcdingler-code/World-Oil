@@ -87,9 +87,9 @@
     stats.innerHTML = "";
 
     if (!d) {
-      meta.textContent = "This country does not report to JODI.";
+      meta.textContent = "No usable figures for this country in the JODI files (not reported, or reported as unavailable).";
     } else if (d.year == null) {
-      meta.textContent = `${d.region} · ${d.opec}. No complete year of crude production data in JODI.`;
+      meta.textContent = `${d.region} · ${d.opec}. Reports to JODI, but has no complete year of crude production data.`;
     } else {
       meta.textContent = `${d.region} · ${d.opec} · ${d.current ? d.year + " average" : "last complete year in JODI: " + d.year}`;
       const rows = [["Crude production", d.production], ["Crude exports", d.exports], ["Crude imports", d.imports]];
@@ -97,6 +97,8 @@
         `<div class="stat"><span class="stat-value">${v == null ? "–" : T.fmt(v, KBD)}</span><span class="stat-label">${label}</span></div>`).join("");
     }
 
+    // hide the trend box when there is nothing to plot
+    document.getElementById("gp-trend").closest(".chart-box").hidden = !(d && d.trend && d.trend.length);
     const labels = d && d.trend_years ? d.trend_years.map(String) : [];
     const data = d && d.trend ? d.trend : [];
     const ds = [{ label: "Crude production (kb/d)", data, color: T.palette[0] }];

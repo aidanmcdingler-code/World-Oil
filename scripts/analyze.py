@@ -166,11 +166,13 @@ def main():
     # Globe: 2025 annual averages for countries with all 12 months, else last year reported
     globe = {}
     last_full_year = int(LAST[:4])
-    for code, g in crude.groupby("code"):
+    # every country in the panel gets an entry, even with no crude rows, so the globe
+    # can tell "reports to JODI but no crude data" apart from "not in JODI"
+    for code, row in panel.drop_duplicates("code").set_index("code").iterrows():
+        g = crude[crude["code"] == code]
         p = g.dropna(subset=["production_kbd"])
         yrs = p.groupby("year")["date"].nunique()
         yrs = yrs[yrs == 12]
-        row = g.iloc[0]
         entry = {"country": row["country"], "region": row["region"], "opec": row["opec_group"]}
         if len(yrs):
             y = int(yrs.index.max())
