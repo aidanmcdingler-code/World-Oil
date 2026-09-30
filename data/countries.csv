@@ -1,0 +1,119 @@
+code,country,region,opec_group
+AE,United Arab Emirates,Middle East,OPEC
+BH,Bahrain,Middle East,OPEC+ partner
+IQ,Iraq,Middle East,OPEC
+IR,Iran,Middle East,OPEC
+KW,Kuwait,Middle East,OPEC
+OM,Oman,Middle East,OPEC+ partner
+QA,Qatar,Middle East,Non-OPEC
+SA,Saudi Arabia,Middle East,OPEC
+SY,Syria,Middle East,Non-OPEC
+YE,Yemen,Middle East,Non-OPEC
+AO,Angola,Africa,Non-OPEC
+DZ,Algeria,Africa,OPEC
+EG,Egypt,Africa,Non-OPEC
+GA,Gabon,Africa,OPEC
+GM,Gambia,Africa,Non-OPEC
+GQ,Equatorial Guinea,Africa,OPEC
+LY,Libya,Africa,OPEC
+MA,Morocco,Africa,Non-OPEC
+MU,Mauritius,Africa,Non-OPEC
+NE,Niger,Africa,Non-OPEC
+NG,Nigeria,Africa,OPEC
+SD,Sudan,Africa,OPEC+ partner
+SZ,Eswatini,Africa,Non-OPEC
+TN,Tunisia,Africa,Non-OPEC
+ZA,South Africa,Africa,Non-OPEC
+AM,Armenia,Eurasia,Non-OPEC
+AZ,Azerbaijan,Eurasia,OPEC+ partner
+BY,Belarus,Eurasia,Non-OPEC
+GE,Georgia,Eurasia,Non-OPEC
+KZ,Kazakhstan,Eurasia,OPEC+ partner
+MD,Moldova,Eurasia,Non-OPEC
+RU,Russia,Eurasia,OPEC+ partner
+TJ,Tajikistan,Eurasia,Non-OPEC
+UA,Ukraine,Eurasia,Non-OPEC
+AL,Albania,Europe,Non-OPEC
+AT,Austria,Europe,Non-OPEC
+BE,Belgium,Europe,Non-OPEC
+BG,Bulgaria,Europe,Non-OPEC
+CH,Switzerland,Europe,Non-OPEC
+CY,Cyprus,Europe,Non-OPEC
+CZ,Czechia,Europe,Non-OPEC
+DE,Germany,Europe,Non-OPEC
+DK,Denmark,Europe,Non-OPEC
+EE,Estonia,Europe,Non-OPEC
+ES,Spain,Europe,Non-OPEC
+FI,Finland,Europe,Non-OPEC
+FR,France,Europe,Non-OPEC
+GB,United Kingdom,Europe,Non-OPEC
+GR,Greece,Europe,Non-OPEC
+HR,Croatia,Europe,Non-OPEC
+HU,Hungary,Europe,Non-OPEC
+IE,Ireland,Europe,Non-OPEC
+IS,Iceland,Europe,Non-OPEC
+IT,Italy,Europe,Non-OPEC
+LT,Lithuania,Europe,Non-OPEC
+LU,Luxembourg,Europe,Non-OPEC
+LV,Latvia,Europe,Non-OPEC
+MK,North Macedonia,Europe,Non-OPEC
+MT,Malta,Europe,Non-OPEC
+NL,Netherlands,Europe,Non-OPEC
+NO,Norway,Europe,Non-OPEC
+PL,Poland,Europe,Non-OPEC
+PT,Portugal,Europe,Non-OPEC
+RO,Romania,Europe,Non-OPEC
+RS,Serbia,Europe,Non-OPEC
+SE,Sweden,Europe,Non-OPEC
+SI,Slovenia,Europe,Non-OPEC
+SK,Slovakia,Europe,Non-OPEC
+TR,Turkey,Europe,Non-OPEC
+BM,Bermuda,North America,Non-OPEC
+CA,Canada,North America,Non-OPEC
+MX,Mexico,North America,OPEC+ partner
+US,United States,North America,Non-OPEC
+AR,Argentina,Latin America,Non-OPEC
+BB,Barbados,Latin America,Non-OPEC
+BO,Bolivia,Latin America,Non-OPEC
+BR,Brazil,Latin America,Non-OPEC
+BZ,Belize,Latin America,Non-OPEC
+CL,Chile,Latin America,Non-OPEC
+CO,Colombia,Latin America,Non-OPEC
+CR,Costa Rica,Latin America,Non-OPEC
+CU,Cuba,Latin America,Non-OPEC
+DO,Dominican Republic,Latin America,Non-OPEC
+EC,Ecuador,Latin America,Non-OPEC
+GD,Grenada,Latin America,Non-OPEC
+GT,Guatemala,Latin America,Non-OPEC
+GY,Guyana,Latin America,Non-OPEC
+HN,Honduras,Latin America,Non-OPEC
+HT,Haiti,Latin America,Non-OPEC
+JM,Jamaica,Latin America,Non-OPEC
+NI,Nicaragua,Latin America,Non-OPEC
+PA,Panama,Latin America,Non-OPEC
+PE,Peru,Latin America,Non-OPEC
+PY,Paraguay,Latin America,Non-OPEC
+SR,Suriname,Latin America,Non-OPEC
+SV,El Salvador,Latin America,Non-OPEC
+TT,Trinidad and Tobago,Latin America,Non-OPEC
+UY,Uruguay,Latin America,Non-OPEC
+VE,Venezuela,Latin America,OPEC
+AU,Australia,Asia-Pacific,Non-OPEC
+BD,Bangladesh,Asia-Pacific,Non-OPEC
+BN,Brunei,Asia-Pacific,OPEC+ partner
+CN,China,Asia-Pacific,Non-OPEC
+HK,Hong Kong,Asia-Pacific,Non-OPEC
+ID,Indonesia,Asia-Pacific,Non-OPEC
+IN,India,Asia-Pacific,Non-OPEC
+JP,Japan,Asia-Pacific,Non-OPEC
+KR,South Korea,Asia-Pacific,Non-OPEC
+MM,Myanmar,Asia-Pacific,Non-OPEC
+MY,Malaysia,Asia-Pacific,OPEC+ partner
+NP,Nepal,Asia-Pacific,Non-OPEC
+NZ,New Zealand,Asia-Pacific,Non-OPEC
+PG,Papua New Guinea,Asia-Pacific,Non-OPEC
+PH,Philippines,Asia-Pacific,Non-OPEC
+SG,Singapore,Asia-Pacific,Non-OPEC
+TH,Thailand,Asia-Pacific,Non-OPEC
+TW,Taiwan,Asia-Pacific,Non-OPEC
+VN,Vietnam,Asia-Pacific,Non-OPEC
