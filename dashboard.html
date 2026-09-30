@@ -24,9 +24,9 @@
     <p class="eyebrow">JODI Oil World Database · 2010–2026</p>
     <h1>Oil dashboard</h1>
     <p class="summary">
-      Every number here is calculated in your browser from <code>data/oil_panel.csv</code>, the same
-      <span id="row-count">162,141</span>-row file behind the report. Choose filters on the left, then switch the variable, the measure and
-      the breakdown. To check a report figure, pick United States, Crude oil, 2025 to 2025 and Production: the average is 13,573 kb/d.
+      Explore 15 years of oil production, trade and demand for 112 countries. Pick the years, countries and fuels
+      you care about, then choose what to measure and how to split it, and every number, chart and the globe below
+      updates instantly.
     </p>
   </header>
 
@@ -139,6 +139,12 @@
 
     <section class="methods">
       <h2>How the dashboard calculates</h2>
+      <p>
+        Every number is calculated in your browser from <code>data/oil_panel.csv</code>, the same
+        <span id="row-count">162,141</span>-row file behind the report. To check a report figure, set the years to 2025–2025,
+        the country to United States, the product to Crude oil and the variable to Production: the average is 13,573 kb/d,
+        as in the report.
+      </p>
       <ul>
         <li><b>Average rate</b>: for each month, add up the variable over every row that matches the filters (and the breakdown group), then average those monthly sums over the months that have data. Units are kb/d, or thousand barrels for stocks.</li>
         <li><b>Total volume</b>: each monthly value × the days in that month ÷ 1,000, added up, in million barrels. Not shown for stocks, which are a level.</li>
