@@ -307,25 +307,48 @@
       })),
     });
 
-    // 3. share doughnut (always share of the average rate)
-    const shareTop = s.breakdown === "year" ? top : topGroups(groups, s, 8);
-    $("t-share").textContent = `Share of ${v.label.toLowerCase()} by ${bd}`;
-    $("st-share").textContent = `Each group's average rate ÷ the total, ${s.from}–${s.to}`;
-    draw("share", "#c-share", {
-      type: "doughnut", format: { decimals: 1, suffix: "%" },
-      labels: shareTop.map((e) => String(e[0])),
-      datasets: [{ label: "Share", data: shareTop.map((e) => round(whole > 0 ? (e[2].avg / whole) * 100 : NaN, 1)) }],
-    });
+    // 3. first vs last selected year, by breakdown group, in the chosen measure
+    const y0 = s.from === s.to ? s.from - 1 : s.from;
+    const inYear = (g, y) => noYears.filter((r) => r.year === y && (s.breakdown === "year" || r[s.breakdown] === g));
+    $("t-share").textContent = `${mLabel}: ${y0} vs. ${s.to}`;
+    if (s.breakdown === "year") {
+      $("st-share").textContent = "First and last selected year";
+      const both = [y0, s.to].map((y) => noYears.filter((r) => r.year === y));
+      const wholeY = both.map((rs) => stats(rs, s.variable).avg);
+      draw("share", "#c-share", {
+        type: "bar", legend: false, format: f, labels: [String(y0), String(s.to)],
+        datasets: [{ label: mLabel, data: both.map((rs, i) => round(valueOf(stats(rs, s.variable), s.measure, wholeY[i]))) }],
+      });
+    } else {
+      const cmp = topGroups(groups, s, 8).filter((e) => !/^Other /.test(e[0]));
+      $("st-share").textContent = `Largest ${cmp.length} ${bd === "country" ? "countries" : bd + "s"}, first and last selected year`;
+      const wholeFor = (y) => [...groupBy(noYears.filter((r) => r.year === y), s.breakdown).values()]
+        .reduce((t, g) => t + (stats(g, s.variable).avg || 0), 0);
+      const w0 = wholeFor(y0), w1 = wholeFor(s.to);
+      draw("share", "#c-share", {
+        type: "bar", format: f, labels: cmp.map((e) => String(e[0])),
+        datasets: [
+          { label: String(y0), color: T.palette[1], data: cmp.map((e) => round(valueOf(stats(inYear(e[0], y0), s.variable), s.measure, w0))) },
+          { label: String(s.to), color: T.palette[0], data: cmp.map((e) => round(valueOf(stats(inYear(e[0], s.to), s.variable), s.measure, w1))) },
+        ],
+      });
+    }
 
-    // 4. monthly sum of the variable
-    const byMonth = new Map();
-    set.forEach((r) => byMonth.set(r.date, (byMonth.get(r.date) || 0) + r[s.variable]));
-    const months = [...byMonth.keys()].sort();
-    $("t-month").textContent = `Monthly ${v.label.toLowerCase()}, all selected rows (${unit})`;
-    $("st-month").textContent = "Sum over the filtered countries and products in each month";
+    // 4. month by month, one line per top group, in the chosen measure
+    const monthGroups = s.breakdown === "year" ? [["All selected", set]] : topGroups(groups, s, 6).map((e) => [e[0], e[1]]);
+    const byMonth = (rs) => { const m = new Map(); rs.forEach((r) => { if (!m.has(r.date)) m.set(r.date, []); m.get(r.date).push(r); }); return m; };
+    const allByMonth = byMonth(set);
+    const months = [...allByMonth.keys()].sort();
+    const monthWhole = new Map(months.map((m) => [m, stats(allByMonth.get(m), s.variable).avg]));
+    $("t-month").textContent = `${mLabel}, month by month`;
+    $("st-month").textContent = s.breakdown === "year" ? "All selected rows" : `Largest 5 ${bd === "country" ? "countries" : bd + "s"} plus the rest`;
     draw("month", "#c-month", {
-      type: "line", legend: false, format: { decimals: 0, suffix: " " + unit }, beginAtZero: false, fill: true,
-      labels: months, datasets: [{ label: v.label, data: months.map((m) => round(byMonth.get(m))) }],
+      type: "line", format: f, beginAtZero: s.measure !== "avg", legend: s.breakdown !== "year",
+      labels: months,
+      datasets: monthGroups.map(([k, g]) => {
+        const gm = byMonth(g);
+        return { label: String(k), data: months.map((m) => gm.has(m) ? round(valueOf(stats(gm.get(m), s.variable), s.measure, monthWhole.get(m))) : null) };
+      }),
     });
 
     renderTable(groups, s, whole);
