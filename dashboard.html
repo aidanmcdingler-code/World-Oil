@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>World Oil Dashboard</title>
+  <meta name="description" content="Filter the JODI oil panel by year, country, region, OPEC group and product, and see the numbers change.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <nav class="topnav">
+    <a class="brand" href="index.html">World Oil</a>
+    <div class="nav-links">
+      <a href="index.html">Report</a>
+      <a href="dashboard.html" class="active" aria-current="page">Dashboard</a>
+    </div>
+  </nav>
+  <div class="ticker" id="ticker-tape"></div>
+
+  <header class="hero">
+    <p class="eyebrow">JODI Oil World Database · 2010–2026</p>
+    <h1>Oil dashboard</h1>
+    <p class="summary">
+      Every number here is calculated in your browser from <code>data/oil_panel.csv</code>, the same
+      <span id="row-count">162,141</span>-row file behind the report. Choose filters on the left, then switch the variable, the measure and
+      the breakdown. To check a report figure, pick United States, Crude oil, 2025 to 2025 and Production: the average is 13,573 kb/d.
+    </p>
+  </header>
+
+  <main>
+    <aside class="filters" aria-label="Filters">
+      <label class="filter">From year
+        <select id="f-from"></select>
+      </label>
+      <label class="filter">To year
+        <select id="f-to"></select>
+      </label>
+      <label class="filter">Region
+        <select id="f-region"><option value="">All regions</option></select>
+      </label>
+      <label class="filter">Country
+        <select id="f-country"><option value="">All countries</option></select>
+      </label>
+      <label class="filter">OPEC group
+        <select id="f-opec"><option value="">All groups</option></select>
+      </label>
+      <label class="filter">Product group
+        <select id="f-group"></select>
+      </label>
+      <label class="filter">Product
+        <select id="f-product"><option value="">All products in group</option></select>
+      </label>
+      <button id="reset" class="btn" type="button">Reset all filters</button>
+      <p class="muted" id="status">Loading data…</p>
+    </aside>
+
+    <div class="switches" role="group" aria-label="Chart switches">
+      <label>Variable
+        <select id="variable"></select>
+      </label>
+      <label>Measure
+        <select id="measure"></select>
+      </label>
+      <label>Break down by
+        <select id="breakdown"></select>
+      </label>
+    </div>
+
+    <section class="stats" aria-label="Summary numbers">
+      <div class="stat">
+        <span class="stat-value" id="s-avg" data-value="0" data-decimals="0">–</span>
+        <span class="stat-label" id="s-avg-label">Average rate</span>
+      </div>
+      <div class="stat">
+        <span class="stat-value" id="s-total" data-value="0" data-decimals="1">–</span>
+        <span class="stat-label" id="s-total-label">Total volume (million barrels)</span>
+      </div>
+      <div class="stat">
+        <span class="stat-value" id="s-change" data-value="0" data-decimals="1" data-suffix="%">–</span>
+        <span class="stat-label" id="s-change-label">Change, first to last year</span>
+      </div>
+      <div class="stat">
+        <span class="stat-value" id="s-countries" data-value="0" data-decimals="0">–</span>
+        <span class="stat-label">Countries reporting</span>
+      </div>
+      <div class="stat">
+        <span class="stat-value" id="s-rows" data-value="0" data-decimals="0">–</span>
+        <span class="stat-label">Rows matching the filters</span>
+      </div>
+    </section>
+
+    <div class="chart-grid">
+      <div class="chart-card">
+        <h3 id="t-bar">By breakdown</h3>
+        <p class="chart-sub" id="st-bar"></p>
+        <canvas id="c-bar"></canvas>
+      </div>
+      <div class="chart-card">
+        <h3 id="t-trend">By year</h3>
+        <p class="chart-sub" id="st-trend"></p>
+        <canvas id="c-trend"></canvas>
+      </div>
+      <div class="chart-card">
+        <h3 id="t-share">Share</h3>
+        <p class="chart-sub" id="st-share"></p>
+        <canvas id="c-share"></canvas>
+      </div>
+      <div class="chart-card">
+        <h3 id="t-month">Month by month</h3>
+        <p class="chart-sub" id="st-month"></p>
+        <canvas id="c-month"></canvas>
+      </div>
+    </div>
+
+    <div id="mini-globe" role="img" aria-label="Globe shaded by the selected measure; click a country to filter to it"></div>
+    <p class="chart-source">Globe: countries shaded by the current variable and filters (average rate). Click a country to filter to it. Grey means no data.</p>
+
+    <div class="table-wrap">
+      <table class="data-table">
+        <caption id="table-caption">Numbers behind the current view</caption>
+        <thead>
+          <tr>
+            <th id="th-group">Group</th>
+            <th class="num">Average (kb/d)</th>
+            <th class="num">Total (million bbl)</th>
+            <th class="num">Median monthly value</th>
+            <th class="num">Share of total</th>
+            <th class="num">Countries</th>
+            <th class="num">Months</th>
+          </tr>
+        </thead>
+        <tbody id="tbody"></tbody>
+      </table>
+    </div>
+
+    <section class="methods">
+      <h2>How the dashboard calculates</h2>
+      <ul>
+        <li><b>Average rate</b>: for each month, add up the variable over every row that matches the filters (and the breakdown group), then average those monthly sums over the months that have data. Units are kb/d, or thousand barrels for stocks.</li>
+        <li><b>Total volume</b>: each monthly value × the days in that month ÷ 1,000, added up, in million barrels. Not shown for stocks, which are a level.</li>
+        <li><b>Median</b>: the median of all single country-month-product values in the group.</li>
+        <li><b>Share</b>: a group's average rate ÷ the sum of all groups' average rates.</li>
+        <li><b>Countries reporting</b>: distinct countries with at least one value.</li>
+        <li><b>Change</b>: average rate in the last selected year ÷ average rate in the first − 1.</li>
+        <li>Totals only include countries that reported. Russia, Iraq, Iran, the UAE, Brazil and others stop reporting partway through, so a drop in a total can mean missing reports, not less oil. The "Countries reporting" number shows this. The product-group filter takes one group at a time because refined products are made from crude.</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>Aidan Dingler · Financial Data Analytics · Data: JODI Oil World Database · <a href="https://github.com/aidanmcdingler-code/World-Oil">Source on GitHub</a></p>
+  </footer>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/globe.gl@2.46.2/dist/globe.gl.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+  <script src="assets/js/theme.js"></script>
+  <script src="assets/js/common.js"></script>
+  <script src="assets/js/dashboard.js"></script>
+</body>
+</html>
