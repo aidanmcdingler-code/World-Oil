@@ -18,6 +18,7 @@
      OilTheme.reveal()             scroll reveal, nav shadow, progress bar
      OilTheme.globe(globe, el, {valueOf, max, label, onSelect})  style a globe.gl instance
      OilTheme.freshRows(tbody)     fade-in newly rendered table rows
+     OilTheme.syncRange(input)     repaint a range slider fill after setting .value from code
    ========================================================================== */
 (function () {
   "use strict";
@@ -376,9 +377,11 @@
   }
   function tween(el, from, to, ms) {
     const o = readFmt(el);
-    if (!motionOK() || ms <= 0 || from === to) { el.textContent = fmt(to, o); el._shown = to; return; }
-    const t0 = performance.now();
     cancelAnimationFrame(el._raf);
+    el._target = to;
+    // rAF doesn't run in a background tab, so never leave a half-counted number there
+    if (!motionOK() || document.hidden || ms <= 0 || from === to) { el.textContent = fmt(to, o); el._shown = to; el._target = null; return; }
+    const t0 = performance.now();
     const step = (now) => {
       const p = Math.min(1, (now - t0) / ms);
       const e = 1 - Math.pow(1 - p, 4);   // easeOutQuart
@@ -386,7 +389,7 @@
       el.textContent = fmt(v, o);
       el._shown = v;
       if (p < 1) el._raf = requestAnimationFrame(step);
-      else { el.textContent = fmt(to, o); el._shown = to; }
+      else { el.textContent = fmt(to, o); el._shown = to; el._target = null; }
     };
     el._raf = requestAnimationFrame(step);
   }
@@ -398,8 +401,9 @@
       if (isNaN(to)) return;
       el.setAttribute("aria-label", fmt(to, readFmt(el)));   // screen readers get the final value
       if (el._shown != null) { tween(el, el._shown, to, 700); return; }
-      if (!motionOK() || !("IntersectionObserver" in window)) { tween(el, to, to, 0); return; }
+      if (!motionOK() || document.hidden || !("IntersectionObserver" in window)) { tween(el, to, to, 0); return; }
       el.textContent = fmt(0, readFmt(el));
+      el._target = to;
       if (!statObserver) {
         statObserver = new IntersectionObserver((entries) => {
           entries.forEach((e) => {
@@ -413,6 +417,14 @@
       statObserver.observe(el);
     });
   }
+  // leaving or returning to the tab: snap any pending or half-run count to its final value
+  document.addEventListener("visibilitychange", () => {
+    document.querySelectorAll(".stat-value[data-value]").forEach((el) => {
+      if (el._target == null) return;
+      if (statObserver) statObserver.unobserve(el);
+      tween(el, el._target, parseFloat(el.dataset.value), 0);
+    });
+  });
   function setStat(el, value) {
     if (typeof el === "string") el = document.querySelector(el);
     if (statObserver) statObserver.unobserve(el);   // a pending first count-up would fight this tween
@@ -433,6 +445,7 @@
       ["section.globe-section", "scale", 0],
       ["section.finding", "", 0],
       ["section.stocks", "", 0],
+      ["section.about", "", 0],
       ["section.methods", "", 0],
       [".chart-grid > .chart-card", "", 90],
       ["#mini-globe", "scale", 0],
@@ -543,7 +556,7 @@
       lastSelAt = now;
       selected = f;
       g.polygonCapColor(g.polygonCapColor()).polygonAltitude(g.polygonAltitude());
-      if (coords) g.pointOfView({ lat: coords.lat, lng: coords.lng, altitude: 1.8 }, motionOK() ? 1200 : 0);
+      if (coords) g.pointOfView({ lat: coords.lat, lng: coords.lng, altitude: 1.3 }, motionOK() ? 1200 : 0);
       pauseSpin();
       const panel = document.querySelector("aside.globe-panel");
       if (panel && motionOK()) {
@@ -581,7 +594,7 @@
     ctl.autoRotateSpeed = 0.45;
     ctl.enableDamping = true;
     ctl.dampingFactor = 0.08;
-    ctl.minDistance = 180;
+    ctl.minDistance = 160;
     ctl.maxDistance = 520;
     let idle;
     function pauseSpin() {
@@ -591,11 +604,12 @@
     }
     ctl.addEventListener("start", pauseSpin);
 
-    // start pulled back, then ease in on first view
-    g.pointOfView({ lat: 25, lng: 30, altitude: motionOK() ? 3.4 : 2.3 }, 0);
+    // start pulled back, then ease in on first view; VIEW_ALT fills ~80% of the card height
+    const VIEW_ALT = 1.7;
+    g.pointOfView({ lat: 25, lng: 30, altitude: motionOK() ? 2.4 : VIEW_ALT }, 0);
     if (motionOK() && "IntersectionObserver" in window) {
       const io = new IntersectionObserver((es) => {
-        if (es[0].isIntersecting) { io.disconnect(); g.pointOfView({ lat: 25, lng: 30, altitude: 2.3 }, 1600); }
+        if (es[0].isIntersecting) { io.disconnect(); g.pointOfView({ lat: 25, lng: 30, altitude: VIEW_ALT }, 1600); }
       }, { threshold: 0.3 });
       io.observe(el);
     }
@@ -638,6 +652,14 @@
     return null;
   }
 
+  /* ---------- range inputs: accent fill up to the thumb (webkit track) ---------- */
+  function syncRange(el) {
+    const min = +el.min || 0, max = el.max === "" ? 100 : +el.max;
+    el.style.setProperty("--fill", ((+el.value - min) / (max - min || 1)) * 100 + "%");
+  }
+  document.addEventListener("input", (e) => { if (e.target.type === "range") syncRange(e.target); });
+  document.addEventListener("DOMContentLoaded", () => document.querySelectorAll('input[type="range"]').forEach(syncRange));
+
   /* ---------- utils ---------- */
   function deepMerge(a, b) {
     Object.keys(b).forEach((k) => {
@@ -668,7 +690,7 @@
   const OilTheme = {
     palette: [],
     chart, update, assignColors, colorFor, seqColor, fmt,
-    countUp, setStat, reveal, globe, freshRows, setTheme,
+    countUp, setStat, reveal, globe, freshRows, setTheme, syncRange,
     alpha,
     get tokens() { return Object.assign({}, T); },
   };

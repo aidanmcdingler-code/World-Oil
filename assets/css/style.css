@@ -516,6 +516,73 @@ footer.site-footer {
   font-size: var(--fs-sm); color: var(--ink-muted); border-top: 1px solid var(--border);
 }
 
+/* ---------- Globe panel controls (mode switch, year slider, play) ---------- */
+[hidden] { display: none !important; }
+.globe-controls { display: flex; flex-wrap: wrap; align-items: center; gap: 0.75rem; }
+.seg .btn {
+  border: 0; background: transparent; color: var(--ink-2); min-height: 30px;
+  padding: 0.3rem 0.85rem; border-radius: 999px; font-size: var(--fs-xs); box-shadow: none;
+}
+.seg .btn:hover { background: var(--accent-wash); color: var(--ink); box-shadow: none; }
+.seg .btn[aria-pressed="true"], .seg .btn[aria-pressed="true"]:hover {
+  background: var(--accent); color: var(--accent-ink); box-shadow: 0 0 14px var(--accent-glow);
+}
+label.year-slider {
+  display: grid; grid-template-columns: auto 1fr; align-items: center; gap: 0.1rem 0.6rem; flex: 1 1 100%;
+  font-family: var(--font-mono); font-size: var(--fs-xs); letter-spacing: 0.06em; text-transform: uppercase; color: var(--ink-muted);
+}
+label.year-slider output {
+  justify-self: end; font-size: var(--fs-md); font-weight: 600; letter-spacing: 0; color: var(--ink);
+  font-variant-numeric: tabular-nums;
+}
+label.year-slider input[type="range"] { grid-column: 1 / -1; }
+/* range track + thumb in the accent, both engines */
+input[type="range"] { -webkit-appearance: none; appearance: none; height: 22px; background: transparent; cursor: pointer; }
+input[type="range"]::-webkit-slider-runnable-track { height: 4px; border-radius: 2px; background: linear-gradient(90deg, var(--accent) var(--fill, 100%), var(--grid) var(--fill, 100%)); }
+input[type="range"]::-moz-range-track { height: 4px; border-radius: 2px; background: var(--grid); }
+input[type="range"]::-moz-range-progress { height: 4px; border-radius: 2px; background: var(--accent); }
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none; width: 16px; height: 16px; margin-top: -6px; border-radius: 50%;
+  background: var(--accent); border: 2px solid var(--surface); box-shadow: 0 0 10px var(--accent-glow);
+  transition: transform var(--dur-fast) ease;
+}
+input[type="range"]::-moz-range-thumb {
+  width: 14px; height: 14px; border-radius: 50%; background: var(--accent);
+  border: 2px solid var(--surface); box-shadow: 0 0 10px var(--accent-glow);
+}
+input[type="range"]:hover::-webkit-slider-thumb, input[type="range"]:focus-visible::-webkit-slider-thumb { transform: scale(1.2); }
+button#g-play { font-size: var(--fs-xs); min-height: 30px; padding: 0.3rem 0.8rem; }
+button#g-play[aria-pressed="true"] { background: var(--accent); color: var(--accent-ink); animation: playing 1.6s ease-in-out infinite; }
+@keyframes playing { 0%, 100% { box-shadow: 0 0 0 0 var(--accent-glow); } 50% { box-shadow: 0 0 0 6px transparent; } }
+
+/* trade key: swatch before each label, colors match the globe columns */
+.globe-legend.trade-key { flex-wrap: wrap; gap: 0.35rem 1rem; }
+.trade-key .key-exports, .trade-key .key-imports { display: inline-flex; align-items: center; gap: 0.4rem; color: var(--ink-2); font-weight: 500; }
+.trade-key .key-exports::before, .trade-key .key-imports::before {
+  content: ""; width: 6px; height: 14px; border-radius: 2px 2px 0 0; flex: none;
+}
+.trade-key .key-exports::before { background: var(--accent); }
+.trade-key .key-imports::before { background: var(--series-1); }
+.trade-key .muted { flex: 1 1 100%; }
+aside.globe-panel .chart-box.short { height: 180px; }
+
+/* ---------- About ---------- */
+section.about {
+  padding-top: clamp(2.5rem, 6vw, 4.5rem); padding-bottom: clamp(2.5rem, 6vw, 4.5rem);
+  border-top: 1px solid var(--border);
+}
+section.about > p { color: var(--ink-2); font-size: var(--fs-lg); max-width: 64ch; }
+section.about > p.eyebrow { color: var(--accent); font-size: var(--fs-xs); }
+section.about > p.muted {
+  font-family: var(--font-mono); font-size: var(--fs-sm); color: var(--ink-muted);
+  padding-left: 0.9rem; border-left: 2px solid var(--accent);
+}
+
+/* ---------- Dashboard: copy link (secondary to Reset) ---------- */
+button#copy-link { border-color: var(--border-strong); color: var(--ink-2); }
+button#copy-link:hover { background: var(--surface-2); color: var(--ink); border-color: var(--axis); box-shadow: none; }
+button#copy-link.is-copied { border-color: var(--up); color: var(--up); animation: pulse 600ms var(--ease-out); }
+
 /* ---------- Scroll reveal ----------
    theme.js adds .js-reveal to <html> and data-reveal to targets, so content
    is never hidden if scripts fail. */
