@@ -147,7 +147,8 @@
           ds.hoverOffset = 6;
           return;
         }
-        const c = ds.color || (multi ? colorFor(key) : T["series-1"]);
+        // a lone series keeps its entity color if it is a pinned entity (Saudi stays orange), else slot 1
+        const c = ds.color || (multi || slotOf.has(key) ? colorFor(key) : T["series-1"]);
         if (dsType === "line") {
           ds.borderColor = c;
           ds.backgroundColor = ds.fill ? alpha(c, 0.1) : c;
@@ -241,16 +242,34 @@
     const horizontal = !!cfg.horizontal;
     wrap(canvas);
 
+    // monthly "YYYY-MM" labels: tick only at January ("2020"), tooltip reads "Apr 2020"
+    const labels = cfg.labels || [];
+    const monthly = labels.length > 0 && labels.every((l) => /^\d{4}-\d{2}$/.test(String(l)));
+    const everyYears = monthly ? Math.max(1, Math.ceil(labels.length / 12 / 8)) : 1;
+    const monthTick = function (val, i) {
+      const l = String(this.getLabelForValue(val));
+      const y = +l.slice(0, 4);
+      const first = +String(this.chart.data.labels[0]).slice(0, 4);
+      return l.slice(5) === "01" && (y - first) % everyYears === 0 ? String(y) : null;
+    };
     // every bar keeps its name; time axes thin their labels
     const catAxis = axis(horizontal ? cfg.yLabel : cfg.xLabel, undefined, {
       grid: { display: false, drawTicks: false },
-      ticks: { color: T["ink-muted"], padding: 8, maxRotation: 0, autoSkip: !horizontal, autoSkipPadding: 16 },
+      ticks: monthly
+        ? { color: T["ink-muted"], padding: 8, maxRotation: 0, autoSkip: false, callback: monthTick }
+        : { color: T["ink-muted"], padding: 8, maxRotation: 0, autoSkip: !horizontal, autoSkipPadding: 16 },
       stacked: !!cfg.stacked,
     });
     // ticks are clean numbers (no unit on every tick); the axis title carries the unit
     const tickFmt = typeof cfg.format === "function" ? f
-      : (v) => fmt(v, { compact: Math.abs(v) >= 10000, decimals: 0, prefix: (cfg.format || {}).prefix, suffix: (cfg.format || {}).suffix === "%" ? "%" : "" })
-          .replace(/^(-?[\d,]+)$/, (m) => (Number.isInteger(v) ? m : fmt(v, { decimals: 1 })));
+      : (v, i, ticks) => {
+          // one style per axis: all compact ("12K") if the axis tops 10,000, else plain
+          const top = ticks && ticks.length ? Math.max(...ticks.map((t) => Math.abs(t.value))) : Math.abs(v);
+          const o = cfg.format || {};
+          const affix = { prefix: o.prefix, suffix: o.suffix === "%" ? "%" : "" };
+          if (top >= 10000) return fmt(v, Object.assign({ compact: true, decimals: 1 }, affix));
+          return fmt(v, Object.assign({ decimals: Number.isInteger(v) ? 0 : 1 }, affix));
+        };
     const valAxis = axis(horizontal ? cfg.xLabel : cfg.yLabel, tickFmt, { beginAtZero: cfg.beginAtZero !== false, stacked: !!cfg.stacked });
 
     const options = {
@@ -263,6 +282,11 @@
         oilLegend: cfg.legend,
         tooltip: {
           callbacks: {
+            title(items) {
+              const l = items.length ? String(items[0].label) : "";
+              if (!/^\d{4}-\d{2}$/.test(l)) return l;
+              return new Date(+l.slice(0, 4), +l.slice(5) - 1, 1).toLocaleString("en-US", { month: "short", year: "numeric" });
+            },
             label(ctx) {
               const v = isArc ? ctx.parsed : (horizontal ? ctx.parsed.x : ctx.parsed.y);
               const name = isArc ? ctx.label : ctx.dataset.label;
@@ -535,11 +559,13 @@
     el.addEventListener("pointerup", (e) => {
       const d = down;
       down = null;
-      if (!d || !hovered) return;
+      if (!d) return;
       if (Math.hypot(e.clientX - d.x, e.clientY - d.y) >= 6 || performance.now() - d.t >= 500) return;
       const r = el.getBoundingClientRect();
       const coords = g.toGlobeCoords ? g.toGlobeCoords(e.clientX - r.left, e.clientY - r.top) : null;
-      select(hovered, coords);
+      // hover state can be stale or cleared by the press, so find the country under the point directly
+      const f = (coords && featureAt(g.polygonsData(), coords.lng, coords.lat)) || hovered;
+      if (f) select(f, coords);
     });
 
     const mat = g.globeMaterial && g.globeMaterial();
@@ -586,6 +612,30 @@
       },
       select(f) { selected = f; g.polygonCapColor(g.polygonCapColor()).polygonAltitude(g.polygonAltitude()); },
     };
+  }
+
+  // GeoJSON point-in-polygon (ray casting on lng/lat; holes respected)
+  function inRing(ring, x, y) {
+    let inside = false;
+    for (let i = 0, j = ring.length - 1; i < ring.length; j = i++) {
+      const xi = ring[i][0], yi = ring[i][1], xj = ring[j][0], yj = ring[j][1];
+      if ((yi > y) !== (yj > y) && x < ((xj - xi) * (y - yi)) / (yj - yi) + xi) inside = !inside;
+    }
+    return inside;
+  }
+  function inPolygon(rings, x, y) {
+    if (!inRing(rings[0], x, y)) return false;
+    for (let k = 1; k < rings.length; k++) if (inRing(rings[k], x, y)) return false;
+    return true;
+  }
+  function featureAt(features, lng, lat) {
+    for (const f of features || []) {
+      const gm = f.geometry;
+      if (!gm) continue;
+      const polys = gm.type === "Polygon" ? [gm.coordinates] : gm.type === "MultiPolygon" ? gm.coordinates : [];
+      if (polys.some((p) => inPolygon(p, lng, lat))) return f;
+    }
+    return null;
   }
 
   /* ---------- utils ---------- */
