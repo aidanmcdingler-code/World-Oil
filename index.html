@@ -1,0 +1,322 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>World Oil Report</title>
+  <meta name="description" content="Aidan Dingler's report on world oil production, trade and demand, built from the JODI Oil World Database.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <nav class="topnav">
+    <a class="brand" href="index.html">World Oil</a>
+    <div class="nav-links">
+      <a href="index.html" class="active" aria-current="page">Report</a>
+      <a href="dashboard.html">Dashboard</a>
+    </div>
+  </nav>
+  <div class="ticker" id="ticker-tape"></div>
+
+  <header class="hero">
+    <p class="eyebrow">Financial Data Analytics · Data Website Project</p>
+    <h1>Who pumps, who buys, and what broke in 2020</h1>
+    <p class="byline">By Aidan Dingler · Data: JODI Oil World Database, <span data-f="first_month" data-fmt="month">January 2010</span> to <span data-f="last_month" data-fmt="month">July 2026</span></p>
+    <p class="summary">
+      This report follows monthly oil figures that <span data-f="countries">112</span> governments send to the Joint
+      Organisations Data Initiative (JODI): crude oil output, imports, exports, refinery runs and fuel demand, split
+      by product. The big story of the last fifteen years is the United States. Its crude output more than doubled,
+      it became the second-largest crude exporter among reporting countries, and China replaced it as the largest
+      crude importer. The data also shows how deep the April 2020 lockdown shock went: jet fuel and kerosene demand
+      fell by two thirds and did not fully recover until 2025. Several large producers, including Russia, Iraq, Iran and
+      the UAE, stop reporting partway through, so every total in this report is limited to countries with a complete
+      record, and each chart says which ones.
+    </p>
+  </header>
+
+  <main>
+    <section class="stats" aria-label="Headline numbers">
+      <div class="stat">
+        <span class="stat-value" data-f="us_prod_2025" data-value="13.573" data-decimals="1" data-suffix=" mb/d" data-scale="0.001">13.6 mb/d</span>
+        <span class="stat-label">US crude oil production, 2025 average (million barrels per day)</span>
+      </div>
+      <div class="stat">
+        <span class="stat-value" data-f="us_share_2025" data-value="33.2" data-decimals="1" data-suffix="%">33.2%</span>
+        <span class="stat-label">US share of crude output from the <span data-f="balanced_n">51</span> countries that reported every month, 2025</span>
+      </div>
+      <div class="stat">
+        <span class="stat-value" data-f="cn_imp_2025" data-value="11.593" data-decimals="1" data-suffix=" mb/d" data-scale="0.001">11.6 mb/d</span>
+        <span class="stat-label">China crude oil imports, 2025 average (million barrels per day)</span>
+      </div>
+      <div class="stat">
+        <span class="stat-value" data-f="covid_jet" data-value="-66.5" data-decimals="1" data-suffix="%">-66.5%</span>
+        <span class="stat-label">Change in kerosene &amp; jet fuel demand, April 2020 vs April 2019</span>
+      </div>
+      <div class="stat">
+        <span class="stat-value" data-f="rows" data-value="162141" data-decimals="0">162,141</span>
+        <span class="stat-label">Rows in the cleaned data set (country × month × product)</span>
+      </div>
+    </section>
+
+    <section class="globe-section" aria-label="Interactive globe">
+      <div id="globe" role="img" aria-label="3D globe shaded by 2025 crude oil production"></div>
+      <aside class="globe-panel" aria-live="polite">
+        <p class="eyebrow">Click a country</p>
+        <h2 id="gp-name">Crude oil production by country</h2>
+        <p id="gp-meta" class="muted">Drag to spin, scroll to zoom. Countries are shaded by their <span data-f="last_full_year">2025</span> average crude output. Grey means no complete year of production data in JODI.</p>
+        <div class="globe-legend"><span>Low</span><span class="ramp"></span><span>High</span></div>
+        <div id="gp-stats"></div>
+        <div class="chart-box short"><canvas id="gp-trend" aria-label="Production trend"></canvas></div>
+        <h3>Recent oil news</h3>
+        <ul class="news" id="gp-news"><li class="muted">Select a country to see its latest oil headlines.</li></ul>
+        <p class="chart-source" id="gp-news-updated"></p>
+      </aside>
+    </section>
+
+    <section class="finding" id="f1">
+      <h2>The US more than doubled its crude output and passed Saudi Arabia in <span data-f="us_pass_sa_year">2018</span></h2>
+      <p>
+        US crude production averaged <b><span data-f="us_prod_2010" data-fmt="n">5,485</span> thousand barrels per day (kb/d)</b> in 2010
+        and <b><span data-f="us_prod_2025" data-fmt="n">13,573</span> kb/d</b> in 2025, a rise of <b><span data-f="us_prod_growth">147</span>%</b>.
+        Shale drilling in Texas, New Mexico and North Dakota drove the gain. In <span data-f="us_pass_sa_year">2018</span> the US
+        overtook Saudi Arabia, which averaged <span data-f="sa_prod_2025" data-fmt="n">9,482</span> kb/d in 2025.
+      </p>
+      <p>
+        Canada, the third line on the chart, also grew steadily on oil sands output. Russia would sit near the top of this chart,
+        but it stopped reporting to JODI after March 2023, so it is left out rather than shown as a false drop.
+      </p>
+      <div class="chart-card">
+        <h3>Crude oil production, annual average (kb/d)</h3>
+        <p class="chart-sub">United States, Saudi Arabia and Canada, 2010–2025</p>
+        <canvas id="c-us-leaders"></canvas>
+        <p class="chart-source">Source: JODI Oil World Database, crude oil, production flow.</p>
+      </div>
+    </section>
+
+    <section class="finding" id="f2">
+      <h2>One in three barrels from the <span data-f="balanced_n">51</span> steady reporters now comes from the US</h2>
+      <p>
+        <span data-f="balanced_n">51</span> countries reported crude production in every month from 2010 to 2025. Together they averaged
+        <b><span data-f="bal_total_2025" data-fmt="n">40,941</span> kb/d</b> in 2025. The US share of that total rose from
+        <b><span data-f="us_share_2010">15.6</span>%</b> in 2010 to <b><span data-f="us_share_2025">33.2</span>%</b> in 2025.
+      </p>
+      <p>
+        The other 50 countries produced slightly less in 2025 than in 2010: <span data-f="others_2025" data-fmt="n">27,368</span> kb/d vs.
+        <span data-f="others_2010" data-fmt="n">29,576</span> kb/d (<span data-f="others_change">-7.5</span>%). All of the group's growth came from the US.
+        This is not a world total: Russia, Iraq, Iran, the UAE and Brazil are missing because their JODI records have gaps.
+      </p>
+      <div class="chart-card">
+        <h3>Crude oil production of the <span data-f="balanced_n">51</span> countries reporting every month (kb/d)</h3>
+        <p class="chart-sub">United States vs. the other 50, annual average</p>
+        <canvas id="c-us-share"></canvas>
+        <p class="chart-source">Source: JODI. Countries with a production value for all 192 months, January 2010 to December 2025.</p>
+      </div>
+    </section>
+
+    <section class="finding" id="f3">
+      <h2>The US went from almost no crude exports to the second-largest exporter among JODI reporters</h2>
+      <p>
+        The US exported just <b><span data-f="us_exp_2010" data-fmt="n">42</span> kb/d</b> of crude in 2010, when a 1975 law still
+        banned most crude exports. Congress lifted the ban in December 2015, the year exports averaged
+        <span data-f="us_exp_2015" data-fmt="n">458</span> kb/d. By 2025 they reached <b><span data-f="us_exp_2025" data-fmt="n">3,931</span> kb/d</b>.
+      </p>
+      <p>
+        Among countries that reported exports in all twelve months of 2025, only Saudi Arabia shipped more
+        (<span data-f="sa_exp_2025" data-fmt="n">6,434</span> kb/d), putting the US at number <span data-f="us_exp_rank_2025">2</span>.
+      </p>
+      <div class="chart-card">
+        <h3>US crude oil exports, annual average (kb/d)</h3>
+        <p class="chart-sub">2010–2025</p>
+        <canvas id="c-us-exports"></canvas>
+        <p class="chart-source">Source: JODI, crude oil, total exports.</p>
+      </div>
+    </section>
+
+    <section class="finding" id="f4">
+      <h2>China overtook the US as the biggest crude importer in <span data-f="cn_pass_us_imp_year">2017</span></h2>
+      <p>
+        China's crude imports grew from <b><span data-f="cn_imp_2010" data-fmt="n">4,805</span> kb/d</b> in 2010 to
+        <b><span data-f="cn_imp_2025" data-fmt="n">11,593</span> kb/d</b> in 2025, up <span data-f="cn_imp_growth">141</span>%.
+        Over the same years, US imports fell from <span data-f="us_imp_2010" data-fmt="n">9,184</span> kb/d to
+        <span data-f="us_imp_2025" data-fmt="n">6,167</span> kb/d as home production replaced foreign barrels.
+      </p>
+      <p>
+        The lines cross in <span data-f="cn_pass_us_imp_year">2017</span>. China's refineries processed <span data-f="cn_runs_2025" data-fmt="n">15,839</span> kb/d
+        of crude in 2025, <span data-f="cn_runs_pct_us">97</span>% of the US figure (<span data-f="us_runs_2025" data-fmt="n">16,365</span> kb/d), and most of that crude is imported.
+      </p>
+      <div class="chart-card">
+        <h3>Crude oil imports, annual average (kb/d)</h3>
+        <p class="chart-sub">China vs. United States, 2010–2025</p>
+        <canvas id="c-imports"></canvas>
+        <p class="chart-source">Source: JODI, crude oil, total imports.</p>
+      </div>
+    </section>
+
+    <section class="finding" id="f5">
+      <h2>In April 2020 jet fuel and kerosene demand fell by two thirds</h2>
+      <p>
+        In the <span data-f="demand_n">40</span> countries that reported demand for every refined product in every month, total product demand in
+        April 2020 was <b><span data-f="covid_all">-21.9</span>%</b> below April 2019. The drop depended on what the fuel is used for.
+        Kerosene and jet fuel fell <b><span data-f="covid_jet">-66.5</span>%</b> as flights stopped. Gasoline fell
+        <b><span data-f="covid_gasoline">-35.1</span>%</b> as people stayed home.
+      </p>
+      <p>
+        Diesel, which moves freight, fell a smaller <span data-f="covid_diesel">-19.1</span>%. LPG and naphtha, used for cooking
+        and to make plastics, barely changed.
+      </p>
+      <div class="chart-card">
+        <h3>Change in demand, April 2020 vs. April 2019 (%)</h3>
+        <p class="chart-sub"><span data-f="demand_n">40</span> countries with complete demand records</p>
+        <canvas id="c-covid"></canvas>
+        <p class="chart-source">Source: JODI, refined products, total demand. Same month a year earlier removes seasonal effects.</p>
+      </div>
+    </section>
+
+    <section class="finding" id="f6">
+      <h2>Air travel took five years to return: jet fuel demand first matched 2019 in <span data-f="jet_first_back" data-fmt="month">June 2025</span></h2>
+      <p>
+        Comparing each month to the same month of 2019 shows how slow the recovery was. Across 2021, kerosene and jet
+        fuel demand was still <b><span data-f="jet_2021">-32.4</span>%</b> below 2019. The gap narrowed each year, but the first month
+        at or above its 2019 level was <b><span data-f="jet_first_back" data-fmt="month">June 2025</span></b>.
+      </p>
+      <p>
+        Road fuels bounced back much faster. In 2022, average gasoline demand was only <span data-f="gasoline_2022_vs_2019">-2.3</span>% below 2019,
+        and diesel was <span data-f="diesel_2022_vs_2019" data-fmt="signed1">+2.8</span>% above it. Jet fuel lagged because long-haul and international travel reopened last.
+      </p>
+      <div class="chart-card">
+        <h3>Kerosene &amp; jet fuel demand vs. the same month of 2019 (%)</h3>
+        <p class="chart-sub">Monthly, January 2020 to December 2025, <span data-f="demand_n">40</span> countries</p>
+        <canvas id="c-jet"></canvas>
+        <p class="chart-source">Source: JODI, kerosene (which includes jet kerosene), total demand.</p>
+      </div>
+    </section>
+
+    <section class="finding" id="f7">
+      <h2>Saudi Arabia is the swing producer: it cut output <span data-f="sa_cut" data-fmt="abs1">15.4</span>% from 2022 to 2024</h2>
+      <p>
+        Saudi output moves with OPEC+ policy more than with geology. In April 2020, during a price war with Russia,
+        it pumped a record <b><span data-f="sa_peak" data-fmt="n">12,007</span> kb/d</b>, then cut hard when the OPEC+ pandemic deal took effect in May.
+      </p>
+      <p>
+        After averaging <span data-f="sa_2022" data-fmt="n">10,588</span> kb/d in 2022, it made voluntary cuts in 2023 that brought the 2024
+        average down to <b><span data-f="sa_2024" data-fmt="n">8,955</span> kb/d</b>, a <span data-f="sa_cut" data-fmt="abs1">15.4</span>% drop,
+        to support prices while US output kept climbing.
+      </p>
+      <div class="chart-card">
+        <h3>Saudi Arabia crude oil production, monthly (kb/d)</h3>
+        <p class="chart-sub">January 2010 to December 2025</p>
+        <canvas id="c-saudi"></canvas>
+        <p class="chart-source">Source: JODI, crude oil, production flow.</p>
+      </div>
+    </section>
+
+    <section class="finding" id="f8">
+      <h2>Venezuela lost <span data-f="ve_drop" data-fmt="abs0">80</span>% of its output by <span data-f="ve_low_year">2020</span></h2>
+      <p>
+        Venezuela has the world's largest proven reserves, yet its production fell from
+        <b><span data-f="ve_2010" data-fmt="n">2,776</span> kb/d</b> in 2010 to <b><span data-f="ve_low" data-fmt="n">558</span> kb/d</b> in
+        <span data-f="ve_low_year">2020</span>. The state oil company ran short of money and maintenance, and US sanctions from 2019 cut off its
+        main buyer and its supply of diluents.
+      </p>
+      <p>
+        Output has partly recovered since, to <span data-f="ve_2025" data-fmt="n">1,081</span> kb/d in 2025, still less than half the 2010 level.
+      </p>
+      <div class="chart-card">
+        <h3>Venezuela crude oil production, annual average (kb/d)</h3>
+        <p class="chart-sub">2010–2025</p>
+        <canvas id="c-venezuela"></canvas>
+        <p class="chart-source">Source: JODI, crude oil, production flow.</p>
+      </div>
+    </section>
+
+    <section class="finding" id="f9">
+      <h2>The North Sea split: Britain's output halved while Norway's rebounded <span data-f="no_rebound">32</span>%</h2>
+      <p>
+        UK crude production fell from <b><span data-f="gb_2010" data-fmt="n">1,202</span> kb/d</b> in 2010 to
+        <b><span data-f="gb_2025" data-fmt="n">599</span> kb/d</b> in 2025 (<span data-f="gb_drop">-50</span>%), as old fields ran down and few new ones were approved.
+      </p>
+      <p>
+        Norway bottomed out at <span data-f="no_low" data-fmt="n">1,431</span> kb/d in <span data-f="no_low_year">2019</span>. The giant Johan Sverdrup
+        field started that October, and by 2025 Norway was back to <b><span data-f="no_2025" data-fmt="n">1,890</span> kb/d</b>,
+        <span data-f="no_rebound">32</span>% above its low.
+      </p>
+      <div class="chart-card">
+        <h3>Crude oil production, annual average (kb/d)</h3>
+        <p class="chart-sub">Norway vs. United Kingdom, 2010–2025</p>
+        <canvas id="c-north-sea"></canvas>
+        <p class="chart-source">Source: JODI, crude oil, production flow.</p>
+      </div>
+    </section>
+
+    <section class="stocks" aria-label="Live oil company stocks">
+      <h2>Oil majors and crude prices, live</h2>
+      <p class="muted">A live market view for context. Prices come from TradingView and are not part of the JODI data or any number above.</p>
+      <div id="tv-chart"></div>
+    </section>
+
+    <section class="methods" id="data">
+      <h2>About the data</h2>
+      <dl>
+        <dt>Source</dt>
+        <dd>
+          The <a href="https://www.jodidata.org/oil/database/data-downloads.aspx">JODI Oil World Database</a>, downloaded as yearly CSV files
+          for 2010–2026: the "primary" files cover crude oil and NGL, and the "secondary" files cover refined products. JODI is run by APEC,
+          Eurostat, GECF, IEA, IEF, OLADE, OPEC and the UN, and collects monthly figures reported by national governments.
+        </dd>
+        <dt>What one row is</dt>
+        <dd>
+          One country, one month and one product, for example "United States, 2024-06, Crude oil". The cleaned file
+          (<code>data/oil_panel.csv</code>) has <span data-f="rows" data-fmt="n">162,141</span> rows and <span data-f="columns">14</span> columns covering
+          <span data-f="countries">112</span> countries and <span data-f="months">199</span> months. Categorical columns: country, region, OPEC group, product
+          and product group. Numeric columns: production, imports, exports, demand and refinery intake, all in thousand barrels per day (kb/d),
+          plus closing stocks in thousand barrels.
+        </dd>
+        <dt>Rows dropped and why</dt>
+        <dd>
+          <ul>
+            <li>The raw files have one row per country, month, product, flow and unit (15,163,200 rows). Only the flows above were kept, in kb/d (flows) and thousand barrels (stocks). The other units repeat the same values converted, and <code>CONVBBL</code> holds a conversion factor, not data.</li>
+            <li>Rows marked <code>-</code>, <code>..</code> or <code>x</code> (not available, not applicable) are dropped. A country-month-product row exists only if at least one number was reported.</li>
+            <li>JODI's total rows (<code>TOTCRUDE</code>, <code>TOTPRODS</code>) and the jet fuel row (<code>JETKERO</code>, which is already inside kerosene) are dropped so that products can be added up without double counting.</li>
+            <li>The findings use full years, 2010–2025. The 2026 months stay in the data file and the dashboard, but they are partial and fewer countries have reported them.</li>
+          </ul>
+        </dd>
+        <dt>How every figure is computed</dt>
+        <dd>
+          <ul>
+            <li><b>Annual average (kb/d)</b>: the mean of a country's 12 monthly values for that year. Every country-level series in the findings has a value in all 192 months, which <code>scripts/analyze.py</code> checks.</li>
+            <li><b>Percent change</b>: (new ÷ old − 1) × 100.</li>
+            <li><b>US share</b>: US annual average ÷ the sum of annual averages for the <span data-f="balanced_n">51</span> countries with crude production reported in all 192 months.</li>
+            <li><b>April 2020 change and the jet fuel recovery</b>: demand summed over the <span data-f="demand_n">40</span> countries that reported demand for all seven refined products in all 192 months, compared with the same month of 2019.</li>
+            <li><b>Export rank</b>: countries ranked by 2025 average crude exports, among those that reported all 12 months of 2025.</li>
+            <li>Production means well output for crude and NGL, and refinery output for refined products. Refined products are made from crude, so the two groups are never added together.</li>
+          </ul>
+        </dd>
+        <dt>Gaps to keep in mind</dt>
+        <dd>
+          JODI's public files have no crude production data for Russia after March 2023, Iraq after March 2024, the UAE and Qatar after 2018,
+          Brazil after 2022 or Angola after November 2023, and Iran's record is patchy. These countries are left out of totals instead of being
+          counted as zero. Regions and OPEC groups (OPEC, OPEC+ partner, non-OPEC) use 2025 membership for every year. Angola, which left OPEC in 2024, is listed as non-OPEC.
+        </dd>
+        <dt>Reproduce it</dt>
+        <dd>
+          <code>scripts/download_jodi.py</code> → <code>scripts/build_panel.py</code> → <code>scripts/analyze.py</code>. The page reads its numbers from
+          <code>data/report.json</code>, which the last script writes. The globe's headlines come from Google News via a scheduled GitHub Action
+          (<code>scripts/fetch_news.py</code>) and are not used in any figure.
+        </dd>
+      </dl>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>Aidan Dingler · Financial Data Analytics · Data: JODI Oil World Database · <a href="https://github.com/aidanmcdingler-code/World-Oil">Source on GitHub</a></p>
+  </footer>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/globe.gl@2.46.2/dist/globe.gl.min.js"></script>
+  <script src="assets/js/theme.js"></script>
+  <script src="assets/js/common.js"></script>
+  <script src="assets/js/report.js"></script>
+</body>
+</html>

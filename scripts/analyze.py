@@ -69,8 +69,11 @@ def main():
 
     # 2. US share of the balanced set
     share = us / bal_total * 100
+    others = bal_total - us
     facts |= {"us_share_2010": r(share[2010], 1), "us_share_2025": r(share[2025], 1),
-              "bal_total_2025": r(bal_total[2025])}
+              "bal_total_2025": r(bal_total[2025]),
+              "others_2010": r(others[2010]), "others_2025": r(others[2025]),
+              "others_change": r(pct(others[2025], others[2010]), 1)}
     charts["us_share"] = {"labels": [str(y) for y in us.index], "series": {
         "United States": [r(v) for v in us], "Other 50 countries": [r(v) for v in bal_total - us]}}
     assert len(full) == 51, "chart label 'Other 50 countries' assumes 51 countries"
@@ -92,6 +95,10 @@ def main():
               "cn_imp_growth": r(pct(cni[2025], cni[2010])),
               "us_imp_2010": r(usi[2010]), "us_imp_2025": r(usi[2025]),
               "cn_pass_us_imp_year": int(cni[cni > usi].index.min())}
+    cnr = annual_avg(country("CN", "refinery_intake_kbd"), "refinery_intake_kbd")
+    usr = annual_avg(country("US", "refinery_intake_kbd"), "refinery_intake_kbd")
+    facts |= {"cn_runs_2025": r(cnr[2025]), "us_runs_2025": r(usr[2025]),
+              "cn_runs_pct_us": r(cnr[2025] / usr[2025] * 100)}
     charts["imports"] = {"labels": [str(y) for y in cni.index], "series": {
         "China": [r(v) for v in cni], "United States": [r(v) for v in usi]}}
 
@@ -111,6 +118,9 @@ def main():
               "covid_gasoline": r(covid["Gasoline"], 1),
               "covid_diesel": r(covid["Diesel & gasoil"], 1)}
     charts["covid"] = series(covid, 1)
+    by_year = dem.groupby(dem.index.str[:4]).mean()
+    for prod, key in [("Gasoline", "gasoline"), ("Diesel & gasoil", "diesel")]:
+        facts[f"{key}_2022_vs_2019"] = r(pct(by_year.at["2022", prod], by_year.at["2019", prod]), 1)
 
     jet = dem["Kerosene & jet fuel"]
     jet_vs_2019 = pd.Series({dt: pct(jet[dt], jet[f"2019-{dt[5:]}"])
@@ -146,7 +156,7 @@ def main():
         "Norway": [r(v) for v in no], "United Kingdom": [r(v) for v in gb]}}
 
     # Headline block / dataset description
-    facts |= {"rows": len(panel), "columns": panel.shape[1],
+    facts |= {"rows": len(panel), "columns": panel.shape[1], "last_full_year": int(LAST[:4]),
               "countries": int(panel["code"].nunique()), "months": int(panel["date"].nunique()),
               "first_month": panel["date"].min(), "last_month": panel["date"].max()}
 
