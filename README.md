@@ -4,11 +4,12 @@ A two-page data website on world oil production, trade and demand, built by **Ai
 Financial Data Analytics Data Website Project.
 
 - **Live site:** https://aidanmcdingler-code.github.io/World-Oil/
-- **Report** (`index.html`): headline numbers, nine findings with charts, an interactive 3D globe with country
+- **Report** (`index.html`): headline numbers, nine findings with annotated charts, an interactive 3D globe (year slider,
+  play button, production shading or export/import columns) with country
   news, a live oil-stock chart, and a section on the data and methods.
 - **Dashboard** (`dashboard.html`): loads the full data file in the browser, with filters (years, region, country,
   OPEC group, product group, product), switches for variable, measure and breakdown, five summary numbers, four
-  charts, a clickable globe, a data table and a reset button.
+  charts, a clickable globe, a data table, a reset button and shareable links (the current view is saved in the URL).
 
 ## Data
 
