@@ -145,6 +145,7 @@
         ["BP", "NYSE:BP|1M"], ["TotalEnergies", "NYSE:TTE|1M"], ["WTI crude", "TVC:USOIL|1M"]],
       chartOnly: false, autosize: true, width: "100%", height: "100%",
       showVolume: false, chartType: "area", scalePosition: "right", scaleMode: "Normal",
+      lineColor: "#f5a524", topColor: "rgba(245,165,36,0.25)", bottomColor: "rgba(245,165,36,0)",
       fontFamily: "Inter, sans-serif", dateRanges: ["1d|1", "1m|30", "3m|60", "12m|1D", "60m|1W"],
     });
   }

@@ -19,8 +19,9 @@
     ["NYSE:PBR", "Petrobras"],
   ];
 
+  // the site is dark-first; only an explicit light theme switches the widgets
   function theme() {
-    return document.documentElement.dataset.theme === "light" ? "light" : "dark";
+    return document.documentElement.getAttribute("data-theme") === "light" ? "light" : "dark";
   }
 
   // TradingView widgets read their settings from the JSON inside their own <script> tag
