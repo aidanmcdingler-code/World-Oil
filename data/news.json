@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-25 16:19 UTC",
+"updated": "2026-10-25 20:50 UTC",
 "countries": {
 "AE": [
 {
@@ -9,9 +9,9 @@
 "date": "2026-10-25"
 },
 {
-"title": "UAE’s Post‑OPEC Expansion Push to Lift Oil Output Above 5 million Bpd Next year, IEA Says",
-"source": "EnergyNow.com",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYVhWV0dBMjNucnZ6RkhPZWhhZnNBZWVpZXN4WGdoUkFGYkEwODRnYUNqRlZ5LUxqcGp3VnBlelBFLXVhMTY4YlNBZVRvY1JPMERKeTEyazZqTkpnLXhxbVRfOHgtWnptakdkcmpaN2FYd2I5WGhxMnhBclp1VzVGTWxjOU1oSVdiU3hnWGQ5RjZEMHdMZy1qaUVRamN6bEVralBYLU9NUGFnVlBhZk4zaDB6TXA3dmtRTXc?oc=5",
+"title": "UAE's Ras Al Khaimah shuts all beaches as neighbours grapple with oil spill",
+"source": "Reuters",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeDMwaHJxZFNJTlFkYnB5UDY2SEdRcnRvdGRMSUNDR0I3cmhHT0xkTHQ4QjR5d241bnMtTm44UFIzdTZJYUJwcXZTcVFwN2FSVm80aTBWNmpXQVhrSTdtMnZHbWJiZTV1WFl1cGVyOHlJSmZ2d3gxZ0ZpTkpVOW0xTWFrNEFlTDczUGY1TVl0SmVKSVQ5cnN3S2NhU2dwZGZuYldJZDB3WWpaQTYzQ1RQeUdqNS1acnNqY002emRQMHV0TFU?oc=5",
 "date": "2026-10-24"
 },
 {
@@ -27,10 +27,10 @@
 "date": "2026-10-24"
 },
 {
-"title": "Crude Petroleum in United Arab Emirates Trade",
-"source": "The Observatory of Economic Complexity",
-"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPd3BYTWo4aDBXdHloOWlJeUxqZEswdEVNT290WHlVV3psRjRlSVktYmIwOWxRdWwxeVpQNVBNdTAxR3RYQkJ5SEdMdWw4SXJwM2pMZ2JLbGFEdlQyV2l2VkNwXzdvdkdoeDZjZkJvQW1aZWxGb1YwZWxPbzdOZkJQaQ?oc=5",
-"date": "2026-10-23"
+"title": "Emirates Oil Spill",
+"source": "Goshen News",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaHJNeUMzbUpBeXBpR0hVdGpuekhyLTlZNDNRbUE5blN2THhOcFdsYllxY19udlhrOE9QMHdYX3pId2xfZkdwMW4yR21BR2RGSTR5X21pQjNiZ1VGTnFISVBXYTRjX1NqeGRLdDdWZDZZUnp4SUFhYVFJS3E4ZFJfdkNLeVZvMDlkUFZMU3dzNkJScXFQVkJhS3VWOGtWZGZVcW5DYVJWcmhBNURBc1c3TFR3?oc=5",
+"date": "2026-10-24"
 }
 ],
 "BH": [
@@ -79,6 +79,12 @@
 "date": "2026-10-21"
 },
 {
+"title": "Iraq signs Syria crude trucking deal with Qatar’s UCC",
+"source": "Iraq Oil Report",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZUpRM3preUlra3RTOVhXQmY0LUd4bjVEY0RqUnRIeXFvZUlBczRvLUpsT1dOaVVFaFNSREdiajRUNGlvdUZ4bmVOSzk2SEpwNkZKMGg1M1hJb0pvSGwwZ1U0MGQ3dVJ6dl9HOENSRS1XRTVFOGR4eTQ4ZjItajJMMEtCZDdGb0w4TnlDVE1DZGtaR0h5YUV5ZXJn?oc=5",
+"date": "2026-10-21"
+},
+{
 "title": "Chevron Moves to Take Over Russia's Most Prized Iraqi Oil Field",
 "source": "Yahoo Finance",
 "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcG1zUXczUVVhcHlHb1hfSTNpbDZSZVlFYXJPMWVObTZMcnFkYjNEYVI3Yy1IU0ZwUUYyT3RMT2lHNHZYVEtENDI5TnFhODBzWTIzdW1Nc1hDc3BFRTIySlBxQWRFUEdITngyYmtfWGtwbDdfaVF5NllSUlVqQTYwaFhwM3drRk5UNGRxSldwRWRLUQ?oc=5",
@@ -89,12 +95,6 @@
 "source": "Crude Oil Prices Today | OilPrice.com",
 "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRlIzdmxNd1JsN0ladXRfVXBwRVdpYklMcnNuc1B0RkhFLXBjcUxxXzJnSjhpQ2hReGZJN1dGM1U3bGl2SFBRZ2c4OTV4Qld6RjZYaVB1Xy1KNk9mRmh5ZVlKYkVWTTVYWlJxaktESGZyRmV3eS1xSXlnbk92VUQtdzJZd25QejhBdV81dWNBTUI4U3p3eEwzaEtYLVpsTVVZR3Ixa1gyR0F6dW5IX2NDRTBUQ2tuSEdpaUlDR2dzZi3SAcYBQVVfeXFMTjBqVGtyQnlBVHZJOXlNVFh6a1J0WTVnZllVT1l5S1p3YWF4Mk1iX3p3U3BVNmJTVUZqS2hYZTdrTEVtUFppaV9XTlpXbnlXUDRGT0l0d0VKZVZaRDFXV2ZURGhWNzJtNzlwZHdrM2FvRHhBY2JfdExab2lEV3JrSV9nMGcwUmthSGp4dVlEMktsOFAwTGVpcUtyVnZKT0lWaFdZSGROejJ4bHRPbnlvUUIwZzVfNmhUdy13ZXkwWmZyTG93cUZB?oc=5",
 "date": "2026-10-19"
-},
-{
-"title": "Despite the Military Withdrawal, Trump isn’t Finished With Iraq",
-"source": "CounterPunch.org",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOUU5c29lNDRONnFwb1kwVlA5c3FnekFkWEtkekxVdWl5NU45RVVjaXE1LWNReUxRdmZLSDl2a0dUOGlSR0lrUlVhTUtURW9KVGRUNDN1TUR1X3lOM3pDTHI4aVNZQmlidXhqVDVnVDFRNTZCLXFYNTZxM3N6aGwxSUNCQm1wUnRoa2NkeVNod1E3N0l5R0NRcXZZRV9mcGVsVzdmSw?oc=5",
-"date": "2026-10-14"
 }
 ],
 "IR": [
@@ -103,6 +103,12 @@
 "source": "Fortune",
 "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcThmYms4bXZlN2dQbzljYlNjOEhYcFlwdUVxQ3RYaEg2RVVUY05uQ25Eb280YUp3aGwwdjRTVHljTWV1SXExWnhmUk0wSEVvdmlTNmpBTVBsb0Zodk82ejh2cTN1QVp4Mjk5LTZGRWRHa3kwVE9WVnhqcGwzUXk0eUpoUUlfcGRvMk1WTFc4UzZJeXdmV2llcTRDOGVpQ1RKbUZfUnFUdXlJODdMb09SQjdlU3gwMi1na0pjNnpYR1ZYV1FBQ3dUMjA1UUo?oc=5",
 "date": "2026-10-23"
+},
+{
+"title": "Analysts say Iran's floating oil tanker reserves fully exhausted",
+"source": "The Jerusalem Post",
+"link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14a2gzeExlazA1ektFSGR4c2pGN0k2alozc0VHM3VEX2x3RWkyTXFzY0UybDFMZld6UEJQZ3ItM3lmMVBnTGN5UW5zcXVBOFYzVjZmUWZVUEc1UFowcHpzWHV4eE1iRGVNQWc?oc=5",
+"date": "2026-10-22"
 },
 {
 "title": "Iran’s Fleet of Shadow Tankers Has Run Out of Oil After Monthslong U.S. Blockade",
@@ -121,12 +127,6 @@
 "source": "CNBC",
 "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOT2lpZ1dfaGpSckplSzdGU19iZVY0cTJUd01MN1dpd29hcUtKZkpWbWZFZy1jTWxNME1oRWt6dGV2aU5tbzZ5UVpRVzI3amt6VzlXQXlfVkRNU2o3LXNpcUJZV2pPOXczV0k5SENNdGU4UWcyaEN4bUZUejNtOThUbGVYbGQtN2tYQ1g1M1RKQdIBlAFBVV95cUxPN0Q4b3V0UEhjMWVzZ2RkLXJGLXNtdGRlS0hWSjNROE1HTjA4LXIwM1dtZ3o2NU5leWVBQkpEMXViX2o2SWQ1d2g3dmhScHVRN0JSRDcyV1JsYl80WVZCaFNXVjVjNFRENEx5RDQ1blBhTnUwcjZsQ0xRSmt5aFlPeGxCNF96aVJiQ2Y5UnhjWk5zZEF5?oc=5",
 "date": "2026-10-16"
-},
-{
-"title": "Oil prices gain on attacks in Saudi Arabia, Iran's new tactics to target tankers",
-"source": "Reuters",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON0hPaGRDOW9haXRKcUJ3WVU5dVdwSjB2ZzNMZTVWd0lRYV9ZUjRNRTI4VjVXeERGeW1XVU1GanZidjZneXhKeFh1dWM0OUJ6ZGltVXFXdHJNVk52MDN5M3NvRnhUUWN6aEFiSldFUWxfeHNPYmQ2R21JMGlhaUNaWEFNckc0T0ItSFpYcHA3MmM4UUdnTVd0VFg0NWhtbm91MllPWllha0pqdVBjZlRldDgxaG5PclVud0xtNQ?oc=5",
-"date": "2026-10-14"
 }
 ],
 "KW": [
@@ -195,34 +195,34 @@
 ],
 "QA": [
 {
+"title": "Oil Prices Drop 4% after Qatar, Bessent Raise Hopes of a US-Iran Deal",
+"source": "EnergyNow.com",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRjZicmtPeG9nUzk1bG9iLVhUS2ppUllzcGhEVDdGWUV5UkZtWUEwUUQyYmttTl81SFNxa3BOM09KaFpIU1VkcG84N0NhUW5oOTFNSkdHUHhka0drVDl6czUzdjRMd3F0djJhRWNNS3F2UEtrUDJNc3I2Z0dzWC1MS2g0Vk1kS0xoc2pQTHVQZ1pUTUl0dWw4?oc=5",
+"date": "2026-10-24"
+},
+{
 "title": "The Extraction & Global Impact of Qatar's Natural Gas",
 "source": "Britannica",
 "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSDQwNHdwWlRCT1c0V1pwVVoyYlVjQ1lKMmhjZ2NuaVR0dzRxYVRQOGtHVklQN3ZKcnpfNHhUZE52YUhma2FPRVd6WXctZERlcEVHLTk2ZmZGSEZVd2dHc0JSVENuOFBOZE80bjc0US1PWHgtbWprWkNqZllqNVJ3N2Z1b2V4c09tVVhwZEFCUQ?oc=5",
 "date": "2026-10-21"
 },
 {
-"title": "Iraq signs Syria crude trucking deal with Qatar’s UCC",
-"source": "Iraq Oil Report",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZUpRM3preUlra3RTOVhXQmY0LUd4bjVEY0RqUnRIeXFvZUlBczRvLUpsT1dOaVVFaFNSREdiajRUNGlvdUZ4bmVOSzk2SEpwNkZKMGg1M1hJb0pvSGwwZ1U0MGQ3dVJ6dl9HOENSRS1XRTVFOGR4eTQ4ZjItajJMMEtCZDdGb0w4TnlDVE1DZGtaR0h5YUV5ZXJn?oc=5",
-"date": "2026-10-21"
-},
-{
-"title": "US leaving oil-for-security approach, not Middle East: Envoy Tom Barrack",
-"source": "Al Jazeera",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeFczaWFtb0JFb3NVYWg5NE5fQU1CcEZwZGtkRzBmRXdRS3NKNWNUMXEtSUV4UVljMFoya2FvUTdNSVlUWTk2eWRPX0gtLTc2SE9EMGg1YzJ2MFhjeWZxRXp2Z3VYeUNrcDF6VDdPZE1sUUxGQmpuUFNvcnBqdUNoa1FVRGpTc0JnS2MzaERnNTlJdWxKNWpzeTRVbDRad0tPdGNPalQ3Rm02SlpPTEE5R0Jn0gG3AUFVX3lxTFBycmVoX3JzTEJOSVQ3QU56OE9Wa3l1S3JsUUZzU21WSzZ5aTIyOEhtYWxKaDlxVHNTd0FZV1haSlNXdDFPSFNCZ1lQNkNUR09oRXZ5cXdtRElwSDNsY0JRelhjSHhQbkV5UkNUYVpJNnVKTGROb2EtR1BfZXc4V0llNjVHZmFBMVJab1lXci02TkJPUlljd1U0OFBqVkRtV3c0cE01V20weFNyX21HR2d6aUY4VkdJNA?oc=5",
-"date": "2026-10-20"
-},
-{
-"title": "Qatar warns global energy shockwaves from Iran war have yet to peak",
-"source": "Al Jazeera",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU0VIWU5qMkFsVzFscGFuVFV1VEtOTWx1Wmg2OE1fQmZCalJJbkJNMHJid1JBUjJTLXVXYThDMEQyMVc4dGlMakxOTEFudklpU2NhdDU1Vm1xZDB1NXZ3RVU5em5IV01uTVI4T1RjMFhVbW12bV95Qy1EcnVkdURuT0Zyd3VtYVI3M25vN0RIUjVNeHJkU1dPbzYtUWw0RmJ5UWttS2g1b1NxVzUyQVHSAbMBQVVfeXFMT0V1ZDUxUjhWYW9iOENYbi1sNFhfSXlNSi12ZDZRbWJ6ZTVJWjRyd3BvUnBJZ2xRLWpSTUlnLWNVd0ZNZ0xTU2EzVUVsTWpNcXlJbkxLXzE4LVJ1OHNFM0NTQ1dxYy1IRUJLSGlqenFYeGVCVjhGVU5GYW1vSldqVE1weWRpRjhjeHk0QVFxVFE0aTBzN2hSQ2ZWYkd1YnlVaEYzQzN4TXIxcDFnNE5FMlJMTzA?oc=5",
+"title": "Qatar Warns War Will Force Gulf to Stop Energy Exports ‘Within Days’",
+"source": "EnergyNow.com",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbmcxdVVyNF9vQWpPMU04LWRaVzN6Z3ZxaU5uMlFLNHlURTdHdU5yYTlmeThlN2dDOGJPdWNkYWY4T0NZT2hNTU9nWW5WaldLdUxrU3Z5OEYycVZkOF83NUM3U1dmakxNczZjTkNFVl9QTWh1Q3JtVUhJR042d2ZhUXdYY2FHSjFubXJSMkhwUHVEQW1ORzI5RlN6ZjU3QQ?oc=5",
 "date": "2026-10-19"
 },
 {
-"title": "Qatar Rewrites Its Gas Playbook With Old Tankers and New Tactics",
-"source": "Bloomberg.com",
-"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMEQ4Z2ctb2ZRQmVfTVVNcFJTaWpmYkdjS2NsWXVWT0FUdnRlS0YyczNUdVRvbk1IVm5ZSzVBTlFFdlIxeWN1TE1IMjU2Sng3ZGpkOU42aGFtQ0xQelJBN2ZkaUp6eUZoTGRfYWwzcXBvaTlCRFJnY1NfaFF1Sms5eG5TX2tGNy1rNmJKdTVSRU54QW9JVzl4NE9NRmFMNjNHcVkyNkFtMFhKUWc5TWFHc3JDdXdwbWFmbTRDVk1qRko?oc=5",
-"date": "2026-10-13"
+"title": "COMMENTARY: Middle East LNG industry remains hostage of Iran war: Bousso",
+"source": "Reuters",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLXNhN1pHTVFkMDM2M21lOXNtYnpXRzRvOEtkVU9pdG1YSXo2Q0M4eVNreElGaFI3RlZZV3FQZXBDZmYtTDYwNVJrbFZOY2VOZWFOR3l2TFpORElhZDhrUWxCRXM1RXpKbGowTVdsS3N0VUIwRFhJOF9wcFhlT1JvRE95dF9BNWluc25GZG1fMm9Gem9NVHN5SlJfNHFXdnprMkxwcktuTjFqOHBYb29lUXpLTE56MjRmbnp6OGU2MzNDNk0?oc=5",
+"date": "2026-10-12"
+},
+{
+"title": "Tanker attacked off Qatar as Iran claims route transporting oil through strait of Hormuz will be ‘closed’",
+"source": "The Guardian",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWGpBZ3dHeE0yV0pvMTR0VTBMdHpZQUZoWjdneXNyV0d3RWVoZm1TWFJ5cS16Y0lCRk5PM2dEdVp1dlp2ZEJwTkQ5SlR4dVVoYzVwa0pEdjd5OUJCUTZmaVdRTUk4alo5TTJFRlVVV2lkSzl3MU5PMER5WkR1T2tlYVdNNU15cGQxMVViendna1NZRjBxdnUxb2dMZHFua2ZzVFZ4YTJ4cUg?oc=5",
+"date": "2026-10-08"
 }
 ],
 "SA": [
@@ -315,10 +315,10 @@
 "date": "2026-10-14"
 },
 {
-"title": "Oil facility near Yemen capital Sanaa hit by Saudi Arabia, Houthis say",
-"source": "France 24",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQk1ROHJ2ZHk2ZW9FVV9RR0M1LWx6a0VlYWE4ZC1hZ1dHMWFBZmVaOWFCdGJNekxiSnlobnU2ZXk3MjdBVzBhUm1odTRCakEtd09mSmlhQzdScGI2SWotckRoOUR6WmFYYy1Ccmt3MHp6LS0tTGxfSUtXRC1MQU53dVdvUnpjRlRfdzl1LUF1WWp0MTdZaVpKOWFHLTFNbU4wVVRGbEdFRmViYnNpV2F2QlVQTXppeUYxVVE?oc=5",
-"date": "2026-10-13"
+"title": "Iran-backed Houthis strike Saudi oil company Aramco’s headquarters, officials say",
+"source": "AP News",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ1ZldXo2RjBfTlF2NHFDZDQ3NnJnejktNnl3NVJVcnFVM1FjQ3FQN0x5SjFpZDRBeXplS0lTN2tUdWVZVWVKZm5LaUxkMVFQcmFRX1RRbFJIMm1zOTZDU3l2elZkb0twUkFnU3ZYM1pHYmRhYXRlVlluMHJkcWZITXRSQmMzNnF5d3dBcGl4a043MWkxUlZ5RmNqQ1l3UUxTbGRKOVdHSHhIQlRLZjlv?oc=5",
+"date": "2026-10-14"
 }
 ],
 "AO": [
@@ -355,9 +355,9 @@
 ],
 "DZ": [
 {
-"title": "Algeria's upper house approves military deployment to Niger",
-"source": "Saudi Gazette",
-"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTmtVcHZubmxQejRxZjlweHIzeTBuTjJSWkZTdlNtQXdLeEs2NWZYS3NsbWp0UnRNeXRHME5pVjFEaEIydkNjcjMwY1lfcndadzJNZ0VqNlhVazFadHVVMGY1dlZISW9CNkRYLVNUeUVyUkFhbFVmWl9UcWtjb0RtNmU1NmwyekRKYk1zMlJTVmpzS1RDSTVtRDF0eWtrQTdpd2JmaElta0h3c1AyMENFc2JlaUFSdWt5TUVFWUZfX3M2dFNBb3VqemRJcTBKNm1ZTmFtMFpnSQ?oc=5",
+"title": "Algerian parliament’s upper house approves troop deployment to Niger",
+"source": "Al Jazeera",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeW1MVnNJcGktN0x6czZ0dFdDX2hkYjMtcHVHZXRIYWRHMmY4TWx4Tm5iWUExeXpSOExkcWJLdkVZSXE4cVRKN1RZcWh3M3RZUmQ4UmM2alRjMTl0bXYxVTl1ODA0cmxwc2stckdtUnVfcE1Tbkl0eUdMQ21zdnhycGZfWHBRclRKU2lKZXVwWE95T1VCVTB1dGlCQXdCeVVMNXZqSjdmbnBBTTJNUlHSAbMBQVVfeXFMT25MNXRlbXIydnZEQjhSZ00tLWVTRklmT0xYcjNMS0wzdjctOW5lMkt2QzFnWUVHRy11YnZ0M2RsYWNHcEVQSDRWakRrd1lDbHdxSjd6WnZad3lvWk5McVU4d0otUUI2MHRlWllScnFnajducEJlRkdFOEVBRWgxbUhGRU9nWkNZYTZCVjNtUy01dTc1TXN0Vk1ZYV95dDhCODFwZmlVTEtRTTVUNFJxNVVuUGM?oc=5",
 "date": "2026-10-25"
 },
 {
@@ -367,22 +367,22 @@
 "date": "2026-10-23"
 },
 {
+"title": "EXCLUSIVE: France's urea supply from Algeria under threat as diplomatic tensions persist, sources say",
+"source": "Reuters",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMXY2aExCaWttQ0loM1VFWUd5QVlVYzUzMjdsSXUwZXJUZFllVmQtYmVlaE5qWVNwb0RlRERNTllxWkQxZ1h1bHdsY2ZpSFczMGJBZTd1Sl96enlpWW1MOHdRSkdwOXhXYXM1RkZTb2oydHpaN3dCemp1N1lHWGNxVlpBLVQ5aDU3TWJVdUFTOVNSc0lYR2p1Ynh0RHllZUQ5alczYzJrR051dkJhT0tjQUxONWh2enBJbEplM3pqbG9OZmt6?oc=5",
+"date": "2026-10-23"
+},
+{
+"title": "Why African Oil Cannot Solve the Global Fuel Crisis",
+"source": "The National Interest",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR0RZdEVzMmxMNFdZUzdzZmd1YVJzOFdLMGhxeFROMzMyNVhQc0FrbVdkTjF3QTlSV0kybVR6cmpsdzRzU09mUVNMSmZsQjZkZTdESXowSzVJV2ZMeFVMTm02b0EyQk85d3RDbnhra0NUamwzX0lpc0xJbGRPYTYwSnM2bWUxYTdUQ0dSREw1NUc5cEV4YXd1QWdTVHRTWU0?oc=5",
+"date": "2026-10-21"
+},
+{
 "title": "Algeria positions itself as Europe's hydrogen supplier with 3,300km pipeline backed by five nations",
 "source": "Businessfront",
 "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE93b3BaeVdoWmJORFBHUWFGamhBTWVYNlUzelBRbU4tYVpuTVVLTmw1aEhfbkFTeU5sWFB4Qmlrb0ZvUjlZQUFLY3FoZThUUTBJR05WZDZkMW0ySzU3MjdRcnB1OE5aMThEd0RPOWY2cGZDZmd0U1ZRMjRoWQ?oc=5",
 "date": "2026-10-21"
-},
-{
-"title": "Algeria Dispatches Energy Team To Niger’s Agadem Oil Field",
-"source": "Trendsnafrica",
-"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLXVta3ZsVkRpbzNJYUtsMkE0NDNfRlN6VmEwRnZuWjVGQ1hnUnNwZEJSRU1OSWtlWUZvWjRlbEpGS1NOcFdKS2RXLUN4TXBQZjhEU3V4cnVDcVBPeWJuOGpQNE5XZUt0M0NsbXdGRWlYSVdRWEd5bDZoVllqWVJ4U0NIWVdiOWdFbWtzRNIBlAFBVV95cUxOVGFMWnFFVlZubWt3SjdoMWg4TTZfWEZVR1NYdEQxLWh3c1c2RFYxeXpmbk12eWxVcFcyRGF1Qm5Uc0wtMmI4aC1CU2JWaGZobDN6VWVfZGw5aUlrUnpaSnNzSVJHa2FDUHhLYmNsUFJYVDBjaW9RRHEtWmhSZmg2LVY1V09LZmlROVZIX1JOZ2F0SG8z?oc=5",
-"date": "2026-10-21"
-},
-{
-"title": "Algeria remains Africa’s fourth-largest economy at $331.9 billion in latest rankings, maintaining a $136 billion lead over rival Morocco",
-"source": "Business Insider Africa",
-"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaXFVZll6S3M5aVFWNFVZTjJTTW00QTIyQk80cjllYXdGaHpSQUI3UXhiRTNjZC1hMjdNLVRhLVVLOVNRSnNaUXpERmxfMTVfZnRVM0owWGNrU3VrR1R5bUg5bVVOUjREbHdhMGREalQ3dkRCaG9qakhDUFZ3OHNTV1g1RE9QMm1KMExOOFZ2cHlpT1U5MXJFcUl6R1c4ZDhueXNUVEtJT3lSckk1Z2hSOTdROU9ZODdveGJPcmtGM3RtNWRzSmlENEFJUjQtVXJo?oc=5",
-"date": "2026-10-17"
 }
 ],
 "EG": [
@@ -419,9 +419,15 @@
 ],
 "GA": [
 {
+"title": "Borr Drilling’s Prospector 5 drilling rig sinks offshore Gabon",
+"source": "Offshore Magazine",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMVY0QVBVOXRQWEpJbHRZLXJ5TkZLOFN3YkFlRE5QYkc4LVhpLU04LXZpbDJvaEVUcUFxSkYtVHc4ZjRrX25vd2N0cDJ2SmtpaXZPS1Flc1N1LV9zU2RYTHRheC1UbEw3U0oyT3hIcGlWaDZnNkxrRG11azZNZWNMdTZGSVYwSWxSd1hfTngyQ1FnN2lmVm1XZ1pxdGptX0MyZzJyVFFEQmhTVHVBTEJ3Sm84Tkl2NThaWE1iOQ?oc=5",
+"date": "2026-10-25"
+},
+{
 "title": "Borr Drilling rig sinks off Gabon, one person dead and four missing",
-"source": "Internazionale",
-"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmJLeGNuMWV4c3IwWDNDSWg4T0tPeFlFVi02UkctbGdaLXFpd1J4YnR2TG91Nk1oemhsX2k0Q3VGLUJlSmhMM083a01kY1JTQmRGZ2NJXzg4VEpXWmlrWGhIUlBvLXEzeU5MSnRpLTZCNTFra3BRZUpKeUMxQlRXUTUzVXVwMkNfLUJRdmNxZzhodDhROWZ4RFg0T2hpb0ZRWm13M3ZFdlc5Xy1SS2tkd0dJdGVudzVrZ3Y1UlE0cFpJZk0?oc=5",
+"source": "Mining.com",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVEdnZFdJeTlnWXJLMUtTcnRJWG1pY2ZiWTRidlZoQ1NkWW1yR3MtT3lSZlEzcnViX1V6SFF5NzR4WUZjMnFqUDVIT2N2Sm9sQWxCNDM0cmw3Q0FpaFNvbHBFdTUwT0dZMHo3VTZrWDFNUlhCZUJwajJ4MGFFV2pCdkFsQ21KdlAzdTRUdmZid2RfSEtuLWRUYnhR?oc=5",
 "date": "2026-10-25"
 },
 {
@@ -431,54 +437,48 @@
 "date": "2026-10-25"
 },
 {
+"title": "Borr Drilling rig sinks off Gabon, one person dead and four missing",
+"source": "Internazionale",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmJLeGNuMWV4c3IwWDNDSWg4T0tPeFlFVi02UkctbGdaLXFpd1J4YnR2TG91Nk1oemhsX2k0Q3VGLUJlSmhMM083a01kY1JTQmRGZ2NJXzg4VEpXWmlrWGhIUlBvLXEzeU5MSnRpLTZCNTFra3BRZUpKeUMxQlRXUTUzVXVwMkNfLUJRdmNxZzhodDhROWZ4RFg0T2hpb0ZRWm13M3ZFdlc5Xy1SS2tkd0dJdGVudzVrZ3Y1UlE0cFpJZk0?oc=5",
+"date": "2026-10-25"
+},
+{
 "title": "Gabon - Oil, Timber, Mining",
 "source": "Britannica",
 "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzUnNETGJKWVpyaTgxeDIycFlnbHFTbXNWbHdfaGs4NW41eDJhSTJUWmk2Q3FOMWR2US1YUERkamQ3Vnk4UklLaG9VUXV3WXp1MUptVklOUC1JUQ?oc=5",
 "date": "2026-10-22"
-},
-{
-"title": "More oil found at permit offshore Gabon",
-"source": "Offshore Energy",
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUGJDRFF4SFRwb3Q2S0pncEJRdXhmSEhKOE5CdXNzdWdsNGZYTHBpQ3RyR3g0Q2NPNjBuOHNqWWhkZ3c0LUpEdXFSZjAtZHRtc2JpYUtEWEhJS01wbkZyTm1PYzRoLWVKckpBbURJUHdiWkd5S1pBMEhteVFWX0N1SU40TnQ?oc=5",
-"date": "2026-10-16"
-},
-{
-"title": "Panoro and BW Energy Strike Oil at Dussafu Marin Permit in Gabon - News and Statistics",
-"source": "IndexBox",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbExjVHM1dnlSdFN5M3duYWcxOXl2VklMTEs0NE5xWVpHTlBub2hTaVFqblpjSHM0anF6UTgwM1VUcElOXzNZeXdLTW00UmEySHlWZmFjQ3RqaWNBY3lFaGNrbTVXRm1aX3JVc2FIbUVMLUMyVGVWcmIxNm55NV9uRF9zcmthUUs4MlM3dXlpQkxqUEEwem40VzZMbDBuenpLR3F2cF9jTHAzWjNJU2xXTVQxaEVPSHM?oc=5",
-"date": "2026-10-16"
 }
 ],
 "GM": [
 {
-"title": "South Sudan Oil & Power 2026 To Bring Investors Directly To Juba’s Next Energy Opportunities.",
-"source": "TRIPURA STAR NEWS",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRWczT1BIM2hmMEo0eWhTdWNOWGd2Wnd1ZEVRcXZ6UTVkcVFoS1k0dUVTNVNxNmVrSi1SUnYzZVpuaUFaMnNYR3dTUHNjUTRUdEEzT2JtcS1NdmxtX25MVmlVM3V5RUc5UHpmM29QbkpJMlNjaWh3OVFYUDIxc0dZN1hOOVNPYlgzSE9iUUFsWi1JU1FFakJOS3NQOGM2elJpMEJodllxQ0hVYVlpQVJLMTh6NlpGUkVpZHhTVkVNZw?oc=5",
-"date": "2026-10-25"
+"title": "Hormuz Escape Route Suggests Ships Navigate on Iran’s Terms",
+"source": "EnergyNow.com",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcHVkVnBoNG90NW9mNExtbzNvNHZ1Z1NTdkNsN1FzMllEVmFRTlB2N05TbFQya3Zwc0dxd2NPXzd5WWNWcEpQLXJOR2hDbTJZOUQxWkh0aVdlcVFTN2I4OFNpelhfUkVoby14cDRGcnZnUWNpV09vVFc0eGhiUDZVTWZva0tIRE5iWUE4YVFTTElWZ0E?oc=5",
+"date": "2026-10-24"
 },
 {
-"title": "Disturbing Signals from The Gambia",
-"source": "THISDAYLIVE",
-"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3bEgtSzJkMG5Na2twTEFvdGFwZEl3TzVXWnhQcXl2LWxMRjY1S2tyVUtVMjVHbWhYWHJKWUFXeHhwQU4xbXRLNkFpNWFXUDBpWmVBc0xleHBUQ0pyRWNwdFIxUmpXeThrdnNoRlY1VXhvYldxZm9tX3hfWlNSY0E?oc=5",
-"date": "2026-10-25"
+"title": "Jollof contest: The Gambia silences West African rivals again",
+"source": "TRT Afrika",
+"link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94cFlFa0F1c0RrMVdRZTNSeXVGYTVlYy1QZDk0bGxUbmRTWkdPQ3hnb3ZkTTJIR0d0ZkhyZ3RMd1RWcmlDNmNKVXgzU2RocTJDMmYzUFpOOHJnWHg1dnZhQ0Z0TVM?oc=5",
+"date": "2026-10-24"
+},
+{
+"title": "Guinea-Bissau Natural Resources Minister to Join Petroguin Delegation at Mauritania, Senegal, The Gambia, Guinea-Bissau, and Guinea-Conakry (MSGBC) 2026",
+"source": "pan african visions",
+"link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPamljRVBiX2RZNGxDUGtlVk9lMS1DeWlyUWFBZ3lVcmhUX3Z0TkQ2bFdqSV96NEJKSjJNSHA3UFNpWjNWM20xLWQ0dnhuRm1XVHZOWEl5Vm9uSHU4azNtSDRGRHdlaEZwN1pxVjhQNG5iV2ZqbFZzMnI5Y0VvTWhkaC1XWGhaUlVuOTNsd1dPQjdKLXZ4Q2FzazRyeGlLNVFfQ3RvdU1FUElLV0tkOHRWZEZwbnF4TmJFYno2ZkpSMm9hbGd3R0ZYQWwyUVJhOW5Kc1VpSGJ5cGlhS29Md3hEN0lrSzFZQmdJR2VWeUFFZHc2dzZpdzZMTGYteHdFUGs3a2hkX3Z3VE5vTHpiUHlNZ0x3dw?oc=5",
+"date": "2026-10-23"
+},
+{
+"title": "After TotalEnergies, Idrissa Nassa targets another petroleum distribution deal",
+"source": "africabusinessplus.com",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX2xzWjlwZkYyak5vSUd3cHpKYUVlaFFyeWx5UlgzYVF6UVVDbk05YXFrWFJUeVdueWE2cDMxQmRvMUM3Y0RHMWI5eXJlUkhkaTltTTMzVzNDT0N5OWNwWnAza3JiSDR4anZLWjBxUXVJNk14VW83NHVxY0pxVUwtWFh6RWxsaHRTZkVPeVQ3cE5mVzRhMHZPVk1IT2pmQlJudFZMMXRkaXpXcUMwbE9icFlDQm5VSksxNkMzOTJ5aUQ?oc=5",
+"date": "2026-10-23"
 },
 {
 "title": "Gambia (GMB) Exports, Imports, and Trade Partners",
 "source": "The Observatory of Economic Complexity",
 "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HUW85REkwTVBRZWt3c09IS3lVQVZtT0xRUEkxS21kRXRKQi1INS1Mck10UHVUWDBDcEZLMnJCWVFmTGpXUEFqODJHS2RjSXphanc?oc=5",
 "date": "2026-10-22"
-},
-{
-"title": "Iran accuses CENTCOM chief of oil smuggling in Hormuz",
-"source": "Yeni Şafak English",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZjFGNWQ1S1lucTh2VGlCT3JnTHlzSDJDbnB3alhyVGpHUzc3a3FDVUo4OTQzM291VnlFRTdnZ25ubEdkX000eGMyN1FoOU5MWFpTZ2RIeEdFZDBqZGlFVDg3MGhWLUdlZjlBeERhbFlsbUtwelUyWktfc1BIN3VMSGJrM2gzSU53TjFuQkxaM3JhbnhRaDZr?oc=5",
-"date": "2026-10-12"
-},
-{
-"title": "Food festival: Liberian chefs to showcase national cuisine in Gambia",
-"source": "APAnews - Agence de Presse Africaine",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLWNoSTBvandIbFBkeGRoZTJwYmZnQnhac1RjR1RyeGFCWVV5ZW1RdXcwTTFaRVdTbDloNWwzSkR3ckNpdU90bXRNc1lzRzlGMVJ6R3g3UWhyM1UxUkM4ejE2QmkyblN5U0pnYURmOGpOMDlPMHczZ01PVTZ4STdMUUFFZ2ljTVJNMDRENDZ6Nzl1Zw?oc=5",
-"date": "2026-10-12"
 }
 ],
 "GQ": [
@@ -533,25 +533,19 @@
 "date": "2026-10-22"
 },
 {
-"title": "Libya oil output falls at two fields after pipeline valve shut",
-"source": "Middle East Online",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQTdiOG02dGRxc3E5TkFINTJVa3NtRnhCRkhzdHVsdE1TSEo1bHBwc1BYMWxaOTNLeFhMLV92ZFJrMUNmV1hydzZiejAxUExWckhuZzhfcHJXdlloS29OQVU2OFZ3dmlIVjlaM041UVVpM0luSllBQ21Ga3ZLUEZnUkNZYlhjdEtOOU56d2ZwRThzRkE5RHNSTg?oc=5",
-"date": "2026-10-22"
+"title": "Pakistan turns to Africa's second-largest crude oil producer, Libya, as Middle East supply disruptions drive search for alternatives",
+"source": "Business Insider Africa",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVzZFX2Z2ZVF5eTY4cXlaMTBYSG9DclpxSjlmM0NXYlItUmJORnMyamdpVzJUanFuZjJGT2NEX2tOTkFGbVZyY0R4UDNBcHBrcXYyUF9HWC1kX1psNjRSeXFlVEhZdEN6RVZpNDdybHVBVlpTTWRTZ3l0elJXcG5PZFVlM1VQSDFVakhmc2dsaEdJdU5kWU13Qk1EN2JKWGJyVEVGdGhmUG9UM2JxbHBONllqaWxjY2tsSEhzYlRpRmhIR3loOE5KNzFQR0lYa2w0cXhv?oc=5",
+"date": "2026-10-12"
 },
 {
-"title": "NOC and Central Bank of Libya Disagree Over Oil Revenue Reporting",
-"source": "Libya Herald",
-"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPejBjNkFBQWFZUU1WTW95M1dndkpyNXE4SFRseDZaYnRYcGU4RUNPWjNxTGdMb2lqSzZDbG5wTXl6aEt2WXJDV1IyS0pLNnlJZ0N0NXEwX3h0d0xEVTNueGdId1FRTlJVSGZPMzBfTmRQblVacDNJRlFteXZ4T2NsQ25vcDVYeFRVNkN0YU1qekNrZG9hR3pvRk53Qm03d1pQc3RwTkttcUg3RUc3T2lXZU9RTEtoQTJZdHIzLTNlYjl1Z2lWdVRmRmRfWkpkMjV6c2lj?oc=5",
-"date": "2026-10-15"
+"title": "Pakistan Looks to Import Crude Oil from Libya to Diversify Supply",
+"source": "Crude Oil Prices Today | OilPrice.com",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQN0E5UzRERGtnal9GMUUzVFltWkNCVlZVT0pFRnVJbWRXbXNhRVN6RDg3UGc0VzJZNE1oMVlIV3ZUZ3ZUWDkwOXNGajR4aWtGbmhIWVlocWpLYXNNMnNUcjJ6UzdEVXBBV0w4cmVoaDA3VXBKTVBkaTRwR0FuYUUzWnoyUVlEdnpPSWZteG1BbFpuUUVhaC1LbFZVZnlxSE9sOGdEczVhTlFFWlhhalQtOXhtTmtkUWZJRHhxREZR0gHDAUFVX3lxTE1Jd2RkYjRHTUdqajJPeURFUGtSMDg2Z0R0UEZqWUZzMldtalRZR1RxOG1YUEJSbXc1SmRwVmtGQ1U3WG9YTkUtZ2FqR3BvRElSdXJNeTJ5cktxdXhXRFhHdU5XQUdOQi1PcklzYzA0bk0yXzNrUHNUMWkwWlVSbmhaS01Ybk80OW9wdU01NEhzX28zQVhQX2h1MEdrUkQ3Vy1HcXl2YzZBMDFiU0lNSmRQaFZvOGR1aGwyYmZXTkRwYkkxMA?oc=5",
+"date": "2026-10-12"
 }
 ],
 "MA": [
-{
-"title": "A kingdom for the taking: Israel’s harvest in Morocco",
-"source": "thecradle.co",
-"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbC1iZUFTR3JaZ1ZFZmJSeTJ4aHRfLVBLbjltaWRZYThDanUteXZ2eDNlSlZ4b1JVNVJGVTM5c0JWT1FKNnR4UzhiUTJOOEtCTGp5eEdnWjNvR01zRm9aaXc4YllsZ0Y5OHF6cVRoclN2ZFZ4Z0VDenJEaVFCZkFiekExS283OWdK?oc=5",
-"date": "2026-10-23"
-},
 {
 "title": "Algeria - Oil, Gas, Agriculture",
 "source": "Britannica",
@@ -575,15 +569,15 @@
 "source": "The Observatory of Economic Complexity",
 "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdGU4cHN6TWxMN1JhNDEyd2txWWpnaG1XMDNqS2tlb3FfWi1TTUh3NEQ3dmhOanFLSjRmY1NjUzdUdWdSNWF6aXRIUC1BMDMwLU9ScmdjcllUamhTU2pNOFRHQnJtRU50ZFItRGdBNWVVSjl6VEpaMGxkNFBiZ2JTUTUzcw?oc=5",
 "date": "2026-10-19"
+},
+{
+"title": "Predator Oil & Gas Announces £2.5 Million Placing to Fund Trinidad Production and Morocco Exploration",
+"source": "Yahoo Finance UK",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbXIyUEVBV0IzOGtlT2xVeGp3QmpwbXRLQTJnM001QkJ5OFdjZHdvMUJQd2RmRm80bmR1dWJjeUhrVk5Ka0o4M1BIUmlXM2U4NzJSQ2dHRGNZQlI4SUUzblhjaEJjMXBoX3Y2dnBlX1R0SlIycFpNejEzbnNpSTJRZ0cwRQ?oc=5",
+"date": "2026-10-19"
 }
 ],
 "MU": [
-{
-"title": "Experts Urge African Tech Firms To Prioritise Digital Security By Design",
-"source": "AfricaBrief",
-"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PQkVoRDhmZldfMC1TSDV4NmlQRWhqQmp1Ykx3WTdXNnhyMEhEOWhlX2N1dnRyR2pzVDUycTBZX3Bib3A3bk9QWFFJdW5STlRYTHV0Yy0waWNXQlc5QUt3QkIwQVJ3UTFXb2VUcDRYRElZUmFtQ0dyUw?oc=5",
-"date": "2026-10-22"
-},
 {
 "title": "Saudi Arabia signs four energy MoUs with Mongolia, Tanzania, Cyprus and Mauritius",
 "source": "Oil & Gas Middle East",
@@ -607,9 +601,21 @@
 "source": "Key Aero",
 "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85NGRRQ1ZiRUhTV2tCeUg2ZThMSTJKaDgzQWRER2xEMXQxQ1VwSUJBeE5MTUhEdEkteUZoTmVIRFExQllPTFJRU2hJVmZINXhCSkQ3bU5SZnI?oc=5",
 "date": "2026-10-18"
+},
+{
+"title": "Equatorial Guinea is expanding an ambitious malaria elimination plan",
+"source": "ABC News - Breaking News, Latest News and Videos",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdkIzOGFGRmZGYlNSdHBUMkF4LTRWa20xUEpTTEExY0V4d0ZPQ0tCaTMwS1BqSFZ1c2Y4SzZCVkNmWllKRTJ3QS1OSi1Mcm11aFdMMlRWeXgwbmJlWnBrSmFfcV9JS0wtdDhvcVdweWF5a2c4UC0ydk9ibFRwMXZEVkd2bm9xOUk0RTVERkNYak5UcGp2Q2lSY3ZFZW8yOXJkWl9WSFlGU0Jjb0lVOVBEQWwyONIBswFBVV95cUxOdkIzOGFGRmZGYlNSdHBUMkF4LTRWa20xUEpTTEExY0V4d0ZPQ0tCaTMwS1BqSFZ1c2Y4SzZCVkNmWllKRTJ3QS1OSi1Mcm11aFdMMlRWeXgwbmJlWnBrSmFfcV9JS0wtdDhvcVdweWF5a2c4UC0ydk9ibFRwMXZEVkd2bm9xOUk0RTVERkNYak5UcGp2Q2lSY3ZFZW8yOXJkWl9WSFlGU0Jjb0lVOVBEQWwyOA?oc=5",
+"date": "2026-10-18"
 }
 ],
 "NE": [
+{
+"title": "Algerian parliament’s upper house approves troop deployment to Niger",
+"source": "Al Jazeera",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeW1MVnNJcGktN0x6czZ0dFdDX2hkYjMtcHVHZXRIYWRHMmY4TWx4Tm5iWUExeXpSOExkcWJLdkVZSXE4cVRKN1RZcWh3M3RZUmQ4UmM2alRjMTl0bXYxVTl1ODA0cmxwc2stckdtUnVfcE1Tbkl0eUdMQ21zdnhycGZfWHBRclRKU2lKZXVwWE95T1VCVTB1dGlCQXdCeVVMNXZqSjdmbnBBTTJNUlHSAbMBQVVfeXFMT25MNXRlbXIydnZEQjhSZ00tLWVTRklmT0xYcjNMS0wzdjctOW5lMkt2QzFnWUVHRy11YnZ0M2RsYWNHcEVQSDRWakRrd1lDbHdxSjd6WnZad3lvWk5McVU4d0otUUI2MHRlWllScnFnajducEJlRkdFOEVBRWgxbUhGRU9nWkNZYTZCVjNtUy01dTc1TXN0Vk1ZYV95dDhCODFwZmlVTEtRTTVUNFJxNVVuUGM?oc=5",
+"date": "2026-10-25"
+},
 {
 "title": "Algeria Dispatches Energy Team To Niger’s Agadem Oil Field",
 "source": "Trendsnafrica",
@@ -633,12 +639,6 @@
 "source": "UA.NEWS",
 "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQm9wNEIyWThodk9zVEtFci11TDhSM21zQVpMLTQ3NllYcDU0MG5nd2tkazAyc3hiZHNKV24yZFJ1d2RKNjhJemhVeGFZM2NndFJhQ2E4RU9DMUtxSHo5NF80Z2ZQZGtHZUtOV0d4T21weU4xcUFDWHBxQkFsM0tOcm15V0pPNHlTXzV4MnBmaW9oVGF0TWQ5aUxrNHdvUTR4bGJR?oc=5",
 "date": "2026-10-19"
-},
-{
-"title": "Niger Gives Chinese Oil Firms 45 Days to Repatriate Over 3,000 Billion FCFA in Crude Export Revenue",
-"source": "Modern Ghana",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWEhfOVNwLXRZc3lCNVFHMl9BcGpiTGJBSFZKeU9KZ3IxeVcwc0I1emxzUVVsWG1tSVlsVmFJa2RhNHhvamxWS2lpdTZUeW1sNkkyU0lqUjlULUlFMlBfMTBXNHZMd3EtSkRlUFhOVHlGaXE4dFo1VHM5ZVBueHp1VFlyMUJENE4tTU5kS29XbnN1NFdXZFVYdlhxZ3g?oc=5",
-"date": "2026-10-16"
 }
 ],
 "NG": [
@@ -646,6 +646,12 @@
 "title": "In Nigeria, Solar Panels Are the New Wedding Gift",
 "source": "Bloomberg.com",
 "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMHh2dHRfZGlxRDFZMzc1SDBxMnIxRGlkMlRtZnhnZG9QZjNfeVFxR1VHbnNlS3F5WTZRRkE2N2dhUlRaNFR3eXJOOWNqMEhFZ0RYNG9WbGtrQ1lGN1pHbjhYUW80TTNzRW1ScXR2OUUyaUwwRXFHTGQ3SWxrSzM0TWJwTnN0TFFVVTFoZHUya1E0UU51bTB4dXV6VEwyZUtTMF95Z3hXSmgxV1NUMmRBZnoyN2dfcnBIdzUxS0F5OWxZNk9TZWc?oc=5",
+"date": "2026-10-23"
+},
+{
+"title": "Africa’s richest man Aliko Dangote’s $1.6 billion refinery IPO could multiply Nigeria’s active investors fivefold and connect its shares to markets across Africa",
+"source": "Business Insider Africa",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeG5hSUtEQTR2TXpWbldtYmFQRVB0VnFNRS1sTjRnN2UxZEVRS2MyN1ZNUFRmUkxtcnBxQ3ZLdjJWM0pIVVpCTDZOd2FsR0lENmpSTnMyc18tdWduODJmd0J1WjltVXBHZldLbjR0YTZ0SUV4V1pESnlLeVhaUUN0Wnl1a0RUcHZjY25BY1JtODh1WktIV1pOSEtCVmZFdTRfUnAyWHJiZFZYNER0eWh4ZG9VLTVJQ1IxZ0tUM2UwZTFmVjNXdFBqTkYyTEJncVBXMkE?oc=5",
 "date": "2026-10-23"
 },
 {
@@ -664,12 +670,6 @@
 "title": "Nigeria’s Dangote group buys stake in Kenya’s oil pipeline network",
 "source": "Africanews",
 "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTE1kTXJ3STgtUlZCbUszdWZIU0tnNXoybVF0eFNqVm85V2lYNkY1ZnFCaWxybHdFQ3FwOHFzZEZidE55aTBFQ0pIQUFkdmFVNEpNd1ozbU5LZ0d4WlFEMmJ5VDhEcU53bnpUY1pSd2s0cVJpX3lXY0NLd09BdDVyWXY4LWhQVTNxeFR1aXVVa3pGRmMxYXZMS3U0RV9xeVU4Y3Z4OXRn0gGrAUFVX3lxTFBVNk03Y290NEFNLXA1R3lwU3lRSzAwUlA5Q0laUVpINkdCS0NxcXBIeEhmMF9oREJWUXZnaUJ4TEI5aXJlRXBLWndEdUdmOG9ZaGxGZzhPd3VWN0EwMF95T1lfT2JqUkttWUVSZDZFeVdMbkdGd2hxRm9YUno4ZVl5TzRETlZVR2J2WEFmaVNSMWhjX1ZtdVVCbi1VLW56NmJZY3ZmRWNmN2Frcw?oc=5",
-"date": "2026-10-21"
-},
-{
-"title": "New oil bid winners to add 250,000 barrels per day to Nigeria’s output, regulator says",
-"source": "Businessfront",
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSUZCTzY5dkNuOHBnT2NDYkNFNll0b1VUWjNPZnRtVXZvblljSHNIOF82WUd5NU02S0F6WFp6d1haUHppUWtWb1M2WDVDNzBmNnY3S2ljQW1rZDlyaHBHSml5Mk5nSEVXY3R2aG5NYW9KYmhBYV9LOERvVzFEcWk4UmxudHE?oc=5",
 "date": "2026-10-21"
 }
 ],
@@ -803,12 +803,6 @@
 ],
 "AM": [
 {
-"title": "Oil refinery in Armenia: Will Iran-Armenia cooperation take place?",
-"source": "Radar.am",
-"link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wLTFvT18tcWo4RGpSRDVVcUZJSm1vQnpsRjF4c0ZneklISGN4Y1dwUWYybEE0THBNR2pwWXpFTjdDa3RscHlXRHJfZmRHRTlKalZCU1BNS1M4dw?oc=5",
-"date": "2026-10-24"
-},
-{
 "title": "Oil Prices Up - 23-10-26",
 "source": "Armenpress",
 "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LV0RLdnRfQmVPVjBuZzBZTUtMM1JKb3ZBMFlINUdGNGhwRHlxNHBGUE1hbGt4Nm9wZHUxcktOdjRmbDdLZTFkQXRZSUNsQ0djZmfSAVdBVV95cUxPS3gtY3FZekRvRHA0QWtDVURZMmR4NWs5S1hjT0lpSmxVb20tRnNGTWE0dkY1aWQ4SmdJT1RLbkYtRHo0N3ZiZ05KSlhZaFd1WTAwUnlLU0U?oc=5",
@@ -831,6 +825,12 @@
 "source": "Armenpress",
 "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Ua212Sk9lVUFUaHAtWmpjU2FVY3JPVm5YekthUlNiSWNyT250cGZmc3NmekF5U2pja21pX3RpSDRSbUJBVEJiMGt3a1UwUjR5RlHSAVdBVV95cUxPdVZ4eE1BVDFMcDdqYWZjX3RLdHBqX0lyekwtMUlveUxLZGdjaERQemhpVkJ4Z21UdDNycW1BWjNHamFsYW9WRHFPOEVfc1BpUGxHeThZbzA?oc=5",
 "date": "2026-10-22"
+},
+{
+"title": "FM: TRIPP infrastructure locations not yet determined",
+"source": "Armenpress",
+"link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwV2NKX1VFS0pZSVhrWFJIRnFEUU9QbWpDOFlnWVlzaUxoaXRjeHVmbHpFTndBcllYQ0VRejNZVzhpZnlzTWlsbEhoMFB0RC1QMlHSAVdBVV95cUxQTmtRWUJoQkVERDdCdDJaeFhzcWJSaDdaWFZKTUNJcnB1RE53Q3FYWUtyLXY4OXVDb0lhUlNGZXdVVnE1bUxzWmNadVlmNGtGdnNsbEhFTlU?oc=5",
+"date": "2026-10-21"
 }
 ],
 "AZ": [
@@ -879,36 +879,30 @@
 "date": "2026-10-19"
 },
 {
-"title": "Economic Freedom Report 2026: Belarus drops to 125th place while regional neighbors surge ahead",
+"title": "Belarus is buying more from abroad than it can sell — and the trade gap is widening",
 "source": "Belsat",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZHdKbVpjU1NxTG5oam5FMGtHYkMtVkxFdUVTTEptXzlYc2RlUnM3ZXgxNjI0ZG50SlNoSXQ4aE9OQ3ROUDV5V21keW9HQlBTazVtSlhxTTZ0WlVOZTdnbmRBam4wRnA0RVROLUk3ZENrYnRNcXk5cGdsZjBfcmNFTlRKbWVha0NMM3BsQkhZQlZpZTdvbkZ2YXlwSXluYVg2SFJFSEdkMk9reFJIOHN3cXhSRlEyUE9iMnMybWN4SUNZZw?oc=5",
-"date": "2026-10-19"
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcVZLcmg2VWRMejI4bjFySEluTEI2N1RJM28tMXgwMXUxcTRFOVE4am9LQW80QURPeXBxYW82QWNIXzlKSUptYk0wSUFhVEFJWGlPakRDdmVTLXZxUUlnTDlMRFd1RF9UN0ZqWVlYc1U3cXVsSFdXd3Z5N1B0TElrdmVYTXhveTZFcXlzWjJWcTFsQjRaR3J6dHZXZzZHck9ESnlBbUdvbW5Ob3ZONF81Ykxn?oc=5",
+"date": "2026-10-13"
 },
 {
-"title": "Belarus’s Finance Ministry Proposes Raising Tax Rates by 6.2% in 2027",
-"source": "REFORM.news",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWVNQVzVBaHVWcnpwb21pUHVjZ3hydmV2a29OM1Q3bmZ5X252ZTdKX3ZuVFFGSlBRVFhZUVJRUzUyTG9RN0JFOVVWemVMTFhGMlcyODA0ajRxU0NVMjU1aWJSY2hKcExFZU9fOHBRWldIcVltS0ZQcVBka2tmb1BpQzd3N0lYbUxEVzRuZVgyV1dTRXVWcmVZ0gGcAUFVX3lxTE51OUJoM0dDTDRqS3lfd2I2OFVEYllrc3hvaDdBNkdCNzZxeDd6Q09oeGxNeG9ja0F3WEszRW5GLWlCSzBXNlk2TGluMEwta1JaZkw1S2M3akVEckx4ZmZ0czhHbmFiVkRpVW9CRXg3XzBydmlhN0hMRzZiMVU4d3RPUzhtaWR0cVBTeFpfZGJ0eWF5UGpPUkIxRE1ycA?oc=5",
-"date": "2026-10-15"
+"title": "US offers Russia frozen assets, Lukoil sale, Belarus potash for partial truce",
+"source": "IntelliNews",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZGpXaUVuVE96X3hxODVyYXlpOFpLLU5VLS1pcENqeEwtMkdTc2RKNXhlWVlFYm1kY3FtY0l2bUlsTjNGMjhSRTF2THBhZnoxLW9ad3k2ZmhCUW9OR0VOa3hNQWpHbzRkQUktY0x4UVhjV1Bnd1QtejE4ekxGS2hCMEVwWkZkUDJmX3BVNGdUZDlkQmVFbVNTS29zS0I3TnBJbXJvbTdFVXpTLWtNOTlzTg?oc=5",
+"date": "2026-10-11"
 },
 {
-"title": "Poczobut Plans to Visit Belarus Again in December",
-"source": "REFORM.news",
-"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nd281OWR2cmVwNlkzTkVyT1NfeThFS0R6TEgyWGwxcGtHNDdlZmNzQ3VNZjgtU1BaTHhqNFZENWp0ckE2YmV0SHloMElZXzdoNEdLNWZDUkpCRXJXVzFWYlBpVXNaV1IxSnExZjZGNDBoS1N6MUpBUnlESWlLQdIBgwFBVV95cUxQNVg3cDZ1bTZOc0haaVoyeVNFWWd6SThTQ0JRVUc3STA2RUthWGZ5Y3kxTFE4UGE3ZURfaXZFcGNleDRJREMwMXVYVFJhQUo5LWIzeU9QV05POW9nd1kxanBUS09LRE1CLWtlY1kxWWpPWkxDbktPdkVWWVZLUTJncWp5NA?oc=5",
-"date": "2026-10-15"
+"title": "Zelenskyy refused to stop strikes on Russian oil refineries while Russia attacks Ukrainian energy infrastruct",
+"source": "Наша Ніва",
+"link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0tSEZydTVFX0pxRlBUbHlBOFVHc2lLRFc5SUZpNWFYdUNnRDhiaFdWVkc0NG96N3R4dnd4MEZ1NTVnd1hrUHfSAUtBVV95cUxQamZac0c3YnFtSzJCNDZwZXZaTjNXMzJkalFKbkJNN2oyMHNsbGZPdmZ1dmtHSkdqRWtHdzZxSWw1akVGT3dJenZ2OHM?oc=5",
+"date": "2026-10-11"
 }
 ],
 "GE": [
 {
-"title": "Gov. Brian Kemp announces Georgia will extend its gas tax suspension",
-"source": "The Atlanta Journal-Constitution",
-"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8yZ0NkbTAtTmw1VlVjeUdRdTRaS1o3bzBHNVdhNlBoenpwNVZ3anE5NE5Fbnd1c0FaeHd0YVI0MWVKRkRadVp4V0xrLVdZSjBpd0V3UEk0MUVTc21XV1BEdklQeF9SajJRcGNvX1U2OUVVSkZ3clZ0czMwWG4?oc=5",
-"date": "2026-10-24"
-},
-{
-"title": "Georgia Gas Prices Fall, Offering Drivers Some Relief",
-"source": "Lanier County News",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNelRzZ0tBS0xkSlZoZVRXenc2ZmlKV08tRWdxQ1FQQldEZF9aRzhvdml3amx6cFlOa2pmQWI3WklYOUIyLTF0OXFLUmtXUk5pSW42ZDJCTkVDYjhHblZKaHFlNWM0V0huOUdtY1RaVkd2VXRDMWhyX1BiSHlNMFFUcHBQMVhRXzF5MFFOVFZOYzVtLVRsamdCdUZOcXdKTzREZmIwakxR?oc=5",
-"date": "2026-10-22"
+"title": "Trump on High Gas Prices: 'We're Making a Freaking Fortune",
+"source": "Business Insider",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUktYbFZyUFJPSDFYa2VES1JLQ2RfWDBNLUF4WFVPY0tkUWhkQXFaVWtBT1JpLUJzaGppS1J1Unlib2lxR251ajhnbTRONUYyQUdTdUtMdXVBWERWeW43U0kyX2FPQXRUSXJCVnVQcHpSVHNGUWxYTEVYWTJHcm11TDhkOWs1SWVlWEx0RW5pZnFlMW1hZXlQT2lPRlMwd3Fu?oc=5",
+"date": "2026-10-25"
 },
 {
 "title": "Georgia GOP Candidate Jackson Loans $20 Million to Texas Oil Refinery Trump Touted",
@@ -927,6 +921,12 @@
 "source": "Cobb Courier",
 "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUFhTNl9GdEx3YzFBdmpHOG1FbS16SnlWTzlwWWkzOS1vSDg3QnpIOE5vTjVsTmtXX28tYjZ2R3VmQ3JWNTBzMFJmRTRVQ3dRbVNDZFdwaVRoUW1lTlVWd3lWSU55aTBudGZaN0ZLSENZZDJGai1GMUc1Zi1laHAyU2xYU1NmbFVW?oc=5",
 "date": "2026-10-19"
+},
+{
+"title": "Dade and Walker Counties Among Georgia’s Cheapest Areas for Gas as State Prices Continue to Fall",
+"source": "Discover Dade",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUEJXaVBPaFRQQUVxdTM1cFluUFJiUHBNWGJnbEI1WEM3Nzlwb2RtRDRXVWdmb1o1VTBIdVRLbFYtUlNselJqa2FoZ0lUcjkxNUl3VndYanRfMGw0MDdUUmlVRFBObko2Qjh0eVFHaUZMRWFiQ09uTnBKMUVEamxKVWYzMnhYWElSQ1NVRVZlUFpiT3BQWHNIb2lpWUZFeF82Q0h1WVNzWGRaaDRMN3B1a2JyT19Xd28tYXhwYWpqN2N3c25KYWlfenVwaw?oc=5",
+"date": "2026-10-19"
 }
 ],
 "KZ": [
@@ -935,6 +935,12 @@
 "source": "Eurasianet",
 "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10RTE4c082VmtoV0k0bUVLbjZvVDZqV3BFaGc2RGotOXZOQXBHRXpZWXFfU2JxUkYza0x5SzZXQkh6V2JlSHlqUThwRlZjQTYySXRncE1kVnVHdkoyTDVyUk5SMzRWQ1Q2MFE?oc=5",
 "date": "2026-10-23"
+},
+{
+"title": "Arbitration court invalidates $12B of Kazakhstan’s claims against oil firms - Bloomberg (XOM:NYSE)",
+"source": "Seeking Alpha",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZUVFWDlIWlZZalZYZmEydEhCMWkwdWx5M21PRFFrdVpyTERodkRxOGMzWUVUYi1SeEVYMlJybmhNLTR3ZHpvc21CSzRkNzBxZG04OHAzV0RKc0tGdVBPX1FJMDh4QVVwZy1DSFpnYnRyY0FneWdncWUyY3NxdjJaamZaYXpwWHNUc0doMWlrNkotZkRncmN1dFdfaHl5LURMOTU1OU9ORFowOGxSczZIUk5NYkE2by12MVZBZlp2VGU?oc=5",
+"date": "2026-10-22"
 },
 {
 "title": "Oil prices hit five-month high as Houthi attacks stoke Middle East supply fears",
@@ -953,12 +959,6 @@
 "source": "The Astana Times",
 "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdS1TVW9wSmQxbXc0TWlEcmo4Sy0xc2JHaVhacWJ5MUtYVEJZc1NBWm90eDZoV1R5MTZtY1M5QWVRNm9SY3ExVGNYOUgzbmZvWk8tWHdxN0MtdDVlRUYxNFB3a3FrRExueVR6SkVkZGdIMnNkNDVZaDdyT1NzSzFSd1hJbEwwRTFVVDhrRDNoMkVZLVA4UFFGYUdSMmpWYlhhZ1hLeDNjY3RYNVpzWlpoRFIyeG1CUzd4ODI0?oc=5",
 "date": "2026-10-19"
-},
-{
-"title": "What Kazakhstan Expects to Earn From Oil in 2027",
-"source": "The Astana Times",
-"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUmFjYjM5WWZxRl9hZFpUV25GVTlBN3dudmZpQ3NZX29DS1BTSmlXRU4wSlVHWXExSzlYUl9xMUl6Rk5TOVpqZ0lPeUVnTWg0YTl6Yld6cTZjNVljNXRXWUM2R1BEbWc4SmdxTDFxaUQxXzh4WE9NcFBSWm9WZEJLNGhXWVRUQjVh?oc=5",
-"date": "2026-10-15"
 }
 ],
 "MD": [
@@ -995,16 +995,16 @@
 ],
 "RU": [
 {
-"title": "Russia to send first diesel tanker to the US amid Trump deal",
-"source": "Al Jazeera",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYVNLV3NNMV9YOFZUUmFpMnlsMnpjT0dyNEp5bzItcVVIbDJMak1vS0FPOUJNMWRIYVo0NjZRYnljLUlGMklnMUROa0xoRm83QktPMEpGQWNvRlY4NWpVNWF0bHRqbVFTR25mQUYtVlQyRnRuQlliMlBDeldVSTJGcDNKYmlhaUt5YldSbV9LQ0pWcVVfSlZQX1g0dFZqcWlzY3E2ZnhWaVPSAa4BQVVfeXFMUFBiR2R6N096RS1PUVlfUllMVGcwaUZUWDkzQy1iUXVOYmY1X2xhZUNxbFZlaDUtZmV0THJCQ2FOVDNWQXYwb20xNFNmSHRheTdfdGl5QkR5ZTRwVlI4Mm0xRlg4ekxKREZuZXRuTk5nQTV5LS10cWpzQlRKTWZrRnEwX25rci1TcUhTaW02UlBGOFpWM3h2dFBFVDdzdzN5WWNmQWtWOHBONU5KRkpn?oc=5",
-"date": "2026-10-21"
-},
-{
 "title": "Oil Futures Pull Back as U.S. Waives Some Russia Sanctions",
 "source": "WSJ",
 "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTjUxeXdZWDd5c3MxTHBocWZqajJlQ2UwRTF6dW9KMXh6Q1ROdllKRGZiMV9kWUhvRW9CQzNQMU1LYk80U04zc0dLU2ppcFkySWRjenZFSm8wQjA5QmRPVXhPN3dhMTZPdnFiWjh1QjZ6VDR1ZDg5dFFlZ0t0STJzZlBrUzBMQ0N1R1RTQ2FkekRVaTlPN3lPYU94ZjZRdktUTlJEeTVqSEVFamNkc1FWelQ2MnRNb25OemZ5aUx3dl8?oc=5",
 "date": "2026-10-19"
+},
+{
+"title": "Ukraine targets Russia with more than 1,000 drones, striking oil terminal in St. Petersburg",
+"source": "ABC News - Breaking News, Latest News and Videos",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd2JBZHpJRmxSRjRlVUdPQ2t2M3pnd0tOREZENS14dm5PcmF6cVM4dTVELUthZ3NDeGpmLVdGbktVRWJrM3FSc3JUYkNqS3BId2w2WnlvVmxEa1BFbXBwNHZfSWczaDl2X2hwRXVzOVpBNmhBZTA0emRkWUl0ODBBOUJ5YldURk52T0lrVUZBN3Jjc25qN0tJSEdxRVBBSnhEblp0TTNZZ1VUOURERkHSAbMBQVVfeXFMUHFoVzBiVmVUUDl0QkJxczhQUXRSblU2R1JobUI1bHE0UGFLQkpIdlJlWXpFTHV0YUN6akUyNllaVmNYQTctS2FObGU1dy1zV3hXUUlpNkw3MVhlaU5aREp3QjBLTXBDNzE4Y1dqZ21WR3JwU0JrOXZZRlN4MWR6aDY4Q2dtSlVxVGpLODNMZVF0S01EZm84djNsMlQ1b1AzV0ZWU1JtM09sU1ZLbjdqZEV4UFk?oc=5",
+"date": "2026-10-18"
 },
 {
 "title": "Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?",
@@ -1019,17 +1019,17 @@
 "date": "2026-10-15"
 },
 {
-"title": "Opinion | Trump’s Democracy-for-Diesel Deal Shames Us All",
-"source": "The New York Times",
-"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1UNE9nejFYaUxZaVl1aGtKcXBPc0JvMFlkVjh4QmVuMUMxb253THRDUEJiTWlXLWdVS3cxUTJoTGdoZi01TEtlQkpOWUxNdFlUV1Z6clhuN3BISV8za3c2U3JvejI0Y3FSeWxlY25XemIyNWJpaHJiZGFn?oc=5",
-"date": "2026-10-15"
+"title": "How Will Trump and Putin’s Diesel Deal Impact Russia and Global Markets?",
+"source": "Carnegie Endowment for International Peace",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOGlGaGxMWGtDYzNNQ2xELVZNNkdRaWdHeHkycnoteU9rS3hYTTRkeFFXZE1PZkNyREhaTUgzUFB3NV9FcUlseV9PQzI0ZTNnZDFCcjFFZUxvRkpQWjFKZ0wwcnhLaU1TdExyR2wweDVGSVpaemkzTDZGb184WGFORVI0TnJOMEhqZ183VFpoYjA4cVE?oc=5",
+"date": "2026-10-13"
 }
 ],
 "TJ": [
 {
-"title": "Tajikistan and Pakistan seek to expand cooperation, increase trade turnover",
+"title": "Tajikistan, Tunisia discuss expanding bilateral cooperation",
 "source": "Trend News Agency",
-"link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pbDREMVJ1WldkSGRnbXJ5YVN1NmF6cGw1bDhqZUdtZTdvNXpfVEFGcHRySTZBT2JnTGhTcWt2WFRPa25mT216aXNUVE13NUFnZXVRZ1BqZ1pMNWNqZlhv?oc=5",
+"link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBUmxpQ1lPN0hOdjkzeFZNYXBsanlsc2sxa09YVm41aDBLMzRaOVlnZWQ2TEtnMkluaWtrOTI3Ui1YenJXNVZMeEt0R3hvTVU0ZWI2UWhZN1hHQmtEUjdZ?oc=5",
 "date": "2026-10-21"
 },
 {
@@ -1045,10 +1045,10 @@
 "date": "2026-10-20"
 },
 {
-"title": "Mishustin Says Russia Prioritizes Expanding Trade With Iran During Tajikistan Visit: how 5 outlets framed it",
-"source": "NewsCord",
-"link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPUlZURFhZa1ozRll1UUIzQ3NwTUU1RVFBcmk4U3BtVzZUTEVYZ2VoVkg0YlF5MktlaVh0Qy1mcnJXWTEtVk5USHlfNzE4RHBrS0kwemZKMHlob0s3RTlNQ2t5WVNKX0xIZUxOSFdTbEktSkNZNnh6QTNPZE1VOUt2Ri1pRi15VFlHUHFERW94NFpuU3lKZkdRTHRkRElrY0lIa0QyUVNNRk9FSmIyWnBsZzY5OUhBR2dyTFZBYnUzNzBLVEtjYjFvaFZ4R0JHcmNXY3VrNWtXWHNWN0duRUc4S2JBeTNsUzNCa1E?oc=5",
-"date": "2026-10-19"
+"title": "Iran interested in expanding trilateral cooperation with Afghanistan, Tajikistan",
+"source": "Pajhwok Afghan News",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZnMxOVFkNGZsb19Db0lrLTFtQkVKLVhQOUs2OHVxLTVfLS1KV0o5Tkp5dVoyZTh4ZUwxWWpyZUZXS2pOMHJFTVJEd1pKbjE5amZ0VkRuRTlYQkhCOWpFTk10M0VQXzNrUHBzeUNka1JXZExRXzYyWEFMdHRqdWxuaE5GQ3JpSlBhWkJlWmc5dGxOcFczMHN6TktIanpjaTZ0b0NOTkRtR2ZQSFRCZV9zYw?oc=5",
+"date": "2026-10-20"
 },
 {
 "title": "Rubio Heads To Central Asia As US Seeks Bigger Role In Region Dominated By Russia, China",
@@ -1062,6 +1062,12 @@
 "title": "Ukraine targets Russia with more than 1,000 drones, striking oil terminal in St. Petersburg",
 "source": "ABC News - Breaking News, Latest News and Videos",
 "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd2JBZHpJRmxSRjRlVUdPQ2t2M3pnd0tOREZENS14dm5PcmF6cVM4dTVELUthZ3NDeGpmLVdGbktVRWJrM3FSc3JUYkNqS3BId2w2WnlvVmxEa1BFbXBwNHZfSWczaDl2X2hwRXVzOVpBNmhBZTA0emRkWUl0ODBBOUJ5YldURk52T0lrVUZBN3Jjc25qN0tJSEdxRVBBSnhEblp0TTNZZ1VUOURERkHSAbMBQVVfeXFMUHFoVzBiVmVUUDl0QkJxczhQUXRSblU2R1JobUI1bHE0UGFLQkpIdlJlWXpFTHV0YUN6akUyNllaVmNYQTctS2FObGU1dy1zV3hXUUlpNkw3MVhlaU5aREp3QjBLTXBDNzE4Y1dqZ21WR3JwU0JrOXZZRlN4MWR6aDY4Q2dtSlVxVGpLODNMZVF0S01EZm84djNsMlQ1b1AzV0ZWU1JtM09sU1ZLbjdqZEV4UFk?oc=5",
+"date": "2026-10-18"
+},
+{
+"title": "Trump slams Zelensky after Ukraine defies US president with major attack on Russia",
+"source": "CNN",
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQa1NDR01YZm95TF9nSGhfZFdidlRLWDFfNkpVOTd0Ymg3V19laGlfQjUzTVhoWG85NlB3R0ZLN04yWGt3cHB2REszc0R1U3BCVTMzTUxIdnU1c3VTbFFNbm1qTWI1ZFloT0dSaS1JLWtJQnJOUkl5WHR3LXRxeWZpTndR?oc=5",
 "date": "2026-10-18"
 },
 {
@@ -1081,15 +1087,15 @@
 "source": "Military.com",
 "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY3E1cW1sNlA0ZDVyX0pGSHpZNFJtNFhfN2Q4eF80cXFUZ2l3c2h4THpBcVR0QllHLWhIWW5FblFiN0NGTndFM0tDUHU1NjhjR3ByTWJRNGNjaVhraHJJS2djSHBLZVFoOWRmRi1MMzA1dFhDVVc4Nl9US0FVaDZHVnpjeEFOaWN0SkFONVVMUC15WXBDSXlmMnZhU0dxOGRXaE1R?oc=5",
 "date": "2026-10-16"
-},
-{
-"title": "‘We’re done’: Ukraine resumes strikes on Russian oil refineries as anger at Trump mounts",
-"source": "NBC News",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOGlmVmZvMDNPb3VjRGN2ckNvY1ZaaHRxQmdENlI4U1hLX2tNZlVHR2lzdEt1cTN1RnZldFQwRlFzMW5jMkNsbXlYYVhmWktsRXBtdU1EN0E2ODFpWWNtenBSSjVIYS1QWHluTzFiT3BiV0pzbl9IVEZHcmNWZGEyUWUtYXFONDhBYURjdHc5WDdzZFlEZ042YVJkMUFiaTNQX0hTd01hZFdqMG9yNXIzQ0ZFUGs3cms?oc=5",
-"date": "2026-10-16"
 }
 ],
 "AL": [
+{
+"title": "New protests erupted in Albania despite fines of over $6,000",
+"source": "Українські Національні Новини (УНН)",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQkJ1T0tOVkRnU0xHVmJaLVlxZHpfemhLcXVOZG9DVi11UWxfaERhQ2R0TTFIWmQzdUlMU09XOEliVnZjNUFvTFFxN2Y1M25mbU9PSEozYXBHS3ItZU02Q2ZIVnFXR0NXcGw3T0tscldZNVd0SmNFaTVHV24xbm45dWtrT3ZCanpPTE5NRlpjONIBjwFBVV95cUxNQkJ1T0tOVkRnU0xHVmJaLVlxZHpfemhLcXVOZG9DVi11UWxfaERhQ2R0TTFIWmQzdUlMU09XOEliVnZjNUFvTFFxN2Y1M25mbU9PSEozYXBHS3ItZU02Q2ZIVnFXR0NXcGw3T0tscldZNVd0SmNFaTVHV24xbm45dWtrT3ZCanpPTE5NRlpjOA?oc=5",
+"date": "2026-10-25"
+},
 {
 "title": "US Signs Energy and AI Deals With Balkan Countries as Its Influence Widens",
 "source": "EnergyNow.com",
@@ -1101,12 +1107,6 @@
 "source": "In Defence of Marxism",
 "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1adWhnMmRncnhZYWp4WHNMSTdjVHNJTDNnTThROXBPeGpZUFcyQ29GSVA4WllocGFFMEh3UVJSZTBqLWY3MGlvY0VnaDRWVVl0NnFfeEpBMzR2cnlQWVdCYW5wamFZZU5UMHRld2lMN1hxOXFO?oc=5",
 "date": "2026-10-23"
-},
-{
-"title": "Europe Map Shows Countries Hit by Protests This Week",
-"source": "Newsweek",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOVA4TDhLUjktNjhpSFpjUUY5Vm90OF9GRDhpeTA3emRKd21xd3hyR3pYVVBxbnVsLVlCaC1kZmVPQUJieWRfSzFtWXg5RndFRXZ1cTRSRnVvSlBOUnhodzBHQXR1Y3FUTU9hNm1kN0ltcU55RXlHWHdkcTNqd1NEaDdGaUplYWtRLU9nUnVMYw?oc=5",
-"date": "2026-10-18"
 },
 {
 "title": "Trump's Oil Deal with Russia Causes Rift in His Administration",
@@ -1283,10 +1283,22 @@
 ],
 "CZ": [
 {
-"title": "Methane leak rules are in force in Czechia, but a fight is underway over a law to ensure inspections and penalties",
+"title": "Record tanker rates push oil and fuel prices higher",
 "source": "oEnergetice.cz",
-"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxON0QwV0E3U1BvOFVfR2VJNE44ekpzNU1USWlIQkJBb2l1Tm1ZMDI1RURJUV9hQUhFZFNPTkV5aksyT3dDelFON2M4U1BnQXZQd0w2dkVaWnJ1LVVRa0tONXFPVFRvS2ZFWXhybTdNeFFvX2xtLU1zc1ROMWpxYzJtTUpEQVBLdGhFZVF5VlM5OWYwZS05dHpiR28zaGU5Q20tNzQzVkpsbElTWHZQbGJCRWxhRmNIYmo0SDdHMjgxcU5KRzlQbUlPbzFnTWNDQm14alpzUHhvcy1XVDV4NVFmMmFkY1g4Zw?oc=5",
-"date": "2026-10-24"
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZXgzRU43cXFGUWR2eXdiLVd3bE5UWVozMmZFckdfYmJMM0NWc2NZNEhueWM3dWRnRmVjZkF0V0h3c3hnMEdERkd4eGpNTTRHZW5ZRjRjTndSc2czMHpJV21hMlZjVUdLQUpSRXZxYTFGbG1IWC1XMUYzYnJvbE1VUm1Ya2tTUVBm?oc=5",
+"date": "2026-10-25"
+},
+{
+"title": "GasNet Nears Completion of $3.2 Million High-Pressure Pipeline Upgrade Near Jihlava",
+"source": "megaproject.com",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNX281N3JSUjZzcTEyQjBSNkFOMGVsQW41S1FxRWJ4VERWcG14WXdiUHo3Q3ZMdmpEUmlHSUl4c1hoZ3laeGN1YkE0S1NCY05vS00xQVpsN0h4QmZrbFFacFZvMm8xZ2YzMklURnBCQzhtLS10MG4tSFVGaWFxclBKWGpTTW9GRDQ4akkyR0ZaakQtNlh1SmU5Z25Qb2NjYVptRUhIcTk4WW9TZEIyaTI2UHQzNHE3WDNnNGhPVnRn?oc=5",
+"date": "2026-10-22"
+},
+{
+"title": "Strait of Hormuz may lose its key role in energy shipping in 5 years",
+"source": "Around Prague",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYW14X2JoVmdndHlpekI4S19mSzBaQk9EQVJJYmY4NDBCT1pzcWx0RENzeTMwRW8wa2pVTUNiZTQ2NWNpUVBBejFKOTBqbGlzR01NUndIZUJDSEhBVGNxbGdiNzN1dlJhQlowYUEwdlNCS194NjZZdUVQczZyRkV4eDhNekxESGx6TjVHZUxpQmY1cmRraVBKWG1nOG5tV1BYdHhYdVk4WWNsTE5pejhQMVlpOFpRX3c3ZFE?oc=5",
+"date": "2026-10-22"
 },
 {
 "title": "Methane rules set for delay: European Parliament heeds pressure from Czechia and other countries",
@@ -1299,18 +1311,6 @@
 "source": "CEEnergynews",
 "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcUttZGNKMXJjTWpKNVRLRU54SHh4SDQzMUdGZ0hOYm9NU05xa0UtTTFqbmFsNkNfZUhlWk9pcUFfTnlrX0FzQ0k1VU50bFl6X1dZRFlnUWJoaVFjaTYwZVFLM2l4a3lmaUl2WTVyOTV2bkVuZjh3dThYZjB6a1BhVU4yMDVvSVJkQ1RCeDhRZTFLTFhoSER2ay02Nzd4N1FfX1piN0k2ZVlpWUd4dE5RTF9uM0hwUQ?oc=5",
 "date": "2026-10-21"
-},
-{
-"title": "Delaying ETS2 will not protect households from the next energy crisis",
-"source": "Transport & Environment",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUGFQOFctMzcwZW1seW5BUzVnZWg5Mlk0d3NFcFRFaTNpWWJaSXZPYm9qOFhXU2llRzZaNXZSVGVDWFJHTUhzaHoxWGVpaDM5V0lmZGFOaHNlaXUwU0M4dzM1YUVwNGFZU0dLSXBXZk4zUWFZWUlVTm5NWEhaQm9XWG42MXo5c1FpUlpBNTZQT3NTTlRyekMtYVdVTjNaRkhoRkxKR1RoRUl2NV9IY3VjVE9USjNTQQ?oc=5",
-"date": "2026-10-16"
-},
-{
-"title": "Czechia burned a record amount of waste: energy generated from it reached an all-time high",
-"source": "oEnergetice.cz",
-"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQkdWYkNreDRicGtTZjZqUWU0S1R5cGJlVDRhWTdweFBHTGp6NTBPQXdyVG10WDJnN2t5ajREdHFDWjE2ekZQZkF2STFqbnVIOEJHeXZoZWJKWHlaczBVblhRZzE4ZFl0YW5SZWVPWTNHZUJKWVdyUnhFaWxscFpQaU03cFBtVnN1RGZFWVI3UmNBcFBlMWxDZjZEb19LbHBJMFBPSi1uajl3ODdieXJsOFY0emNCdkg2WmJPV1VuUzFaa2tMVDU1WDZhRzZGTXR6?oc=5",
-"date": "2026-10-14"
 }
 ],
 "DE": [
@@ -1327,12 +1327,6 @@
 "date": "2026-10-24"
 },
 {
-"title": "Germany Wants to Stop More Oil Refinery Closures as Costs Mount",
-"source": "Bloomberg.com",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZm5TN2RyTUlWXzZxVnRtRVA1aFdEdEs5eV9NQmdmY1FjekE4ejJVc1cwLV9ZUXVteV96NVRocEFHcUZoa1NwcEhYTXVDVTN6eHhrNmRlbG43dVpuc0NxeXRhUnk2XzVHVEtVRDhhYWxDU2E5alVWN0xnQTdmcGU4RWlpRm9URXhPNjdTYzRnLWM2ampVMDRpcGo2U1NnQ2FaZGVjaTFfT3RwRTNUOG1nNGo4MVQ?oc=5",
-"date": "2026-10-23"
-},
-{
 "title": "Germany’s oil stockpiling agency EBV issued a tender on Friday to sell diesel, heating oil and crude oil from its strategic reserves, according to a document",
 "source": "Newsquawk",
 "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNQ2xpazZpWVNON3VTZTJJaUhiU2lMd29LZktHMURENXNTMldVWVlhYTRYc1p5NGVWODUxVHFSQlNQYzF3bWVBSWdoUG9Fc0lhWjhtV2VPZnRXLXpKdlBKSkYwQ3RpcVhES2tGalpkUHQ0MHViNkw4Mm1uNDlCbEFCeGc0OU5NcTlUYzRDdGV6c2FlSWF5eW9zYUd6MjlBcnB6VVA0WDhWSWM4SUM4NDlYcHdCRTNrMmRRNjhYNGJvN0xiUzRTQ3dyWXZWMS1INFhVZTRJc2ZoQVp2aERCcmVDbUtIY0JuSDM3TjVaNVZJMzVQbzF2a1p5NHhPaW14QjJVcHRNSDRpVmxXT0RFbl9waFlRQlBXbmZnNkc4?oc=5",
@@ -1343,6 +1337,12 @@
 "source": "Britannica",
 "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdTU3alVDalhmX1h6dmR3clJKYXEzblpJME0wdUs1X1dUcHhjQXpwbzdIN2EtWjI2cnA5TXdiellpSXVIR050eVAyMjZVWTN2SDRwZXVRV2Z4SjV2dVhwNnZMbTVJd2M0TTk5cUNVTTRSZ1htdGhoRDNQNXlsYTV1U0YtRjBOTTlCNmVVUmlGbkJ6bFZjUE84ekZqRzU4bEM5aXFtRW9OMlBNUQ?oc=5",
 "date": "2026-10-22"
+},
+{
+"title": "Germany Crude Oil Imports Jan-Aug 2026: Volume Down 0.6%, Value Up 21.7% - News and Statistics",
+"source": "IndexBox",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRGx5SlFqenlzNFZ4NmwtQURiYjlWRmtRQnd0SWx2aDJSVnBvSnk2M2VlMGl6eU1HSDhjUEFhNFNhc0t1UmJEV2hRVFRUdVZWMWlSMG1Jdk40YVp5NGdRWElOa2tSX0I5WDhTMl9Ld2NSOG9oNXFjYnYtS0RjczZVa014Ml8tU0dFX1dVNENOYllheVlCcEZ1VV91VUtYaHhwUlNRYmZHd3BlUFZ1aGZ0blRCc0Y1UQ?oc=5",
+"date": "2026-10-20"
 }
 ],
 "DK": [
@@ -1359,6 +1359,12 @@
 "date": "2026-10-14"
 },
 {
+"title": "Trump says major oil, gas and mineral exploration is set to begin in Greenland",
+"source": "DW.com",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSGVRSzBIdkNzblg1U2hxQkZBVnJlWjhfODNkMkRXXzE0R1dpenJmMEQ4Rjh3aHoyZktVempQMFFHb0lBMWs0c1E5cVhzMGU1Q25XcndpZnZhSGlrTjdVa21qRnMwRDZWaFg5YXNNcnc4eDRFbE9RTnVHUXBBU2xjcjllX2V4bk91QlFINzk2Sk1waExON0xkLV9LMkVGRmJvZTBVcmNFLUFsUFVpT1HSAa4BQVVfeXFMTmdFSFl5U2dOWXR6RE9XaE1Ib1U0dzdZSkQwVzV0LTJSajd3VzdGbEVaNnVKQ0YwWTFmX24td1VSYjhGaTMzcnluOExWSEc1M0pvX1NZZzY1Skc0S215clZYUmFUWVQyNHl6Nnk1UG93Y3NBazlDSUdBQjR4X3RnSUhvZkdLR21WcmRJUC0wWFNmTTFocTFNVUFmTHJhUlh3RFZ3NndQemRRZ056cHVB?oc=5",
+"date": "2026-10-14"
+},
+{
 "title": "Trump says 'massive' oil, gas and mineral exploration to begin in Greenland",
 "source": "France 24",
 "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQjA1QU1ncGdKRm9STDVOWFRyaTdQejVrSmNaRnpwbXZpYjlGSnhIV092V0JDNXExRFJ3QllsOEwwb202SWNvbUJXN21lUHNPT0I2djJGU1V5SGx0S183ak1UR2xBVm9QRV85ZU4tRDZKQjkxRU5nZVRrdDA5RVpOUElwbFdLOTNheGpYcWkyQzliS2ExaEMxQUpYanc1UEIzWERzLS1BY2I2a3EyTnJuYnVGVmpNSzQ?oc=5",
@@ -1368,12 +1374,6 @@
 "title": "Trump says oil, gas and mineral exploration in Greenland is set to begin. It’s not that simple",
 "source": "AP News",
 "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTm9ucUpfS1JOb1RqQUlFOWVtSjVRQ1JXUGVSZFhkdWVlWlBncFMybEpwSVNxcGpXcU84Z21TQVVlVUlXNlN6V0VGWjRkZGJyR3V1NFVzNVk1YzZmVEE0OGVGNnJnQXVGODlxNmF1XzF1SnVlRHBQblBLMkZCcHVRb1d5aWNBTWUxQWNCRmV2cW1OTWZSb1ZLZzJ5ZFV2Qkd6bzMzUDFIc25veXQ1?oc=5",
-"date": "2026-10-14"
-},
-{
-"title": "Trump says \"massive\" oil, gas and mineral exploration in Greenland is \"getting ready to begin\"",
-"source": "CBS News",
-"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WY3BGUktqdGg1Y3hwMm1nWkc0aC11T004NEtsM3FrRkRKSWwzcVM5SjhveGQ2V1lzOEZ6N1FKM0dFaFd0d2g0S1A4eEZ3eHFxLUNnTFVrQzh6NGpERGp3TkpLZXhHYW1QVnFvdUhQRDJKUHZNQ0xaRHRFOGIyekk?oc=5",
 "date": "2026-10-14"
 }
 ],
@@ -1397,16 +1397,16 @@
 "date": "2026-10-20"
 },
 {
-"title": "See the Ruins of an Estonian Ghost Town",
-"source": "Atlas Obscura",
-"link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RbW94ckxGa1RWLTRubGtMMzhFa2FWREdUaExYZHgtdkE0QVlneW1uZ1JZUnBGZXVKWm5ZSzljaTZna2N3MlAxcWhvdm16VEZwWUdZZlBuN0ZtdmFPSDB2MncxLXY?oc=5",
-"date": "2026-10-16"
-},
-{
 "title": "First Electric Ferry in Estonia to Feature Steerprop Propulsors",
 "source": "The Maritime Executive",
 "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeGUtM193dW54X0ljSzhnMHZVR18tdTVhT1d3c2JKeldndjBqZVpvR2lJT0RodmUwN2t6UUxFeUVkUUJHWW1wNXRqZUJldUtMM1JXMkNTZWl5dURjd0k1YmVKd1d6Z1JuLXdwYUhTTzFrODFZck9VSDhyM1htU2VFRUQ5MGp2TGZqZEVmR00wU0VRazk0VERsTTNvMzhMQm9WN2R4dXhjTXFpa1lLS2h6VE9jcUF3bHp3dWphLUNrMWUwV1ZENDVRT0xLQlgzR25MWmNUdUVQeXE1enR3?oc=5",
 "date": "2026-10-16"
+},
+{
+"title": "Sooner Russian oil refineries are completely destroyed, better — Estonian Prime Minister Michal",
+"source": "Цензор.НЕТ",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVy1xY1hTWVhCLW9PcndEem9UMll3aHVLaG84a2FfUGhpYVdvSDF3QkxhMVZFUENiMzlDVzF3Q1FjNVFUdFYwYXF1RUxyRm1kVk1lcWR6aDZqMFdIMFdwS0pkaUdUcE1FRmZQcEZvaXB5bjc3UDVldXAtb0d5aS1OUVZ1bU4zMzk1MHFRZEU0TGxIZTJlSXkyS3FmREFhYWVzTUlFR2pBNjF3ZWhKaEhZRVBzcTctZm0za3o5dFctT24?oc=5",
+"date": "2026-10-15"
 }
 ],
 "ES": [
@@ -1443,6 +1443,12 @@
 ],
 "FI": [
 {
+"title": "Ukraine's Starlink satellite speeds restored after a week of front-line disruption",
+"source": "Audacy",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdkc5NzcxTkJmdkMxQ3RWU2djSEtLb0VkVjQyZG50c2h1YXFTNlZwbWtQLU5tSVhhQlZ5SWVkVHJhaFh1a3lMeDRaeGV4dzNrdFVYakxDZGh6dS1jWFJUOXN5TFFPMVRvcDZ4dWhaVVNWMjc1ZmRKRlJ4Uk5ZdzZ2SDhUcjJrMHZZNFVqNUJ2SEs0MFVqa3pIVldZblZMVWx1NjJaYTZIUUg2VlVWdnc?oc=5",
+"date": "2026-10-24"
+},
+{
 "title": "How Russian oil flows to Europe",
 "source": "www.transportenvironment.org",
 "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeTVkaGNVeHhqNThtWkV2LWExVDIxdEdYS01TV2RkSldtNzdKcWR3ckxVTHdnQTBnaE1PODV5LUVYMGk1MzVUcXlVeDNNWENjcDRoTDJURHJzNUVJWEhCajZ1S2Y5NlhfdFBpUnNEQzVhS1psZFpGWHg0Q0I2bEJLVnZLWQ?oc=5",
@@ -1453,12 +1459,6 @@
 "source": "The Barents Observer",
 "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZzB4U0s2ZWlkNFJSVTI3YXpiZzU1Rlhaajh4SEctMTdsX3pwRGUtc1dyM0ZSQjByTk5xSC0wTk1iNE5VSjV6TmVFQkpDeXZSbWtrV2o5czcxZ01vcGdYSFdrUm1YdlFXMzBsdGJHMk1OamFTMDB6RE5TYkdOaFo1MWd2VTU0RXFHeldPS3ZObDhtVlI1LWdIM3llUlpudVV4d2tkZG9IRW5qSjJCNVZTaGFncTNZTWxfM0Vxbll6VWNLNEx6TWZBTEd6YkV3dVU3bnNZMzJwSE9odw?oc=5",
 "date": "2026-10-21"
-},
-{
-"title": "Trump’s Plan to Revive Sanctioned Tankers Faces Tough Sell",
-"source": "gCaptain",
-"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNR2NEV0hVaExxYlZ6ZGNfeVl1LTRqOUlTYU1HT2pOLXhJS0lIeFpnU2xsSGdQb0hRSmNQU01tSTgxajY3ekVpYlpRWDlUMERwem9hT1dTR2FXby1nZTRGbFE5NWcyV1Vra3gxTEs4cl9TRWZ0MG92U2dLd0paMVdnVm1ESnByUQ?oc=5",
-"date": "2026-10-20"
 },
 {
 "title": "Finland Wins World Olive Picking Championship in Croatia",
@@ -1474,6 +1474,12 @@
 }
 ],
 "FR": [
+{
+"title": "Le Pen vows to revive oil prospecting in France, calling 2017 ban ‘stupid’",
+"source": "Washington Times",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVmFyNEhuZEZWdG9GSUlNT09Ja21sOEpDRWd1NG10RTJzZ0ZrZHQ5cl8yMmdmN3NnSjdCeE5SdE9VTjVtam5HaVI3VVBNd2VudmJWSm5SOFhIRWFCRVZNQXgzRmpWWmVNY0p4QWhZQ0VGbEpBUVVZaGZ0RndQV0lVcURvTTBSWWpOSGRWUGgwbTBtYTJzMmZqX1lnR2gycVQ0UnI5OFI4c2puVlNUcmxpU1BQMXYwdw?oc=5",
+"date": "2026-10-25"
+},
 {
 "title": "European stocks post weekly loss as France turmoil, oil prices dent earnings optimism",
 "source": "Reuters",
@@ -1497,12 +1503,6 @@
 "source": "Robin J Brooks | Substack",
 "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nSXdGQ2p4VGN5eDRvakZNZ1RoZVQ1UlY3bXREeDZ4S3dUajVLSDF0eHRuUzdWUGRDQWdNSFJPWlk4aWd1Vjd6SVRCNmtNb2pGU2NnNDl2dElreklUc1FvYjd4UmxEMlZwdHc?oc=5",
 "date": "2026-10-22"
-},
-{
-"title": "As Macron visits Gulf, can France forge its own energy-for-security future?",
-"source": "Al Jazeera",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTVlzVVh4alN1WEFMU2xVT2NkZ2R6aTdVZjRIUkdwLVJmeWo1YURhMU5ocnNiOUhYRjZhX1EzSnBxM0drYlVlaVJZQ1ZhSXdkelBab0hrT0o5X0dMdXRqdFpQRG1kbmZEQ0RNZUV2UFd0OXdDYm4zMWJFbGdHNmdxUVBPWUI4cld2SVZhQ1VzOHNad3VYOVVkZ0FxbER6X2JGZXBEZlR0R3lTLUxEQmJIb2IwZnlSZ9IBuwFBVV95cUxNMFhsRU5kMGFoVjhyT3A1N0xfUktYVDYyREpmdkRqX2o4a0JtMS1tejI2TW0tclF4TFc4cjg4clVULUhRQ1BxZXRJYkU3a3ptdklBNUkzQ3hBUEtHSjFaTEVOTEFDVzJxQlRXNmw5TFV6MFNfaUVNYm1lcFV4Q2ljbHZHRTFManAzdm9KUFBncHdQWENfQlFxc1BnWXdwTTRkN2w0SE93ZFhUeTlPU1BZeE91enVHU3lWMG5R?oc=5",
-"date": "2026-10-20"
 }
 ],
 "GB": [
@@ -1551,12 +1551,6 @@
 "date": "2026-10-15"
 },
 {
-"title": "Motor Oil Workers Strike After Fatal Refinery Explosion in Greece",
-"source": "GreekReporter.com",
-"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3V3k4UkVSQWxvcHRMUlU2TlZpNy1XWmpzcVY1cGJDSHN0Ylc0Ym92RFNLUk5fb0NDaXNaY3RsMUJHam52NWthUTZjTjQzdnhZaFVReTFvOEhxdWhlWHFZbkVrX1JycDQwZ1kya3c1ekVTNDI2eVgzOA?oc=5",
-"date": "2026-10-14"
-},
-{
 "title": "Greece will subsidize heating oil for households ahead of winter season",
 "source": "TradingView",
 "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSk1TRkhwX3pKUEhXTmRPRW54a0stWUx2d0tud1gwYTRIWEFjSlRUM1BacHhWdGtYcXUta0pPVTVqVUxUMWw1RkZNVThVczVPLXpZQ0hfR0VnZm53VXVBSGIxSmxvS0NwdjNRSURZZWhkNGVjVlFsazVMVXZnSDE4SzI0MVpSS1Z6UHkxRS1UT2VoNDlFeXdwWE5EZ1F0S1o1NEdmbElSVWhtelpXUGpic3F1Tk9Sel9fNzJWMDdOb29QSHNMOXdHaWY5azc3NC1BamZaQUo4NWc?oc=5",
@@ -1567,38 +1561,44 @@
 "source": "tovima.com",
 "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR2dxSXhuX19ZcWFDMmh4a2haNEZjYkNVNG54LWFUMVFtRTk3dU1TdEhmdGd1RUJqLWUzcldMR0NqcXFHV082ZU9zdHB2V0dCajYyNmNoLUcyT3hIU2NNU2hGTmVHaVd4Ymg5X2pGQ2U3QW1Ccjk3MmlWMUp3R21hYWNETFVHRzhB?oc=5",
 "date": "2026-10-14"
+},
+{
+"title": "Greece announces 30% increase in heating allowance",
+"source": "Euronews.com",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORlNiMjI0bzBYNnhnZjJodE5PSEZvQ05rUkhnOHFLamEwelJmaWxUYm05T29JY0hGbHlHMURwUUVYdkg2cThnMWl0bzlvdEoyY0owZzNTRXhldGpMQkZVWW1FN3BIdUdlSVZBaE1Ld3hDSGFxSlB0QnQ2aFB0REJ6RjQzUkNJNVZJRFU1bHhB?oc=5",
+"date": "2026-10-13"
 }
 ],
 "HR": [
 {
-"title": "Croatia - Oil & Gas Laws and Regulations 2026",
-"source": "ICLG",
-"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9JeExIMHVEcWVRZlhsd1NaU0ZqQmdIeW1DTl82WTdNLWRkWkswU3pURmpzb1ZpNEdtT1cwYlcydHVoMmcyYml4ZWpwVHVTQ3FJN0t5Z0lCZGlzZHAtZzljQXV6dHpacXdZTHpmZFRJQ292b1NzNnFiWGxGNnFDQQ?oc=5",
-"date": "2026-10-16"
+"title": "US Signs Energy and AI Deals With Balkan Countries as Its Influence Widens",
+"source": "EnergyNow.com",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUnZieU9EbDByajhkUHk5aFR3VDNZdUhEMnkyX2lFNWplLVd6YldnZnU1clhzUktqTUhYbkZHY3NOQVVFUzJreEplZ3NPekFUYml2STEzUVZCSXVMV2V6QmlZMU82OVRPbWltMmJwbGlXSE5sN180cUQ3RnkxR1JrNmNOdGxaYXFEaFNHaHQxV2FHRTQ0UUZ5Y1ZuaUNVb0F3ajRtNWU4Znc?oc=5",
+"date": "2026-10-23"
 },
 {
-"title": "World Olive Oil Competition 2026 Live Updates",
-"source": "Olive Oil Times",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPR1pMdlNfS0FLdVZJQlh1MFhpSHFQdEtGZWx0RkdtcXJDRW80bldybFJieVVfRGJPdGpSM2F2blFDSGNwenQ1d2dkb09xVWE2NXZyZjNaMmZKTUdZMTBCQWtST0RicGlRbkp1QzRndXpOUkpsb0FJTkhxYzlMcW1jSm5DVlR2d28zNVJodkkxOUg?oc=5",
-"date": "2026-10-16"
+"title": "Croatia - Slavic, Catholic, Adriatic",
+"source": "Britannica",
+"link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4MlJjc29hTHZCWDBlXzRVbUZTMVdYN29nRzhwaU14enk5dEtpaG9XSVp0N3RUNDZPUk1MR2loeFA2NmUtN3hDbEo2aU5uMEJrVEZRY0E4TzJuSjQ?oc=5",
+"date": "2026-10-23"
 },
 {
-"title": "Dalmatian olive oils win 25 medals in New York",
-"source": "Croatia Week",
-"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcWpTbnVGd2ZmbDViV1dNM0s3M01WWWZLYmpNd0t1Vkk5ZEVTVG1EQV9oUnZ5RzlYVXdrQUJVT1Z6RFVTZWxhblF5U1JPTnFaaW9BaEV0cGp4Tnc1alliUlFZMllkWklqcWE0MnFVTUM1a054SzJpWGMza1pHY2JsQw?oc=5",
-"date": "2026-10-15"
+"title": "EUR 27 Weekly oil bulletin n° 2329, prices at 12/10/2026",
+"source": "European Commission",
+"link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EQU9KYmVya0NGcDVqZVVIZk5LVThGV3hZb0JkbmVhUVRRdTVjMElBR3hjT3dTX3NkT2FtdUY2SE96MENGZHpXQVJyeFFIcFZQRElNRS05TzMzb2c3OEU2Z1h4TDdOb1RqTnM4cg?oc=5",
+"date": "2026-10-19"
 },
 {
-"title": "Finland Wins World Olive Picking Championship in Croatia",
-"source": "Olive Oil Times",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPamtldHNBNURFbFd3WXpOWE9GUm0xMU9rSzBYQXFOUjJ0b2FCR2NlNmxKanFUNTZxQ3BTS05EMm1Xb0hkaDY5ZkdQWVBDbWZTdnNpdWJkeEt5R1Qta0htZV81aExTOGJmMzJNb3FoMHVTQXRaTFk1YzFiMmhwVW8xQUpXYVZSeTU1LXlUVkRkT2dFbE1tYXYtMUN1Ml9ta29U?oc=5",
-"date": "2026-10-14"
+"title": "Finnish team wins World Olive Picking Championship in Croatia",
+"source": "upi",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYlYxNFA4VU5IZFZfa2JSaVd1RnMzZEpHVDA1T1RNY3gweEpLeDdmM2VucDY0N3FmOHBpajdhMDc3UENuZUo3a2x0N2t3djh5RkZKTEM3WUhxQzRRZmNodHBsUGo5cVpFb2hwbmFGRkRSWmxUV0hPTGRQQnkxT2FOU2ZTeFRLUXdGd2gtUHo2d1JFQ09YZERweG1jdjRWOThJek9LRmZn0gGrAUFVX3lxTFBsZURyd2dEWFE4ZERCSDNEXzBnQmpTTW1wUjNGamZxcFZ6SzB0eWVNdy0xanZjRjlUU01yaks3aXJPbXJ2aDRGTWQ1U3J6THpORmVZcHZsOWhTdmlXeDJCblktS3pUYWFBYU51RUljM2xRQTVralZHRklZdFBabjdFbzNGWXZnSGUwVVFYLTF2SDE3UXRVZkVZZGlHR2I3RXNCR0Y1WnFHN3B1bw?oc=5",
+"date": "2026-10-19"
 },
 {
-"title": "Adriatic oil pipeline: Hungary turns to Croatia",
-"source": "BALK Magazin",
-"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83Q0tTZWRIMEFkZGMtOE5xS21vRTUzUkVYb01YbGNIWWFjYUlKU2h2elNFcEwySlZaREpNZHJKMFoxdWh1dnlibk9QajlwVTJkLWFjYzBBQ1IwNzZVUFJuN2dyV3JpdEM2c1FfSnY1WnJxT1R1UkxMYg?oc=5",
-"date": "2026-10-08"
+"title": "Croatia Daily Life",
+"source": "The Norfolk Daily News",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPamMwd1pYLW9FcTJVWG9wdG1lbll6UXJ3NGtPWFcwM0hLTWxycHpBMFpGWTNjeVg0UEU0d3M1Vy1Td2Q1TUJkLUhQSjlVT0Ewa2Ywd3VpS3pLaGpzQ3hmR0loeFAwX1NGMFh5RC0zOGJ5WnliZTFYdDcwTkNNNGRMclVDQzRUM2R0M1dQQi1rc19FTjRjNEZ5dVJyNzlNZlhmcV9xM1RWYlBhNlVSbU5wVW9Cc25qcndJdG9uaS1CMFJHQUsw?oc=5",
+"date": "2026-10-19"
 }
 ],
 "HU": [
@@ -1609,10 +1609,10 @@
 "date": "2026-10-24"
 },
 {
-"title": "After Orbán, Hungary Is Falling Out of Love with Russia",
-"source": "National Review",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRWNUX3BJd2tWTFpvNGtaZ01WcFpid3ppaUxnVGhzX180eERPM1ZfMlVWZmsyT0VWWE9kYVhFeFJWbEhDYU5oWXA2ZnlwMzl3cldrMVZGQ1ViY2RvSVFyUEY0YkpaNjhaRmlQc0Q3djdjYVF5M1VMOV9JN1phMlp2el9QeDlOTTVYR3ZDMmkxelhnVV9TXzV0dzlza9IBmwFBVV95cUxQRWNUX3BJd2tWTFpvNGtaZ01WcFpid3ppaUxnVGhzX180eERPM1ZfMlVWZmsyT0VWWE9kYVhFeFJWbEhDYU5oWXA2ZnlwMzl3cldrMVZGQ1ViY2RvSVFyUEY0YkpaNjhaRmlQc0Q3djdjYVF5M1VMOV9JN1phMlp2el9QeDlOTTVYR3ZDMmkxelhnVV9TXzV0dzlzaw?oc=5",
-"date": "2026-10-24"
+"title": "Agreement signed on sale of NIS to Hungary’s MOL",
+"source": "European Western Balkans",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYmNZVFZsQjNObVVKVDd6TkVJcHo2Ql8yYU80UENoSktfSUNvcWVLeGtLazRiMkVwZkNyRGhiWVNCcTQ4RGVESGR2R1htRmhnc0RRcjQ5OEFfWkFzVjlUSGJmQmhxSGRpMkk5Ujczc2lvbUhyYlZrSmVRVHFtTTkwcW1Wb0xGODdHT1Foa1FBV2hWeS1mU3hEWVVn?oc=5",
+"date": "2026-10-21"
 },
 {
 "title": "How Russian oil flows to Europe",
@@ -1621,16 +1621,16 @@
 "date": "2026-10-21"
 },
 {
-"title": "Agreement signed on sale of NIS to Hungary’s MOL",
-"source": "European Western Balkans",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYmNZVFZsQjNObVVKVDd6TkVJcHo2Ql8yYU80UENoSktfSUNvcWVLeGtLazRiMkVwZkNyRGhiWVNCcTQ4RGVESGR2R1htRmhnc0RRcjQ5OEFfWkFzVjlUSGJmQmhxSGRpMkk5Ujczc2lvbUhyYlZrSmVRVHFtTTkwcW1Wb0xGODdHT1Foa1FBV2hWeS1mU3hEWVVn?oc=5",
-"date": "2026-10-21"
-},
-{
 "title": "EUR 27 Weekly oil bulletin n° 2329, prices at 12/10/2026",
 "source": "European Commission",
 "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EQU9KYmVya0NGcDVqZVVIZk5LVThGV3hZb0JkbmVhUVRRdTVjMElBR3hjT3dTX3NkT2FtdUY2SE96MENGZHpXQVJyeFFIcFZQRElNRS05TzMzb2c3OEU2Z1h4TDdOb1RqTnM4cg?oc=5",
 "date": "2026-10-19"
+},
+{
+"title": "Hungary's Magyar seeks one more year of exemption for Russian oil",
+"source": "Around Prague",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMFgzREFqckVhMXF1a19uNXM1b1pOZHhKOXdpMUhVQU0wY2pkcWFWb1drbTZ5UlVINUNuRmJCUDlKUVVFZEZtZm1jT19wbjFveFh1V1lFV0Q4UUczWmtIeGFZaDVxM0NMYlBEXzl5azVYR1NIdUZNbHVsR2FwdF9zcklIRUwwRU9QV2llTUtoVDVXdGN6b0NhUGlhY3JRU21oRW9WX1RR?oc=5",
+"date": "2026-10-17"
 }
 ],
 "IE": [
@@ -1653,16 +1653,16 @@
 "date": "2026-10-24"
 },
 {
-"title": "RAF scrambled to 'sanctioned Russian-linked oil tanker in distress' near UK waters",
-"source": "AOL.co.uk",
-"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeUJiQ1lHLVNscFp4X3lNWlJidnZTQzdUV2lsZU5WNHRfYUV6d0FaMEZCZklOaTJBY25oSmtGT0VPdk1OTmM3Q0NaQ1ptSVB6b0F1Qlg4ZURDVVlaNm1WV0UxYV92ZGlSN2d4STlNTGFfNWhZMnhGYTJGdTJVY2hISGREeEltMDlpQ1pZNThn?oc=5",
-"date": "2026-10-24"
-},
-{
 "title": "An 18-year-old in West Cork, Ireland mixed vegetable oil with magnetite powder to make a magnetic liquid that grabs microplastics out of water, and in about 1,000 tests a magnet pulled out roughly 87% of the plastic, winning him Google’s top science fair prize",
 "source": "Make Tech Easier",
 "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQNkh1TDNjVFhxclk1QURHVFFyYWE5YU9fNmZCWFlBQjltRVV6UHdNa1psZkhxcEFWOHdlMlB2RkYwUHNNWHlzYjNXbXJpUDVNdXd4MGVjTG5wYzRDelg5NXBUdWI0NnNzeEFPVHd1cDFhWkdDWmZCZG1la3dDRDA1NEhISmJETEFEWi1oMkhWajVBSV92eXZQTXdYZ0ZXQ3VjMXpFdDUxaEIwbkNlQkw3Zm9DZE15QjFVWC1jQlVzRXlrdlRCRGJXR2RCaEc5RVJvdnYxckQzQjdtYkdILTBiXzZBYkVXU1k0X0N5Wk41YmtZUGo1YmVOT2ItQ1NZVHQ4UUthb2NOLU1PcmNKRFRIcWhWRUMzdDIwTlNCeTBtZ0pnMFNMOW1FUlFsM19mTlZqUUNfQlVjOHJCekN6YU5KMUxKM0c3c2c?oc=5",
 "date": "2026-10-19"
+},
+{
+"title": "Northern Ireland schools told to shave an hour off heating and 'wear more clothes' as oil prices climb",
+"source": "Yahoo",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaC1uTUxJZlg4LWd3NlJJMTFqWVcwVnVybFRsYk4zWXcwdk5KN190UFotaElSWDloczVkbl9lZVBoaHdxYUsyYmFLQ21saXlXZWtnaGpna1lUWGFYTzZPSGN4elJqV2dwMWQ3M21id1VVSi1MSnhQR01aN0o4T0NNVG1KX05hVkVFWEVWeUlQUUpWbzg?oc=5",
+"date": "2026-10-11"
 }
 ],
 "IS": [
@@ -1717,9 +1717,9 @@
 "date": "2026-10-20"
 },
 {
-"title": "World Olive Oil Competition 2026 Live Updates",
-"source": "Olive Oil Times",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPR1pMdlNfS0FLdVZJQlh1MFhpSHFQdEtGZWx0RkdtcXJDRW80bldybFJieVVfRGJPdGpSM2F2blFDSGNwenQ1d2dkb09xVWE2NXZyZjNaMmZKTUdZMTBCQWtST0RicGlRbkp1QzRndXpOUkpsb0FJTkhxYzlMcW1jSm5DVlR2d28zNVJodkkxOUg?oc=5",
+"title": "Song Joong-ki, wife Katy harvest olives in Italy, gift homemade oil to friend",
+"source": "The Korea Times",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRm15OHFBZE82SnlwcnB3RXNYa0xGeEpkYjVWWFRzaXYzbld3MHVEMFJldDlmajJ3N2E2dXQ4ZGF2VG45R2dOeG1vMmtFTkVJNmVkSVNlOEdWUHlQTUxwS2k1eDVrTll4dUNSb0stYjJwVnBPQjdxbTlhUUgyVHZUMmdIT3pRY0FpeHg5ZDlIa3p6b01xU3ZpbE1IdkF0Ulg3Y1dTSUJRVFpYbzFNZmlYMW0yc3E1WjJzMDJFaVdHRlA4bS1JYkHSAcsBQVVfeXFMUElLWE1wZko0RTNqRzE2VXhtR3A5cmdibkl0VW1CMnFKUjlFS245Y2V0UzhXdURteWkwN0dHVENfR0RSa2cwR3RjTlp6aUhWb1JScW85Smt6MVFqWkF0d1EySXNWaVNCd1lqMXRlWmM4WFVpZV9aYWxQdzhrTlN4UUF4NzVpaWZVdld4VXJ4Y1lya1R3TTBfWFBDUG1GYVZYRUFTc3BVS2x1WnBqWFVsTnNLVnF3azVMTlR1VDN4aURJSkpNblYwaWFfRDg?oc=5",
 "date": "2026-10-16"
 },
 {
@@ -1737,10 +1737,10 @@
 "date": "2026-10-23"
 },
 {
-"title": "One interest rate, three inflation realities. Why Europe’s price shock is so uneven",
-"source": "Euronews.com",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUUdkSlo1cEpTSWZhYzZRTGJfbFBKX0xUVElEZldoTFludl9ya1daVWpvc1E5NzN1b3Y2S2EzN0RxTGU0RmdWVFk1VmxMVlVSRHBaQkpOXzhYYkhLQXB4blE1STJnUTRKS3ZSNUNqV3BEWXlsSVBVY2lDSHV5ajk4NUtZR2ZicWJWYXgwX0dwSXI1MTFSLUdKWXF1SFlzX0cxUW9IN2NVYmxIMTY2eldvd0JnTUItSms?oc=5",
-"date": "2026-10-22"
+"title": "Lithuania - Independence, Baltic States, Sovereignty",
+"source": "Britannica",
+"link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LOFpYTlUyWFZtS3RUSWdEamVPdFltcXhYT09ObXZJZnB0X3BQbVJIR2pGWGtPM0ZGY0djNkNQZmVTYjhnb0JJVkVRbFpXUGhkSE12WHRoTk5jRXhrTk90VmZQQVA5YUVZTWVlR3ZXckYtZw?oc=5",
+"date": "2026-10-23"
 },
 {
 "title": "How Russian oil flows to Europe",
@@ -1795,6 +1795,12 @@
 ],
 "LV": [
 {
+"title": "More drones crash in Latvia / Article",
+"source": "Latvian Public Media",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPamU0dXRTY2hiRzgxM2FoSHFoVG9kTzNaTnBJTXF6NjNqdnA3MTdjWFVDclFWTkRXbTV6TnlNRjc1MDdja3dldlpDVjAyMVdHZnp4M24yVGl6d0txWWRGZjBXWnY3cFVmcGhrb3NpV0tyRlpKS3pkWWh0YVNKQm40dkUwUnRTVG14eVZCQ0VJaF9VbDZ6?oc=5",
+"date": "2026-10-24"
+},
+{
 "title": "Latvia - Soviet Occupation, Incorporation, Independence",
 "source": "Britannica",
 "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdlp3XzFHREUwZV80di15V1NKYzNLVW9OaHJ3czVIVnBuX0lrbk5TcUg4UkFWcnFreTlSb3kwN0V5NU5mYWhGbFRrV09XNU00QkF4Nk14YWhzQWNHR2ZjNC13VEpWR0RLWEEzZE80emd5ODJFM0JiV1pKNV95dmx4RGg0bnNSdw?oc=5",
@@ -1810,12 +1816,6 @@
 "title": "Fire at Canadian Army Base Killed 4 and Injured 39, Officials Say",
 "source": "The New York Times",
 "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYXU5QzZ3NmQ3M21jM2R5V1NKcVZBZGNGWnZKa00tWVJ4ZWtRb0gwY0dtSWFkWG9Fd0xFaF9NUVYtY0NtR2RJQlhtX3hUVVllTTFvTWJlVlRWOC1JaFdRalpPWTY3bVlTczVoaUNITFphd0NHNjJmY1FmUGl0LXF2TlJaejgycW80N1JsOQ?oc=5",
-"date": "2026-10-18"
-},
-{
-"title": "Russians complain of outages affecting VK social media platform following Ukrainian attack",
-"source": "Українська правда",
-"link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wVEEzOTlJRFNDTHAzOV9NS2JHQnRUc0llcm9UXzAxZ0liaklpb01iTWs4SGdZWmlwU2YwMDBwWjBjWVNZNnhLTkZ0a1NsZ2Q3OVNYM1ZJX19CRU95aEZhQS1rdEzSAXBBVV95cUxQV1VYdHdWZ1VRQm9KbFVFVjdLN1Uza2pycE95cFNiTFRFWGFRbWZtQklTS251QWx0WTh3M0REUkRFTklTMU9CWGJFeHFTZlhESjd1cUhFbnNLX19GanZ4N05pSVRZbk44c04tSF9TN2JS?oc=5",
 "date": "2026-10-18"
 },
 {
@@ -1839,6 +1839,12 @@
 "date": "2026-10-19"
 },
 {
+"title": "N. Macedonia govt eyes reactivation of Okta refinery - PM",
+"source": "SeeNews",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd3V4NHczUHVZNmNGcDhkYnZ0UlFicEY4R0NiMm9tT0ZmdnpOV2l6Rk5LemtPZ1ducUQxT3lWdXdRdGdOOE5ZMmJma2dMbmRxT0Q5NUVuLWZwMmdxTmRva3hndGsyQnd0cmhwTFdUMnljaGxmNGgwOUJEMzRFYWRRdG15dmt0RGV6WVo5WjFENTg?oc=5",
+"date": "2026-10-16"
+},
+{
 "title": "Energy Community Forms Oil Coordination Group",
 "source": "Albanian Daily News",
 "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMlJnVFRMT0JpVjBKdG5LTzFGaUw2VVlzSmtBTFBLSjNveEJrUHN5MGNEYlQ5eURNR3NHRVVqaExranJ1VV80NFNwdzhnMG9YZFRZNnhIdWZVZThkY2tDbHhGZW9odjhDQlR2azR3VkpKbnUwLWI4RkR2TWctZDFEUWt6aXZyNmM?oc=5",
@@ -1849,21 +1855,9 @@
 "source": "The Observatory of Economic Complexity",
 "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV200Wk9HNklMMVBIUW5PSlQ1REkzR01SbVUxZUI2NzdqTDBQU1dZOUduMDhNY29LWm9KemJ5UUJpZkNpZ2pQdlowWGlVMndWNjR1OXRBMlYxQWJ2QlNTYTZnMVF6SWhaR2RraE53QlRRekRQNUpyUDd4ZGhyb2hSWmVGWQ?oc=5",
 "date": "2026-10-08"
-},
-{
-"title": "Former Turkish Ambassador to Somalia Begins New Post in North Macedonia",
-"source": "FTL Somalia",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcW9zcjBoRTN1YkVvZWtTZXJva3lPQUM4MlFzN0I4TDAzMjIxWjVZTEFyTDYxdzNMdzhXdkt2eFlBZEUyNXNNcFFFT09LRldXZlpVWWpmYlBhajNROEJXc1V1VHlXUTNNMXg4eVVrOE5aMkVFczR2dUpqZzZiWHg2REpOMnRWaGJoeFY0NF9jUjlDTUhQWHpmdG1teEFXenNv?oc=5",
-"date": "2026-10-08"
 }
 ],
 "MT": [
-{
-"title": "Oil Tankers Steer Clear of Hormuz Ahead of US Blockade",
-"source": "EnergyNow.com",
-"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNU9IeGx0OVc2ODAzSWhONFFRTE5BYUZyX0NFZERkWUcyem1pTTNnVTNIeTVVTENCYlcxT0lQaTZMR3RRb1M5SnlFZ2R3ZlB6dDlWUHBoeF92bWpQNlpSSkloVlRjY24tYzJnYmxjS0tGNGNZS2lqT1c4QzdZUl81TGZuc1N2aXkyWEdKZjRn?oc=5",
-"date": "2026-10-24"
-},
 {
 "title": "EXCLUSIVE: First Russian diesel from Putin-Trump deal heading for US, data shows",
 "source": "Reuters",
@@ -1871,25 +1865,37 @@
 "date": "2026-10-23"
 },
 {
-"title": "U.S. Diesel at $6.30 a Gallon as First Russian Cargo Sets Sail for New York",
-"source": "Crude Oil Prices Today | OilPrice.com",
-"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbUM3X1VHclhhUV9WSndUcGJ2RjRvVmFUQUpnVEM0cEw4dHRFeW44T0VlLW5SSUtkMzdZcFBkaXo1RzJjbG51bTRDSTV3dXdEakxyY25VUlRfWTlybzF2YlNEejBmOUN4dHNPU3F6NFNNdG5qbWpTanZiRjBzaGJiU24xOUpWdXZDOHF3bkd5dnpTRjNHMENqYmdmS1l5YzNkRDJXSG9ENHJRc0FjTXRldHFlelZaYW1BeXZCVzdUTlcwWGlTQnJFQU8xSdIBywFBVV95cUxNbUM3X1VHclhhUV9WSndUcGJ2RjRvVmFUQUpnVEM0cEw4dHRFeW44T0VlLW5SSUtkMzdZcFBkaXo1RzJjbG51bTRDSTV3dXdEakxyY25VUlRfWTlybzF2YlNEejBmOUN4dHNPU3F6NFNNdG5qbWpTanZiRjBzaGJiU24xOUpWdXZDOHF3bkd5dnpTRjNHMENqYmdmS1l5YzNkRDJXSG9ENHJRc0FjTXRldHFlelZaYW1BeXZCVzdUTlcwWGlTQnJFQU8xSQ?oc=5",
-"date": "2026-10-23"
+"title": "Malta Book Festival to bring Maltese children’s books to life through theatre",
+"source": "GuideMeMalta",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQm1EajgzTnNUSkFRZWtfb0VNX1NtRkdZeEZUUGY3Q0tsYUxtaVIyTnVfSFFFRmE3ejdBYU4yUW9WTzdNUHdyaHd1ZHJHMFFCdTN4YXRMOW1JT0RRSWcyODhqaEpCb1NxYU5TWlFHRGMtSDRHel90c1dqLWFhT3hvdWxwcWZSbmp2SjRxOFZfSFFLQmluVlJkODI1dS1kNkk5V2xBR2V0UklIZw?oc=5",
+"date": "2026-10-21"
 },
 {
-"title": "Russian diesel tanker heads for U.S. following Trump-Putin deal",
-"source": "FreightWaves",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVVRzcUdBNktFY3hSNm5VMU80VThzNllnRzdFY3YwX1BUNGllaF9MTHdfMkxJNzVSY3AtRHhkWG83Y1BfUy1DdW03eno1eXNxeDhtbWxHVmN6UW1fVkZMR0QtZXJ1Ykw5Yy1kallLeTJmNWh5LUV4VXlBZl96QmFELUIzUHVUejdHYVExNE5ONHFvb0xHNXUzWERpb2o?oc=5",
-"date": "2026-10-23"
+"title": "From olive grove to golden oil! New facility gives Malta’s olive oil industry a modern boost",
+"source": "GuideMeMalta",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMV9ZRGM1WVRmQVQ1MmQwa0NMdUtlZ2xhdndMc3FBMkNYazExa2RFTWhSYWhlRXdKOVJTempZY3NXeUJPZWZsMkduZTFQNDMyUmpQQlhqbjhLeVJSanRlTEdSemZJbG03blpWZl9YOElHZzk2Q1JjZEZZUFFha2tOT3hLSmJacGdOeU9iN3lRSlo0eDY1eTNrME9XNmJnaTNzZkgyM1F3Z21ac3hqeFhDb1dfQnhUUWlaSjB0aA?oc=5",
+"date": "2026-10-20"
 },
 {
-"title": "First Russian diesel tanker heads to New York after Putin-Trump deal: Report",
-"source": "Türkiye Today",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSzVOenl2T2lIRXUyWlQwdllLYWFpdjhRb1l3MHlrRWlsZVBXMFFJR0xLa3RQYWpMYjFPMVlPa1c3dUV2QnNjM0dtdjdud0dkcUtrcFNMQ1ZsVHYtblYzZ0tsWGwzZU1ZQzdOVndWSFphbW16UXV1c0RKd0haYW9FVFh0NGN4S3BiZm52OWszV2VGcjlVVzVsWWE1aWczb1FwSlBTQVJza0daZzFGZ3NKaFpDWUVKa0lsclpiMXZR?oc=5",
-"date": "2026-10-23"
+"title": "Avoid 'Tal-Imgħallaq' roundabout, commuters warned due to oil spill",
+"source": "MaltaToday",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdHFjd0VOdzNTSHpsUHZuSXpucS1Ra0htZHpKVVM5RUNHZjZZWlZWRThYM3F0N2dWbnJGRFgxTnA3bEMxai1BT0pBSVNLUC1DV185YVlERnpNX1pDZXVRZG0yeUdHbGU5ak5fRV9uQ1JySHM5ZFBrUWxxbktaNjRocG02QTFTVDZCcDdUazJJSmhwc0c2OEh0OXhQenVmOG80UUt1ckpKLXV4MDFNZURrZkJKMA?oc=5",
+"date": "2026-10-20"
+},
+{
+"title": "Oil spill causes heavy traffic at Qormi roundabout",
+"source": "The Malta Independent Online",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQnRUMFdQbFhHdndKUlgtZEVlMFZXelVsU0tabFBTZzNVZGpUSy1KaS1xaXcxZ1ZuU3BCMWZNOXR2aEtOS3pNR2s3ck9neFJVQWx4eU5kOWFoXzYxTnhzMFlOMTNYeVZfQVFPdG4ySG1PVDJDU1Y3QzJiOHdfdkdhWXE4eUlpel9za2N6MmRjaWtSbWNENjdVbmplWW5PaHpKaEc4LUxkRFM4SXZhWUtCT0FMU1dnWkFrdGczTFBlZjU?oc=5",
+"date": "2026-10-20"
 }
 ],
 "NL": [
+{
+"title": "Digital Oil Trust Fund Price (DOTF)",
+"source": "Coinbase",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOEdseHc3MXMtSDNkUWhCcFhZSTRTZl9FZWY1YllQeFFSemdpaW5wYnNodGZ5b1h5bzVtV2lVRHZydURibnlSdGs0RDdvQ3kxZ0xhZW1ha1pSZUhnQnozdHI3N3Faa1Q1SmpFNU8tM3VWb25VVFoxVG5JWlFzeHFqc2x0N1hkdVlPU3pxTHludGlVdXhfWGVoWG10emhCYVZNOFhTeXdXdXlINm8?oc=5",
+"date": "2026-10-25"
+},
 {
 "title": "RANKED: The Top Buyers of U.S. Oil in 2025 – Visual Capitalist",
 "source": "EnergyNow.com",
@@ -1913,12 +1919,6 @@
 "source": "Britannica",
 "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuODY4N1F5SWh1TEJtVVBaNnB3N3VTNTNRSWZiWGtWZ0lmWXlPZ0NxNDItLXlGbmpEOHVFMElZY0ZaOVRKMWN3THBtRUxaLWd3WUI1OHJINlNVRk51akhCeVk4RkNwa3BXNml3?oc=5",
 "date": "2026-10-22"
-},
-{
-"title": "Coal Tar Oil (HS: 2707) Product Trade, Exporters and Importers",
-"source": "The Observatory of Economic Complexity",
-"link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DQmtfazRXTlVMeVZEaXJVU0VNVXhTRGFlS1V5R0RlWEp1MGg5dEF5MHlVT1M4bjY5d3hVeHo1SEJoY1YyMHd1ZG1jX1dfN1RuTUNaUFpWWQ?oc=5",
-"date": "2026-10-22"
 }
 ],
 "NO": [
@@ -1935,9 +1935,9 @@
 "date": "2026-10-24"
 },
 {
-"title": "Norway Oil Service Lockout Takes Effect, Disrupts Offshore Drilling",
-"source": "EnergyNow.com",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWUxQX3BreW1XMVNVbW94RlliYWY3d0pYVzhGdGFSV2M5ZjRwLVlnV2lIMlhNMmU2czFaaFdPWUpkakJxU0FrUjZFd241TFNoUnlYeUpTRURMcnphM2ZZYzhiVWw0RlE5ZllvaGhSN2twOVY1Vy0xRWtTUkNISlRtQ1ZjVXFtUDdUN192T043UXdmM2RXWG1rNDNNODdSdw?oc=5",
+"title": "Norway - Arctic, NATO, Oil",
+"source": "Britannica",
+"link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lZENtVlNjRjFGZlg3SFpiNGE4VWtFckI4ZlhQa2lJNUtDQWRzR1F0VVI3MjVxTHgzSFhpTjR4cXVmaHAxNWpabVZmRFd3MG1mTkRubkt5R0dMVXBxVnFUTnBuaFZzTEtCZUJJcVN2VQ?oc=5",
 "date": "2026-10-23"
 },
 {
@@ -1955,16 +1955,10 @@
 ],
 "PL": [
 {
-"title": "How Russian oil flows to Europe",
-"source": "www.transportenvironment.org",
-"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeTVkaGNVeHhqNThtWkV2LWExVDIxdEdYS01TV2RkSldtNzdKcWR3ckxVTHdnQTBnaE1PODV5LUVYMGk1MzVUcXlVeDNNWENjcDRoTDJURHJzNUVJWEhCajZ1S2Y5NlhfdFBpUnNEQzVhS1psZFpGWHg0Q0I2bEJLVnZLWQ?oc=5",
-"date": "2026-10-21"
-},
-{
-"title": "Ukrainian drone attack on Saint Petersburg kills one, sets refinery ablaze",
-"source": "France 24",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONk9VRDhjOU8xbFYyYVhYV3lyTEJvN2NxQnExVC1laGhaaVE2bEJpR1VXNlR1eTcydXdzZUNiVl9MNWVPX240UUg1eWRsd2Zrd0tsQXdlS2R6V2U2LUxwcGhpMlgybzhwY29BRGtQRjRzUS1GdGhEVGR0Z0lYY1Fpb0hCY2VvWHdxVzFkbkJCWEp6dDZYT19uOHlTMWhoNmdpVl9hdVZEdFRsQnpqQjdvM2JJSHRBWXpV?oc=5",
-"date": "2026-10-18"
+"title": "Oil firm Saudi Aramco 'may sell Polish assets'",
+"source": "TVP World",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbndWRklfeUpnZDFxU25rbVo0ckRmVTE1RF9aUzlJWnd0VmRtMEFCRWVkZ2lLYm1rSXRnNW5NU1FDeFdadllOLXhNV2J3ZGppMGhoQVo5ekhOdUtuT2JUN3BBWENvR0p6Rk4tdzd0ekQ3TV85SzUyejFiNHlQRm16WWlsSi1tSkR2VVh5YzJwWFI?oc=5",
+"date": "2026-10-23"
 },
 {
 "title": "Poland plans to empower railway guards to neutralise drones amid sabotage fears",
@@ -1983,6 +1977,12 @@
 "source": "Clean Energy Wire",
 "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSV9mMlJyMUx4dHV0dm9YMFprLUVPcG5UQ3hmaUhPMEs5THUzTE5BZjZUbkd1MXF4cHp3RndjNDRIZEIzR2xIY1BNZjIzZ2ttb21zb0JPQ3FkWm11S1UzeFRxcnZrODlwMnE3X3ZLaXZuVVZ2cEZBdkIzSkFqSk9lUUhxRjdrWmNTbkRiLXZxZjl5WVZYbTZoTVBGZDd2ZjRCLWhJOEZ0NHE4cnZoWEMtczBIM1N2Q1MwRkhhSXJBV3RTVWNxZWc?oc=5",
 "date": "2026-10-16"
+},
+{
+"title": "Poland's Orlen to receive at least 4 Saudi crude cargoes in October, data shows",
+"source": "Zawya",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMS1paVRwc3Y3VE1Nd1BxbnJWYXY1SWluamZocFlVMjNJMVJadk82VUY3SjlSbGd3N25OLWhjcjRhTWpNRGRYSW54a0h5d0h2ZzZrWnZEUkFHR2FITTVXTFY5TF9EWE83cl9UVEdIWlp6OE0wU2tISGs1T1NsbURmck4waDhNN3ZzR1FCN01IaDNnZHh1NDhXMTNSUVloS2cwV0l6TjlITTlLdklKTGk5b0ZTV0FpalF1SHZDbGhQRWNiZWJsTHBHck5Qaw?oc=5",
+"date": "2026-10-15"
 }
 ],
 "PT": [
@@ -2043,9 +2043,9 @@
 "date": "2026-10-16"
 },
 {
-"title": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO's response",
-"source": "PBS",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNFRHWTQ2cVh1SmFqejNacXdVb0dpOGJIQ1VMR1lhU25WSmp0VF9rU3R4OVVSZ0IxVThqT0tkc2RRQUJMNlRrV0Nxdm1xazMwaENNY1I1b1FFbFJnNE16Sld0eTVPeTBlTXRHdG9kUjJmZXFham9SSjhld2t0LXZVWUpNOFFacHgweHIwVjdsZzVMNlZ3UDlkeWptVjJhZGVFNGNmVENKSXUwQ1hHQ05sNTNTUUxPdEFlam9MS21rQdIBxAFBVV95cUxPeWI4QlhJRGdzcHV0SzRZVnRPbHMwR3NLTEZRY3FPNnl6dURXOVpDU3ZMcVY4c3J2VVUxLUtIdW1mNHhkUkp5ZzNfXzVNcGdwTjNGQXdTRFNjTFB1cVBhX0xKWVBLY3paV2xJVDgxWUZlUHYyNm04Z3FmOFoxT2pYaHFBYXZrNjRKY3hsanp1WmdEQ05fUkxZUWVmcTBKUkdaa2l0WkpWcGh2b1VBM2h1eWJxNjlEZU9wamM4WG5uemJRTTdf?oc=5",
+"title": "Romanian company to buy Gazprom’s fuel stations",
+"source": "CEEnergynews",
+"link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54RG5UWkdQMDJmUXp3TjVvSlNLdnhxbURYeEY0Vk5ON2ZxbVdFVXdWWTRsTlh0b2gtQlU4N2xwZGR5Tmc4SHVQTEhqSkwxVlpoUndSeWlTcWo4SjQ4YlExeG1UT0pfbW9LTExJczFxMGE?oc=5",
 "date": "2026-10-16"
 }
 ],
@@ -2089,28 +2089,28 @@
 "date": "2026-10-23"
 },
 {
+"title": "Astrid of Sweden (2026) by Sam Jackson - For Sale",
+"source": "Artsy",
+"link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hcGJMZnlDR2Q5SUxVSHF6WU9TanNMU25KcE1aVWlZd0JnUHpsTmZVZXA2c3psTzIwWHVkZ2hDbmhTSTFwekJEcGphTm5xU2taQzg4SzlIcXJaYkwtOEtTdXZzTzB2NWpjMEE?oc=5",
+"date": "2026-10-23"
+},
+{
 "title": "Sweden stocks higher at close of trade; OMX Stockholm 30 up 0.41%",
 "source": "Investing.com",
 "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVkxxTlhDWk5sbU0xVy1tczhpSXJ0RzRtYzI2cHp4QWxrdXpDNEJwSVNjZE9pQmYwVG5TVHdrcTN0TzMwNF9KQTNtbXVIeXJ4TXFURDd2WnFvTDJGNHlpbTJrb0xCbDdBUGZSZ3QwYktzTi1lbTJYY21FWWdEaTZLNnljNGlSUXRiTEpLTnU3RkZSRFNqam1BTVk5S1VTVmV0TS05RmYwSkRTX01wZDJ0S2cwM3ZHaGprRXNv?oc=5",
 "date": "2026-10-23"
 },
 {
-"title": "Sweden deciphers the secret of a 15th-century sunken warship",
-"source": "Laodong.vn",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaTVhOUh2UzNXdGxONUR4TlgwT1VOdTZHX3dxaTRVbTBMTGZQbEFFd0o0dkdNemU5a21EMXpBX0pqX0tJQi1vX3gwLV9fV0ozZ0VhazBtWmRNdlc0OW1rOEJON0pURVNzQ3hlU3dTZHEtMXhtTDVfdmR2MnJ5YWZOOGZCMklTSzViSXJjRUIxUkJOamtkYk9iUnd3b3FxblhlQTZF?oc=5",
-"date": "2026-10-23"
+"title": "EU vows to develop Arctic renewable energy, says oil and gas should stay in the ground",
+"source": "The Barents Observer",
+"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZzB4U0s2ZWlkNFJSVTI3YXpiZzU1Rlhaajh4SEctMTdsX3pwRGUtc1dyM0ZSQjByTk5xSC0wTk1iNE5VSjV6TmVFQkpDeXZSbWtrV2o5czcxZ01vcGdYSFdrUm1YdlFXMzBsdGJHMk1OamFTMDB6RE5TYkdOaFo1MWd2VTU0RXFHeldPS3ZObDhtVlI1LWdIM3llUlpudVV4d2tkZG9IRW5qSjJCNVZTaGFncTNZTWxfM0Vxbll6VWNLNEx6TWZBTEd6YkV3dVU3bnNZMzJwSE9odw?oc=5",
+"date": "2026-10-21"
 },
 {
-"title": "Sweden shares higher at close of trade; OMX Stockholm 30 up 0.41%",
-"source": "Investing.com UK",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeDJGY09rQjlURHd2WHFxaGtRckpvYXVtRkJFTVJXLThHMEJybzIxMUxzU05CNFZyeTQzb3lvS0pUVVhFTkgwaGk2SlJVN0M2dnJ5eGxXVUthWU1KbXpORVpCcmh4UWZERnhQXzRVSkNZODgtem5SMm9ISkc5WGFOQzZWN2hZeER3dDYza0E4OHU4aU5mLXF3U1JKTUxINlVFTHdQY1VtVllKamswdmdaYmN0NUV2N3h2SkE?oc=5",
-"date": "2026-10-23"
-},
-{
-"title": "Sweden stocks higher at close of trade; OMX Stockholm 30 up 0.17%",
-"source": "Investing.com",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYUpOWUVBOU5BdTVmb0lsenBZYW40UGhkMllxS25nekpiekY3NFYyNzR0ZlF5bmY4NGNPTExTbHl6bzJsYzBQMk1wRDJFZXRYMTFvQ1I2MW1mU21ZZ0hNdW8xTW1MNGRtTzdudFB5SEhZOXo3RExFQ09nLUlqSEpaTTZIc0JiVmVTeVMtVUtzcnZiS1k4cXNjOUpmaVRWekVyZGNsU3R3OHlrMURBT1JZNnhpM3F1LW1fMmE4?oc=5",
-"date": "2026-10-22"
+"title": "EUR 27 Weekly oil bulletin n° 2329, prices at 12/10/2026",
+"source": "European Commission",
+"link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EQU9KYmVya0NGcDVqZVVIZk5LVThGV3hZb0JkbmVhUVRRdTVjMElBR3hjT3dTX3NkT2FtdUY2SE96MENGZHpXQVJyeFFIcFZQRElNRS05TzMzb2c3OEU2Z1h4TDdOb1RqTnM4cg?oc=5",
+"date": "2026-10-19"
 }
 ],
 "SI": [
@@ -2147,21 +2147,9 @@
 ],
 "SK": [
 {
-"title": "All 8 of Slovakia’s regional heads were reelected",
-"source": "Midland Reporter-Telegram",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa1N1VGUtU3pGeUFfeDNkV1VjZkI2RGJzUVREWUVUR25NbTZmTUJlRUdPUndqSEJ4bXZ3TUtCdHpZOG4wQy0tenJHS25zVE1Ta3pmMTNPX0dwV3NLZnNDdzNmUmlzbVhKb2phU2tJNzN3LTRPQVQ3a2pZV0hQSk9IVTZlZjFiT3A4clJEZjNrZ1RXTFoxelE?oc=5",
-"date": "2026-10-25"
-},
-{
 "title": "Slovakia to restart consultations with Russia in new break with EU allies",
 "source": "Reuters",
 "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM1lJYlZtR2hRMGcwc0R2b2JXSjZvaHpoXzdROHdQc0dHREx3RGJITzB2U0RhRG1MWEtYUldfQk55MV9sNGR3QWVHRjhMQ1RWRlFfYVFqQmh5Zjg0UHZZX3ZXVlZ3SGFZUk5zdmw0Y0phSGdPeVpLdmVKZklfZHJyVEtYMkN4YVNlSEJfNTFQcjNwTExmbnVHN19HRUxNakhxNnBtdkFsRjVUMGtPeHVhNFVzdnI3UUplblB3?oc=5",
-"date": "2026-10-21"
-},
-{
-"title": "How Russian oil flows to Europe",
-"source": "www.transportenvironment.org",
-"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeTVkaGNVeHhqNThtWkV2LWExVDIxdEdYS01TV2RkSldtNzdKcWR3ckxVTHdnQTBnaE1PODV5LUVYMGk1MzVUcXlVeDNNWENjcDRoTDJURHJzNUVJWEhCajZ1S2Y5NlhfdFBpUnNEQzVhS1psZFpGWHg0Q0I2bEJLVnZLWQ?oc=5",
 "date": "2026-10-21"
 },
 {
@@ -2171,10 +2159,22 @@
 "date": "2026-10-21"
 },
 {
-"title": "Slovakia to resume talks with Russia on energy supplies",
-"source": "Mezha.net",
-"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORTdyYlVmQ3kwY0NhbjlRZ1BEZVhHbk5KRWdyUXRMQ2FCZEI5Q0Y3ZW9PWkhPaGpMRWJjTXpKeE9sOTA2ekdpaXk2d2JxemQtVUdJVEpDRFVUcTVId1RBZ29wWm55aFNqako0Y2hlWVUxZFRzMnJ3VzBXLW5oTlVHeHNwZw?oc=5",
+"title": "Slovakia will send a delegation to Moscow for talks on oil and gas",
+"source": "UA.NEWS",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeklFZVplTDlremREVzdfSFU0QUZPeWpRZ21LNGVaT2M1RWk5MzcyRG56Tnp5YXlWSDhNenladFVQdDBSSk4wYlM2M0pnRDZZbUNvQlVxMXJqMUt5dUt3MXZnNUpBV0JKMG1jWGdVOVpxc2ZsU3FTWDl5R2NadTREd0pxMEpTT2dhcnFia1o0ZnJfdHVHbjBqLU52cFlNLS1mdGRtaQ?oc=5",
 "date": "2026-10-21"
+},
+{
+"title": "Slovakia seeks more Russian oil and gas despite EU phaseout plan",
+"source": "RBC-Ukraine",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbldnU2JCbXM1X3hfbFFtYlVBUWNHUzAtZTlzTjd0bnd2VEZLYkVhd1BROFlIQWxuWERicjllWTVMUzU1ZzRBX18xU3VTTzEwMlBBVmQ4aE5vRlFwNEFoY3hEbk5nWm1aOXRSdG1JN2psR2k5X1ZUcEh5R0JNLTlQVFF1WWZKbHo4SlJoNWMyQVdrT0lEUEo5LTN3VQ?oc=5",
+"date": "2026-10-21"
+},
+{
+"title": "Slovakia–Russia: Fico reopens a channel to Moscow as energy reshapes Europe’s balance",
+"source": "Istituto Analisi Relazioni Internazionali",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZE1HbGVDSEZtTzFnU0FSV1ZGaWxJSFR6VU9sanhEUW9xNHRHaFhUVmxQNmpHdS1TVFhDamw4aXB6c05vUGN4RmlJRUtjV0tKVU9PVGU5bk5NaW1fTXlUcWVUY3BGcGk0ZDZ6WDdZbHFQVEU2YkN6RVlsNjExRFdwOG9iTUlCR0NTR1NfN1ZlYll1cS1QenpKejAtZUpNS3R5bkp2ZWtyV0lfN29MYURmRkhyWQ?oc=5",
+"date": "2026-10-16"
 }
 ],
 "TR": [
@@ -2197,9 +2197,9 @@
 "date": "2026-10-18"
 },
 {
-"title": "EU cracks down on oil sanctions evasion, targeting firms in Turkey, UAE, India",
-"source": "The Brussels Times",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaHFzeE5GMzN3YW00bXA4SmMwU200NlU0NUJQaUhTbElWWFo0aHBnYV9QUzVoWDk5T0JMQU5HRkdRS0c5R3JMRXhYOVlfaTlSQmcycnVMYTNxekUtbzVDandRdmpjT0JZZmFfLTFCMVpaOWxhLTRUY1YwVUN4OVJvMlJudXlKV2JucGd3aFh2cTVsdmpTUGljQ3hpdXdxR0tub3hsU3ZPYng4VHRNXzQzSjk3WQ?oc=5",
+"title": "Russia’s Seaborne Fuel Imports Fall 44%, but Remain Near Record Levels",
+"source": "Kyiv Post",
+"link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UVnVIUHVQclpoZWtEcEFRaF9WMWZPQkJ3STZWcmxwQU5mVmotb0JQWUZzbm1UZWtTb2s3eFZ2MDdSZW1rVXVDRGt4MA?oc=5",
 "date": "2026-10-16"
 },
 {
@@ -2229,15 +2229,15 @@
 "date": "2026-10-20"
 },
 {
-"title": "Iraq oilfield operators agree to $600m merger",
-"source": "Arabian Gulf Business Insight | AGBI",
-"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQREN2OG5GcEt6aWt5NmNoVHhvVG1oeGlnb0RDTmxBQXQ1QzVKMFpfZTlSczdrUzFueUhGbHplV3MtR3BsOEp5LUlaWkJtNFpLWHJwa3RZY1plSXdhMERuMFgwZnV5SjZtN0EtclYwSl9uS1JDY1ROVzIwRkNYdkpHQUZhZFJPVXU2?oc=5",
+"title": "ShaMaran and Gulf Keystone merge to form a Kurdistan-focused oil producer",
+"source": "energynews.pro",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZTR5a3l5S1lMNTNZcFlTSXc3Rno4RUt5a3hqSnU1cUhxM1lRNENlMEVjZjdEUVJ0bElWSnFndW1kbEx3UHpLaGtyQkEwZlFfQnA3bHpLUzZPTFdBaDBONUNCZlBJT0JxeUc4NkpjRzdBTnM4ZEhuS0xaMDJOczhKaWhoZ0Z2OXh0bHV2T2Y1MUIyeUlaQjYwY25mM1Z5SURW?oc=5",
 "date": "2026-10-20"
 },
 {
-"title": "Gulf Keystone to combine with ShaMaran Petroleum",
-"source": "TradingView",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbnRzdS1jZXVTWnY3NjBXUm5tYlFWRW9aMVFtaUhrSUg2V2cwek1hVkpBNUlhV1NCRkNzUzl6Y2RmTVRZbzhFcEUyWlZiY0xlRmxTekFtWDVUMkEyQXNkdHdBTTJMUnBHRXpoUk11ME15YXEwZGpISEFwbzlJWmxJckJHaHRGOTZRSzNmTGppeVFkajRMTFlhMjVkVFIzOUItSFV5Tm1ma3RrMXdpdW1CWnhfc0M?oc=5",
+"title": "Iraq oilfield operators agree to $600m merger",
+"source": "Arabian Gulf Business Insight | AGBI",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQREN2OG5GcEt6aWt5NmNoVHhvVG1oeGlnb0RDTmxBQXQ1QzVKMFpfZTlSczdrUzFueUhGbHplV3MtR3BsOEp5LUlaWkJtNFpLWHJwa3RZY1plSXdhMERuMFgwZnV5SjZtN0EtclYwSl9uS1JDY1ROVzIwRkNYdkpHQUZhZFJPVXU2?oc=5",
 "date": "2026-10-20"
 }
 ],
@@ -2255,22 +2255,22 @@
 "date": "2026-10-22"
 },
 {
+"title": "FEATURE: CANADA AND THE UNITED STATES: Two Different Oil Industries, One Stronger Integrated Continental System",
+"source": "EnergyNow.com",
+"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU3lKQ1B3X1hnTVJYajliUklsU0h6RGQyQXBOWUtzSDd3TDBFVG9NUFNSX0p1T0E4RlBDUWV3cFdvVldDOWdBWWdUemNvWHNhbVRCdFRNb1ZMQTJmNUR4Rk16alN6LU4xS3dXY0NPQnlCdWFxNWh3UUhsUWo1U3ZEV05leHphQnZkMmlUZ1lpemU4TmhIMTlQVTdCMlBmVlhvdGlyUVpOYnA5TllMQ2dhOWJOaVhaU1VUNTJrN055Q2dFMkE2Rm16clNKSnRVSUZWa19EZWtR?oc=5",
+"date": "2026-10-21"
+},
+{
 "title": "Elbows up in Washington state over Canada’s proposed oil tanker terminal on border",
 "source": "Washington State Standard",
 "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdXBWOVFhbHNxU2lzcnAwYk1VR002aFBNdVhTSnphaHd2OHJWYlBvT21GcURIZFNULXJRX2lIWFdmZ1NxclRfM09obTRZUmllTFZLc1BhR1JtbWQ5RkdZVE02NkwxdTlveUxCNnMzNU9zQ3A0MDJvRVd5X1M1QVk2NzhCVnE3U3A3R1hjVFZnMjlLVjdxUklWZ1ktM1dLUE40WF9VQm90S3RGVzBPaU9ZTWpVaUY5ZWZWWUVhUUh5UHVJTFhoSXNBcQ?oc=5",
 "date": "2026-10-20"
 },
 {
-"title": "Canada’s inflation ticks up to 3.1% due to high oil prices",
-"source": "The Real Economy Blog",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbEE3blZMd2lKWXBObGwwNFNBZUN5VEFOU2VNTVY3Um81dVBkdHl5NktXSEJMV2xnN3diY1RidFNpY04wbkpISjJBaWJQcUYySTBMUnY4VU4tUVFIeGxobk5MeFpRQmtqT2Z4cWEwNDVjQUFoMF9lSDhzOF9nQzNtNUNYZFFnNUlfMUNWWlA1X1k?oc=5",
-"date": "2026-10-19"
-},
-{
-"title": "Carney’s pipeline push is unlikely to bring back Canada’s oil jobs boom",
-"source": "Reuters",
-"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcEtubmtfLWRIRC0xYjJxNnpzbkdOSzJPakNObmdUZ1EyRnB4cThXMjdRY3FWb1padzJMVVdoSG80Nk5lTmFMUU56dHdIU3kxcl9BYlVzOUROZzg5Y1lnTTdSS3h1YkJqdzJFaTB6b1JoV2h3dWxiUHRMNU1zMEpfcWx6b2pHQlJVXzJZLU1EdDVXXzd5X19DUW5memxWTHlPdTdqYl9YT0lrWndI?oc=5",
-"date": "2026-10-18"
+"title": "Voters in Oil-Rich Alberta Strongly Reject Leaving Canada",
+"source": "The New York Times",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeldIR0ZoMzhuSW44cWI0R0ppVUpaZXRNcVQ2cnBrZHBXY0ZEMXBneVRfdTZTTUx4dF8zX0ZhZDZxT2s2eGw3UVBkNUk4NmRDeUQwV1FpX3hBeHdjV1owUzBYNWdOMWtmQWlEQkR2bmdjeS1ydXk5TmtGbF9EVDFncGZEcHV0SHBtRUl4OFRkSVQyQQ?oc=5",
+"date": "2026-10-20"
 }
 ],
 "MX": [
@@ -2293,16 +2293,16 @@
 "date": "2026-10-22"
 },
 {
-"title": "New study finds marine life in Gulf of Mexico still experiencing effects of 2010 BP Deepwater Horizon Oil Spill",
-"source": "louisianaradionetwork.com",
-"link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ITkJ6WXVEOXlBdlE2NGdrZ1N1UDVoM2FxcmNUWF9VaXFNV1JDS2ctT1duZDhnWHpoM00weWg0UFJtN0pzZ2pMcjUycXJMTXlYX1JnZGE3b3ktd0hCUkJHMQ?oc=5",
-"date": "2026-10-22"
-},
-{
 "title": "Oil Prices Rise as Iran-US Tensions Threaten Supply",
 "source": "Mexico Business News",
 "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd0ZDMzNtM0lxNVdSNDV4ZmxvZU84V3c3UDZrUUIyWlVJSzRUYk9lTXhRSUFvcnhJeTd1QUJWRzVHdmtnMmkwZXhWek9EOG5xa0YxdVhSd0J0TmNhMzFkZk9vejl4VjNnWWZoQVNTYTl2TXdGXzFhNEZpdldVNGtDZnRDLS05cFJ2Q1QyNG5GV0ZsQ19yS0E?oc=5",
 "date": "2026-10-21"
+},
+{
+"title": "BP oil spill continues to decimate marine life off Gulf of Mexico 16 years on",
+"source": "Oceanographic Magazine",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTE1tWTRhY0owVTEtZ24wSlA2Ty14aXNVVGtGZlJuTTJYallwaTduMnpWMzJUTTlCMDc0cHFHdkdmQmJPTndWanRwZWhiOEc5aHZFeEd6azk1N05oQkNwU3V0T2xHZ2NIUHB6UEI3YWo5aGFWdXVRMXROM3NuUXh3OWIzVTJYWHFpeWU5T2hXWnp3a1JkOFphMHNkLThHbmdSX1ZWc050QWRBTE4wX2hWRFJzclBqaUhv?oc=5",
+"date": "2026-10-20"
 }
 ],
 "US": [
@@ -2331,23 +2331,23 @@
 "date": "2026-10-21"
 },
 {
-"title": "United States Oil Dips: What's Going On?",
-"source": "TradingView",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd1d3cUd4Qy1MVTFKTkg1aFg4RklvZ2E0Y1FKU0JmUkhINWNIU3lYNTJod0cxbnRZekFHaFpfcWc3djlmenJtdW9EZHgtbXV6Zll5NUY3eV9wWUt6ZDNVeUx4YVlCWWNvNU9pbTBjT19oWkF6SmZrWGZGNWM0YU0xSEJIcXBWay1PQ2g5eF9RbENuTVRVNEYzZjVxcVkzZw?oc=5",
-"date": "2026-10-20"
+"title": "United States EIA Heating Oil Stocks Change above expectations (0M) in October 16: Actual (0.652M)",
+"source": "www.tmgm.com",
+"link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQV0lON1U5dnJFX0VQQTFsWi1FT3pJUUhLVGtxYWRjRk9VeXB5RTFBNG1fWUluenh1ZjAwLW5neVI2UUZ4eXEyeklSb01ZcEYtc0RUSmhFWXVPeHdBNGpmY0kzd2J0MHpLY2pKUW14LTlXUXAwX2lSWmU0dEZ6NmRVZHBnWllfbUdrM3Vod2lDOGZQTEZfbDBBZ3J4TXA2YU5CWmswSlpYaU9aVm4tZE9RaWN4ZUpQTFJvYWZhdlBlWnI2VHVoLVF6ZkNSWFEwbkVjNmI0VkhmYWxTUGUxLU9VRGYxZ0J6V2dFeVIzOVllTQ?oc=5",
+"date": "2026-10-21"
 }
 ],
 "AR": [
 {
-"title": "Oil Billionaire Hamm Seeks to Expand in Argentina’s Shale Patch",
-"source": "EnergyNow.com",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWGlUUHVESnV2MXg1WUZZa2FHZmYxMDlSM2VrbVVRd0tVbUlnQTZlb1FIZ25qSkVoWlJ1ZFprRXZfM01vUFY4QWo1VVlLUXNpdHRfb0YwTlAxbmJ6RnVqdmhBTUJ1ZVkwRXBLamZ2Rk15X3dRajRiX3NER09qbUxhN2UzZkwzUnBINXRZVERfcXlQcU5IcVRnMg?oc=5",
-"date": "2026-10-24"
-},
-{
 "title": "EXCLUSIVE: Chevron uses Permian playbook to breathe life into Argentina’s ‘Dead Cow’ oil region",
 "source": "Reuters",
 "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNExqRXFMam8wTEFHalRwVDJneUltbGcxRnpHdUp5QkhLVzBqTjdlWmRaeG0xY3ZTSlRxanBEOU9JZHRyNi04ZTVlZHE0V1BBU2l0NDJESVRFazNxdXlwV2xwVzY2WklGTDV0NEdfcFVBMzFYMTFqSnJhWDhOR0pWSFptNGEzNTI0aW1mbkpKTzQtUURKck96RXBTV2JEUzVqeUI4QTJDdllDc1ZfUFBpUk54RldTUmd3Y25feF9xUDRKVFo2Z29sTWpn?oc=5",
+"date": "2026-10-23"
+},
+{
+"title": "Market Chatter: Chevron Plans to Boost Argentina Oil Output With $13.8 Billion Investment",
+"source": "Yahoo Finance",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSFRCMEFPdnhZOHhxQWgxZWNyV3N5Y18yUHoxbXd1bmh2dHBiUlcyX2Y1RkJjTUxjU3ZpRFU5US05RFhLRHh3eDI5eFQ1Ym5lTTlUQ0JlRWMxZTd3dmx5RENQeHVfdXhMM212MnhKTE1jTTc5TVY5Y3p6UmZ0cXRJWW81RjU1V0RqVTBkVFFzXzFtbS15UFE?oc=5",
 "date": "2026-10-23"
 },
 {
@@ -2357,16 +2357,16 @@
 "date": "2026-10-21"
 },
 {
-"title": "Argentina asks international court to halt the UK’s oil exploitation in the Falkland Islands",
-"source": "Jurist.org",
-"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZTFGeWFNb1oxZC1mSWVQSEJzQktUWlF6Nk92dVJ6Y2xjQ2w1aTBJRllnd3FTUFFuNk5vM1JwbEN1X090aUJlNVByZmhrY09LWTFIUGlGNWlSQnBSczkzRlgwQkxZN01aWHlNc3kxMktYeWZSVHMtLTBMTi0tbjg4TlltNTZFZk4zaEo2bVBaUlV5YTNrVTFFRXhUQXppWGsyZGdraENESEd4cW1SdFVKY3VpM0wybDljUnJ6QnpxX1pWTkdDblE?oc=5",
-"date": "2026-10-14"
+"title": "YPF lets additional rig contracts for work in Argentina",
+"source": "Oil & Gas Journal",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORnlRX3VKNFZaUm15NUhJY1ZLQWtaWk5DQ09WcjM3UUFYRTdHbEo2Z0tGbFJ0T0czUFNSd2hqQTNSUlFNQTlyYW5pRjJkdHpwODI3Vi1fRjBBc3ExM3NKZDFlYllMalFYczA4THlTREtDRmk2NzZ2aG4xemtVVmxnQXVDVU1FVnJCZjFqNHI3eU1iUTRMTkVERmpoTXBOaVhKWWFJ?oc=5",
+"date": "2026-10-16"
 },
 {
-"title": "Argentina seeks tribunal order against UK oil activity near Falklands",
-"source": "Reuters",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbi1FVHFsVEM2RjVqWkpZVFBEemU5RFZQN1N3OHB3WFRLcm4wWHIyaFN4TDQ3SVB5NWVFWkRxbS1tbThCWXk3VHExZXB1WGNiT3hrYlJQQ3ZqRTBaYTNIdURfZGtSOXZxNDBCbV9lTWoyUFBQQUpmdUtTc2M4NFF4TWxtVmgyTmdOSzdBWUxtNGNUam5DMDc2dUZsNUFaQ2NTZk1yOUxlZjhFLXFiWk1ZOThLS3huOGI2TVp5blFB?oc=5",
-"date": "2026-10-13"
+"title": "Argentina sues UK over Malvinas/Falkland Islands oil exploitation",
+"source": "Argentina Reports",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUHJoLTdyR25leno5bWp1eDZndmNtSDlEa3hQRWZrQUpHR2lmc3RTNHpjbmdyMTlVZV9BcnFuYy1LZXRydXAyQVhxOEZJMm1iTjFsR0hVRUEteTlyWjltYVQ0V1UtQ3JnTHdDSExhSnR5ZWtjZDNTanZ4YnNPRmhSYzJQWEtCdldoQnJrWWlBTzViNmhhelFweUtFbTEzaXdQc2c?oc=5",
+"date": "2026-10-16"
 }
 ],
 "BB": [
@@ -2403,22 +2403,16 @@
 ],
 "BO": [
 {
-"title": "Mike Akatiff, the Land Speed Legend, Going for Gold in Bolivia",
-"source": "Cycle News",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR3NMMFBGLTl2S3hTNkIwLWI3eTZTRy1qdW5DR2NxalZPVzBacl8tX00zbjJqSEFBTzR1XzVEMHJCNXQ5eVpBY2hJSHUxZzk1Q2k1OXJGTXIybVpMUXhLMkxNSWhRZDFfN1MxRG1mRzQ1ajRCOWRKYjhHMmxNdmFzdGVnMGNIVnRqeGhnSHVkRzEtTGhpdXFWYkVUUWN2OUU0UUk0TVNR?oc=5",
-"date": "2026-10-21"
+"title": "Bolivia to raise ethanol blend in petrol to 18% by April 2027 to cut imports",
+"source": "EnviroNews Nigeria",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNczhCXzBHWE14VDdZbWNRY1EwZUpST3RqLW4xV25fT1FLRXpZdkFvd2FEQko3MmtHMVdNZFVlVGdzQkVwdURVTVl2T3V5VkpwcFRFQnJpNEhydGlVQUNtVmV1a1VuNFJhOHdXLThfR1ZIcnp6RHVoY3I5d1JwUVowZDRabG92aHpnYnhnWGNwWW9qWjlFYlJvU19MWTMzby1kX3ZITTBTQ3Q3WDhUYTI0?oc=5",
+"date": "2026-10-22"
 },
 {
 "title": "Bolivia sets 15% ethanol blend by Nov. 1 to slash its ballooning gasoline import bill",
 "source": "Latin Times",
 "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxON3dRR0o5WVIxWUlrZEZ4MU5ZcWN4MkRoazdrUk1OWXhPTXRoSGpuVHdIVUtBaDRfNTZCUmdUdFBuRHlOUG8wQndMSkpoYVk4REZXR1BhM0lyXzg5Ykt4WGhoZ2xZcGdVa1R4X3NmTk1EV3g1bTBYN1Vub0tLeGVjd3J1dUxJNWRfZ0d6R2YzRFdISlRnREZjVlVDSUw5bXNDN2dJNWJwS2ZocTBNSWpWQmdBT2daVnY2dGxn?oc=5",
 "date": "2026-10-21"
-},
-{
-"title": "Can the 400mph barrier be broken in Bolivia?",
-"source": "FIM",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQUh1VEE3VGlYS2lqZTNTc0ViRXktdW11TUdmQ3Z2Q2NCT2dxXzF5dFlGODVrUjh3LVpfZ3R6VWFkUllXWkVaQXJwOGFTVEVCalFZOGIwcGlIUnhmZVBFRVZ5cGJQa2JuSnJhV1VEMFRMSjNaWlk0azVNbkVCbk9MejQ5R3V0RGV0ZW1WVlhwYUFhX081SlIwZzRPYmc?oc=5",
-"date": "2026-10-20"
 },
 {
 "title": "Bolivia's Energy Crisis Deepens as Natural Gas Reserves Run Dry",
@@ -2431,6 +2425,12 @@
 "source": "The Cool Down",
 "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbEt3RUZiNlQ1RXRwYnVFVk5BS3BpamhHbDd6OU5JOVBlc3NaZHZOMUtFQ3R5WmdFTVN4bkNiemlfX1EyVUxYT1NCWF9TOEVHR01tel9XamJTS0lRR2pMMElpYTVDQi02eWVZS05kUnE1Q3ZoYUhLOHMyNnZxVTFLVmJkNEJjZFRl?oc=5",
 "date": "2026-10-17"
+},
+{
+"title": "Bolivia - Oil, Gas, Mining",
+"source": "Britannica",
+"link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXd1J4M2xTcXEydmpOakVxamkzaWozUzhaUnJQbFJxSGgxRlAtMEItZll0NTMzWGJwRUtPUG9BSlJwZGxaUXJzVlh0QlQ3ZnFtdGI0R25EMG1ZT3V5V3h0MHdXMA?oc=5",
+"date": "2026-10-16"
 }
 ],
 "BR": [
@@ -2499,6 +2499,12 @@
 ],
 "CL": [
 {
+"title": "At North Block in Yountville, Antonio Natal cooks with the seasons",
+"source": "The Napa Valley Register",
+"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORE1kUi1vNldZNlZrWnRQOFVYcENzamtTU3NVb25qMUJscWxDV0RoRGNaN2ZOQlJtdFNtd1NwQXBxeF9xN2JEbGlmMGJockVuNU15LVhKb1ltY1R2VmNiTXBXVnR4di13S0pQdlpNekI2d2U3ZDFxcjRPLXVPWXJaSHhyc1hyX0pHNkdZVFMtXzYxYlJnVDkzbURqUkV4S21KZHNPY0pydE5WcDBCWkJfU2pQTW5kREx0cmV2ZUZORlBUbUpacUQzSk81Qm51cHhtRGxaQXVZNmdhWS1HUjFESzZLVUVfUQ?oc=5",
+"date": "2026-10-25"
+},
+{
 "title": "Andrew Zimmern Has A Very Specific Way Of Eating White Meat Chicken",
 "source": "Mashed",
 "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1JbFVldHZkd29YNEpfTzBJc1dTZHZjRDJ2Mk1wNDRwUVc2VkhpczNWZS1kSXd1VVZiMlU0N2NNYkg0SWprVEdudWVidEh2WXVCcVhhZ0J5Um16TGhSY2JqRVlzMVJRQ3pORnJzOUhaOURGYnNxX0ZBSUxR?oc=5",
@@ -2514,12 +2520,6 @@
 "title": "Pockets of Joy",
 "source": "richmondmagazine.com",
 "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNREVBQlkwSFhYVHlObnNKZWZPaWdBSjRBSk0xWFgwX3FsaXU1MnJsbDNmZlNrOW40QTZUMGFMX3hsNWNrZU1idjhtdlF4UDVUcm1aaWZyZ0JucGZNNkRJa1BLajVmUV9qdFZwbDQ5MHM2TzVHQzAxY3JQM0Zfa3FnMFFQS3cyU3N4aGNwTnVyeS1obTBvNnoxc0ZzZWs?oc=5",
-"date": "2026-10-23"
-},
-{
-"title": "Chile hydrogen financing project reaches key phase",
-"source": "BNamericas",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdWJZQ01HaFM0aTJ2Yl9yLWpidXVhYVRCM1gyd0RwcEVycFkxNmU1TWlqM0xPeWVKVXdST0V0Nm1zRWVabTVIMVdnd3p0UkVGR2g4S2tZdXJ6aUlpTVBteFJBeW9XWlFad3QzM0ltRU14NXZic0JFaDRfY1JZYTVvMm5ESXFvaV9Ydmt5NE1SM0dMWXM?oc=5",
 "date": "2026-10-23"
 },
 {
@@ -2595,6 +2595,18 @@
 ],
 "CU": [
 {
+"title": "Cuba accuses US of threatening countries ahead of UN embargo vote",
+"source": "Al Jazeera",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUF9ySjNjakdaNi0yUV9paGtjNlAxbGN5S1ducXEwRVZoNlpMWlZIclVpYWlzUUY0YndKUWhFNF91YWJUaHdIU0hoQWtGTkRzZUxQMEg3MFVzNUxGWjQ4Z2RxOVFELUdxVzJkbGp3WExNSEhKeS0yYUxaQUxhZUlVWVJmUjRaTzdydjk4RUNfVnZaUW54SUMxSjB3d2R0M1NPXzNOc0QwTzBELWvSAbABQVVfeXFMTlFUeF9iUDRPTk1rQUhRb01EdDBteGt4T0RKb0VfeWJxZVRmX3VMdHJqeExWVlRfMHJsMm5yUnNsMURQYUkwaU1DaDlYSGlHNEdvcjMyX0dvYkZqTXhXYmJhMWdWTjNPdnV4NUFvWnhSWnN6MDZibEtUblJuZTlJeFpUQUNtSjNFY29KbnFDNEI3S0dKYUxRc1Q5a0dRZi16aFc3RnRmYkJzc3gzT00yZlI?oc=5",
+"date": "2026-10-21"
+},
+{
+"title": "U.S. embargo, sanctions on Cuba impacting power supplies, access to medicine",
+"source": "CBS News",
+"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9taHhZdkUxTjBJSFhvd1ZtcENOUlVoVzI0STVhZzdMaDdBWW5IeFhxQUVHMFd5dlRBVVdfY1lBSG1Na3M3TW81YkhGSXlZRnNaSEFsVTNUbk1fcGd6TE9WU1hoMDg4NVJJbnBtLXNESC14ZmdiNXUtRDNn?oc=5",
+"date": "2026-10-16"
+},
+{
 "title": "Entrepreneurs in Cuba are snapping up American fuels",
 "source": "The Economist",
 "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT3A0a0diV0VIQVpZWS1kaDF5bkRtUXhGZHRPRUtYeXRPc0RwZ1dDVFJmZlp4MWlDanMzMExmZ0R3aDBkelVBSHZXbGFkVjRkWXVjbnRNSVAtYWpPZmNZTWIzSFFBV3dTbWtpUjJxa2V2VjBvc0RUSWx3N1Q0Q0VybmNRd2w2Zjd6Uk9SWkhWM1hrZW9PMFVLUG92djY2Z1NONmJLQQ?oc=5",
@@ -2611,18 +2623,6 @@
 "source": "Al Jazeera",
 "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNblcwTlFBZTZVb1F0WG5fdUw3SFdndDlENGc3RFZXRkZ5ZllBSjlXLTJEUGpZRUZxaTUxdUFlZUZIdmJNUk1LRnV0cHFNdS1DQ0ctdlZ2RDlKamtMQ0hETDlwc3ZjVDNpTDVlWXhVc0VkUTA4NDl6czRCSm1GdTd4ZDItUkh6WTZuSjU5MWVuZmY4c2xpdkFzcXBVMmVxNkNscTRKQzBDX0VaMGl6cWJJLdIBtgFBVV95cUxQUktvRjhzNFdBNkVFQXNDNW5EZktPa0NqRHg3M2Z5VEhmYkFmNmNxUF9wbURxNHVJNFZnSHV3UldYdXlCOEF1QzZDbWx2Z21KUVJ1VHpGcThFNDJ6LXNJa2ViSjItd2tibVdKWEViMXAzUjl6ZzRpQ05vdEFUR3JsNnlxV09BbVRpSW5NelluWUdlWHVwanNQTnJKOFZjQloxdWFNSGdNVDUwbkdiT3JoamhqOWtsdw?oc=5",
 "date": "2026-10-12"
-},
-{
-"title": "Cuba denies involvement with island-bound fuel shipments seized by US",
-"source": "Reuters",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdTdXQkZiNmZlU3FaSUpwSjVIdXRNM0dOYWhzaDU2a2Eta2NIUkNLODZuOXVycnQ1SFVLalFMRUd3cmNHT2NtVHhiNTVpdDU1bndRa2JDSXo4MFk3VDlHWUprRVBkaTZtU2FoOUF1ajdNNWFJcDgwQmV3MGRGUUFyUkw0dVBGa3I0bFBlZnNjSWJibVFTc2NGdWNsUENKeG5vRC1WaHNyaVY0aFJ0anNUdW5tMVlZRjIyMnJlQ2JB?oc=5",
-"date": "2026-10-12"
-},
-{
-"title": "U.S. becomes main fuel supplier to Cuba amid surge in exports to private sector",
-"source": "Miami Herald",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbkNvV0lvdG83bEZwYWFyRTU1c1JzOGpkYWtZYnVuQ1V0S2dWNlcxQk9sMzRHS1F1RjR5eVJkN1k3ZktrVVc1TUZxNUVnd0JvSlgtTERnLXdOZE1hY0dnendtcWJDeWMwVm5qUTA1NVhUNHZsZzdBYTVyVFlBdlJmVzJ3Z0FMZGhGbE15RzV0MVTSAZABQVVfeXFMT2l3SExxVk5jRkV3ZkNFOXBNWlVfTU5mMGwxTlVTT0QxUlJaVjZ1TU5hVmVHZ1ctUm5mNXNWMGppTXM1UlhmS0FUUU1TaUQ4TnZVRmlUenRxME45a0JDcDlqdHdkQnhyYUpraHNCTHpKdWVMZTE4bmVxRlBNNFhhOEh6S0tHTlhRYjZDbmNabVlH?oc=5",
-"date": "2026-10-12"
 }
 ],
 "DO": [
@@ -2633,22 +2633,22 @@
 "date": "2026-10-24"
 },
 {
-"title": "Guyana is swimming in oil, but unveils its renewable energy roadmap with a focus on hydroelectric and solar power.",
-"source": "Energía Estratégica",
-"link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMWRYQ0YwMGMxaW10UW9DeE02TmJzV05md3JtTDdVTndWODNTYnY0WmNDU3lhY3JRNzA1VTFrT1djelRqdVdvN21LQ25wcXBtZmQzUmhBSDJSZXp6NnFySFVHdnlVZ3BvMmFLTU1JS1FrOTgtSlhlaFlBd0U0aTVDbHhMT3FUNDVDVWp4U3pGRE83NEpRU2lYVnR6ZjIyMFIzaTVBR0I2cGRhM3VoOV9IcUxnWVo0ekp2eUQ4SDY5RnlUMnhGZ1VHMElyeXVPY0JYdk1Bd1FGMnRGWHVGTFE0WWQxbUFWaFBuVlVVTERYRHcxREhqS3c?oc=5",
-"date": "2026-10-23"
-},
-{
 "title": "Dominican Republic (DOM) Exports, Imports, and Trade Partners",
 "source": "The Observatory of Economic Complexity",
 "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZZUpQVnN4NnQ1b25GUnQ4aGRraTdwb0NjZnE0OWhuWDVKZHV0bS02QkJvOFdXZWRjMVp3endjMU5XYnV0bktjM0hId1M0VW5PRXc?oc=5",
 "date": "2026-10-22"
 },
 {
-"title": "What is the average US tariff rate for Dominican Republic?",
-"source": "USAFacts",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM0xuQ3RNei13bDg4ckJyalFORlhwX2pIMUVNamtTYjZULVU5SkE0b0RaZW1sbHM1Tld3NHlvVmt3YllHNmlPRkM0YzZxbE5BazlOMllhcmJMOHVGN0VMeU45VEh0MGUxS1ZyZzBhQ1hWQkptX2g0N0xiWXJKNko4aE52OE5BeEZiTlZFQWlOOEJITjlPaEhrcUFjUkxuSHpsSFo0?oc=5",
-"date": "2026-10-16"
+"title": "El Salvador - Agriculture, Manufacturing, Trade",
+"source": "Britannica",
+"link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBULUctQ3ZvZEdnNDFGUm1DcUVUWFNzeTNCcDZVRWdxakxDMWFPXy15QUg4VVgzN1p2U2FfR0JWZ0d0ajRndVVsbGlGVkxlaE9yR25GaTNEVDl6SlNVd25HbHlR?oc=5",
+"date": "2026-10-22"
+},
+{
+"title": "Government freezes electricity rates, increases subsidies to protect Dominican households",
+"source": "Dominican Today",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWU9XWF94M0M3UGRhN3p5UmJtUlFncXRmWmRtSjRlaGphcV9qZnF2Um1SXzlPSzdoV3k3UE1qYkhrdUEwZS1id1BMV2lxWDFha29MVmtiZGpucXBFR29FQ21jOVFZOG90ZmRiWGFGcG1QSkx4ZVdvOWpDMzFsMkJESGpXUVhVS3VWN1ROQTVmUDd5WlQ2dUlTWjF5Rm5HX0Z5R3Q0eW42Tnc2cXJwSW1RU2RURkhQT28?oc=5",
+"date": "2026-10-20"
 },
 {
 "title": "Dominican Republic and Venezuela to discuss direct purchases of gas and asphalt — The Rio Times",
@@ -2683,10 +2683,10 @@
 "date": "2026-10-20"
 },
 {
-"title": "Ecuador resumes the transport of Colombian c...",
+"title": "Ecuador selects firm to prepare critical, priority projects at oil refinery",
 "source": "BNamericas",
-"link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdWhLUG9KSlVPcE9MZ1NsR1dNVk9FQURrUGJlTzVLcTFGQjNyTlR6bzNrLThLN0VxOUNta3REVENjSmhUZ1JlcDlVZ0RQMC10Wk5hUHVYXy1vTzFUWVEyT2pncHdqRlloS01YLTg5MmlyYlExakQwOHNQN2tUSHpteTRuZDNOdXRTeDN0TTIxZ1FCQWtzVlVacnVSLVBGa3QxSUdzb01Md3Q3VVpTaW5RUjVtZlJOMHl3d25kX2x1VFIyUkcwTGtaSzhfV2dwYTV0U1N1ZXpuSXg5bDVTUXcxa1RmZXhFSXlMWmEzMmRaYw?oc=5",
-"date": "2026-10-19"
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSndXekhYR0h6WVhLbXZNYjFmUDFfZlVHTjZzanV5MUw0VUcydS1tZVBjdF9QSFdWLWRzUmE2Z3ZoZlg1OWhUdFNydXM1a3ZRVkdza19sQkFPUlU5aEFpTTBWdkJ5WUVDMkdDUWlnRE1Uc21kbl9ObnRuX1lIMF9MUksxR3lfMzMxWjZwZzg5T01seElHenBpTEJONFhJLW5KNFVaNkVYMHdRb2Zmc1E?oc=5",
+"date": "2026-10-14"
 }
 ],
 "GD": [
@@ -2703,22 +2703,22 @@
 "date": "2026-10-20"
 },
 {
+"title": "Grenada Travel Guide for 2027, the Caribbean's Spice Isle",
+"source": "AOL.com",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNb0VwUUN6aFhXQ0NhVl9qWGtOeHFmaHphT0hjSy1nTklLV0otUktnUV83c2dGRi1yVm43TWVOVTZoVHZiME1KcjZ2Zk5Ja3dJSk0wNW1FS0Zxd2JKNEhHZUFFUFZaNmw4Y2xJOG9yd2ZnRm5zS0t3WjZrTWlQWS1oZEVVSk5wRHc?oc=5",
+"date": "2026-10-20"
+},
+{
+"title": "Discovering Grenada's rich history, scenic beauty and culinary traditions",
+"source": "Stuff.co.nz",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWmZyWl9iWW9KTXgwWW84Rkk0VFBkRVBuZFNFamxlckh5RFZfMnh5Mm5JMmd3MkE2RkE0dFFYbHBFRmN4cTJDVEtCbk5hOWNsTzQ2SXVrMzBnMkcxdjU0bDBJTkdxc2lpZjlHU2hxWFFmNEFYNG5JRlk0SGFMUEVSOXZya2RhRXhDYzBydVNnSTZSdUxRSXJaYlpLR1dlNF9zSno5ZUpzeWE4RGpjSVlGRVF1cGE?oc=5",
+"date": "2026-10-18"
+},
+{
 "title": "African Energy Leaders Call For Action On South-South Oil And Gas Partnerships",
 "source": "Eurasia Review",
 "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdnhNMXd4Wno1bk9nYktwUGNWQ1RULXdXREFVUF80QzFmcjhBMm9Rako1YjRfU2xTRlhCa05EMUtLMjBCMWFESndRclBmV1M5TmdlTWs2c01ub3JjNjFWN2hsTGxKZVRvWmxmOXFnVWR6cnZaaFJ5OGlfaXhlLWZzUzVoMjRJNHFZNV8tSFNlYXgyb0I1N3BmUkd2Unl1cWJFNlIwQWVWT3VRY1V5WXNZT3lnZE91YjlZdHc?oc=5",
 "date": "2026-10-17"
-},
-{
-"title": "African Energy Leaders Call For Action On South-South Oil And Gas Partnerships.",
-"source": "TRIPURA STAR NEWS",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZXNKWUw1ZnZGZ21qejc3RE9NT2dUZ00xOGxXdW1JZDIyWmFJNmxjY2pFemtVV2tDSlZicll6YVl0MnJmU3dQc3ZFbFQya2wxaWsyNjhfMHl1NklVNTVUX25BVmE0V1lhaHlKZ3Zfbk9zZGVTbVZqRmFoZ0VWNlhFX1BoNDJoNG9ZVW14Z09XRXZoaE54V0pDLVZvZV9GV2lOa0l3aXNrMFZZOFNJOEFTRw?oc=5",
-"date": "2026-10-17"
-},
-{
-"title": "NNP launches ‘Better Grenada’ campaign",
-"source": "The New Today",
-"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa0wwZXNwcXZwMWQwZ2VkTlhUQndlSVpPa3I2TWpLcUhFYmZpLWd4MS1Pb0Q1QTVhOW5lR25oTXJtT2RlWFJrWTBhYWxsYTVuX1VuWXBnVFA2UW5iRjZVMGJpWUpxWlFBQ2FTeVljbmo3T1NGTWhybF9YOVEyRjlucDExX00wNEhsTzAw?oc=5",
-"date": "2026-10-16"
 }
 ],
 "GT": [
@@ -2883,34 +2883,34 @@
 ],
 "NI": [
 {
-"title": "RelaDyne Acquires OilRed in Latin America Expansion",
-"source": "National Association of Wholesaler-Distributors",
-"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY0hDbnIyTHZ6VDhoOVlLZHVxeE5RMlpUdEZQWGV5MXBuamxOa29yVzdLY1Q2ZjQyYWZlZkVTc0dwM19MVE5PbENvbW5wenM2VUJoR1l1U1pfTS1lRW51X09rUnlZbWVXRl9ITmRxd0pCend1VkFCM0s5cG1jYUpfM0R6M0lURUND?oc=5",
-"date": "2026-10-23"
-},
-{
 "title": "Nicaragua - Farming, Crops, Fisheries",
 "source": "Britannica",
 "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUGVVVTVyYlBBdzlEa19FektHdE8tVzNvLVNCb3BPZkRmSDdsaEdWY0ppcU9GcENPY2NmMDNGcHJxbWFYUHJtOWVYZkstTlpXOE5FWktwTEs2YW85RnliTGNvanVjNFlNMFhWUHJiYmY2WXhDTWl3aUY1NDNaaWFLUA?oc=5",
 "date": "2026-10-22"
 },
 {
-"title": "October Marks Highest Number of Strait of Hormuz Attacks",
-"source": "USNI News",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOFY0bEpnVEdQSEZwWVo1anhWQjBYOWlIUmFxVnNDeHFaZ25WR2psVU1aOEpoTlhKMl9ubnZyY2ZGb0hrblhfeks0dzZLOTZ3bXUycTFLeG0xSHR1N2paTlNwZ295X1ptX3E1eFdLMWZXUTBqV0tYaHY5YVAtZWNpNHpwNE9SakZTTjR4bkJPNzdlUEE?oc=5",
+"title": "Nicaragua - Ortega, Politics, Revolution",
+"source": "Britannica",
+"link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vaVMwZDZaOEx2a0Y4bzk1bTNuY3pOWVJib3J0UTlrRGhsejBBbS1SVlZWdGdjSTNELXZXLTQzTkhQcHNsQlpvSXZia1kzR2hrdmxMM1o4Yml3ZklDOWtZblVncVZwZ2JRNklqX3VtZzdETllp?oc=5",
 "date": "2026-10-22"
 },
 {
-"title": "South Sudan suffers drone strike, Romania finally gets a government, Colombia revives sea beef with Nicaragua",
-"source": "GZERO Media",
-"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSUZXbWx1UlJhVm1ua0lvYmRmTHVZYkRhYlRSSDBiN3Y4TXliZjNuem9kOEhCSndaWkYxODQ2anYwaFJxc2RJOWh4OXlOcGxWTC10U0IySXZLNUJiQ0UwRVVRN25qbnU3MnJpT0xUbTN4aFRIckVycTBNTTFvaDhiY0U1M0JxMVJWYmw1V3dvTG5zWXVLVFUtRzJmY01aYlVkUENpaVNISzZKUGU0bnJHZGVZNHRjV0hlU1FBMWlDV3JabWZENHVna0E2LW5Fc3NPSU0yaHIxZEFWelBjZDctb3RR0gHjAUFVX3lxTE9NVHpWYU5pLVRBaVFLZ2ZCRDNmOXF0c29JV3lYblo3UWFKd3dJSTR2YnVSc1JDUmxZQjEtRE1CRjdodUk3YUZLM3NCemZmZlNRM3Q0RGljRFJhZVZrZ2szTV9ZdlJRb0ZIbWhuT3RkSVYzaG1jT25fSjliRjRqWXZFQm1TYUswZzluOHA5eFJoTlB5M3YwUERlTVhORTlpQWJ2ZktYVEN0Z3I4NWhaVFJ5Q3NUNTNON3BEWmdkbnVhUnhPcjZDdWJJWnRzUzRETHZ6M29QLUZnN1RrU1FtV3RRNlNz?oc=5",
-"date": "2026-10-20"
+"title": "Kuwait-flagged tanker with 21 Indian seafarers hit in Hormuz amid record high attacks",
+"source": "The Financial Express",
+"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUjlhT1ZIZkR4TjVFZUdfN1FBZnNIV2tmb3RLVVE3eTRKaFEtd2hNanBucmlnMFlYQnhqRTUzLTNhbTJlNmt5ZE9BV2IyelZlNFR1TXllWkJ2U0w5UW9WZkdZNDdtczdZVm5idE1GVElDdU8wSDBZN3lpZ3JEdTR4MFk0NEVoWk1VeWtmLUNoaGM2XzRZa1FnbHZ1eHZqRXRqMHgxeG9wdFhYRlhkdWJjcERaUUdhZWFueGZLU2pZQ0hNTkZqdldZTEtzeEdlNzMybTVJSNIB2wFBVV95cUxQNjI3XzZNendVcjJIQTN5ZjV2X1JTbi0zdWVTTkVrdUlJRmpCQUJKTFhxTjdVMFhzWlE4eG9TNGJfTDBQYkdtWGxRQzd3QXl5U0JtaGZKcXpBbksyd3R4WkRiNEtsRkh3d1hiZUdZRmNrRkNyRmxxVkZzRUpKQURuUEdkRDFjb2MxaXc2dmlGWnFQWHRSY0xJbjh0dkxXSWtvSWwyMkswX044anhUdU9fcmxtTlBQeHRQdUltV3BDREpBU2Q4aWc3anBXWjkzQWVFQWF2Wmc1b0xxeFk?oc=5",
+"date": "2026-10-22"
 },
 {
-"title": "Crude Peanut Oil Suppliers, Export Data & Price Trends | Global Market Overview 2026",
-"source": "Tridge",
-"link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VNVQ3eGpTc0V3WExxZjlhc2pkeUgyYmREVHdlQlJoZG5ZOU1GRjBiYnJjS3JqWThmeFZ0d2ljOF9meUtWZ1l1WWtqT05tRnZDcFhBdmt1NDZCZ0RmU3loMjJHVG1LUQ?oc=5",
-"date": "2026-10-18"
+"title": "Ship attack reports near Hormuz reach record high as oil exports slow",
+"source": "BBC",
+"link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tX0lUUUZkSGJKWXUyb0drR0dsY0M5ZDZ3Q091QlYxSjg2cWJIekZYWEVlb2VRNGFNdWxKX1ZaWnpYajlibzEtQ2FWTjVxUHBqbEJrby1tWUJrWng1Y1E?oc=5",
+"date": "2026-10-16"
+},
+{
+"title": "Oil tanker hit in the Strait of Hormuz area",
+"source": "WKYC",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkpySGtpWW1WbTNNbzI4TUxRcFoyVXN4QmpVaXNXUlFBb1pVc2xjNVJ6UUtfOEdvRmtSX2k1YVBzWWFHUDRJUDhsbjlybUdBTkJGWkF3MTQtNmduazdidXBXaEwwb3NVMmtoYVMySE1kSjZ3VlF5UVZwZHRRa3FkMkE5SUV2T3Z3d1A0ZGdhQ21FeFFXSHN4WmRHN3VBYjBrM2tObVZRUUNpc3pqRGQ5a3NwQmxNdw?oc=5",
+"date": "2026-10-12"
 }
 ],
 "PA": [
@@ -3011,6 +3011,12 @@
 ],
 "SR": [
 {
+"title": "Blue Water Shipping Suriname inks three-year logistics contract with Noble Corporation | Offshore news",
+"source": "Shipping Telegraph",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeU9YYVVHa0ZaM2VzN2xiT0w0bUFsbGZRNy1PaGZLWlFUaXlyb0ZjNVE1dFlwN1kwM3MySjNsTl83Z1NCYXk3dE9MTzdGdEdsWkpySzd6WWJ4NXRVOElIMEZZWWdITzBSeXZMR0lKTnV1N01ETmxrbFVUS0J4TXNiZHd4YzRfSWwwcUtjcTNrdlk3S1lDUlExdjdjd1V4aVpTMldnNmp2T1k2SkFMWWVkSVFTSmQwRkFhRTN5ckpLVlN4NE80VEhzc0Ztaw?oc=5",
+"date": "2026-10-23"
+},
+{
 "title": "Suriname - Bauxite, Agriculture, Mining",
 "source": "Britannica",
 "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BbW9qclJRRG9wa0ZaeW5YNUxISkRUMDl3dmdJNzBwdkVzaHZpRjF2bDJIN1M3bjlOY1R5Z2ZMV0FMbmFHZGVyYlNUcVlDYTI5ZjV2QlZnNXkzMTVFZWc?oc=5",
@@ -3033,32 +3039,14 @@
 "source": "Ocean Energy Resources",
 "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdjZsN3ladFdYLWVsSWZmYkIzTWhPaGp3NE1GX3V1Rm5YWjVnQ0RoUEVBQXg2TG50UVI1V3JZR2ZfemRZcENsa3VNM2tIMzhoSWl2V2VvdTBJVUoyY0JtZE5nNTROTnJTa0NZT2xBSVRYZHRrSnBXV2JndHVvZUVFNXY2ODZVUTU0ZU5sVjhnNWlhMDNzRExGMEVLTjdDdHd0bmdlcGhzeFo0ZEw4?oc=5",
 "date": "2026-10-11"
-},
-{
-"title": "Lawmakers in Suriname call for investigation, stricter oversight amid new mining activity",
-"source": "news - Mongabay",
-"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRWU1X2tCXzl0VEtiWXh6ZUYxZVZrVWhmclFPZnlkZ0Z4cWp3eGg0VmFKNXBCRXp5bEFKb3lQelhKX0Z4Mnhyd0tkVkZYeEwtWHNPOUQ2N3FKQzh3YVZYSXVsSnFJcW91SWtBT0JqWEVZX2NIOGdqY01rcHNEeGxXQXNnWV9pTzk3XzlnWmZGRmZvMzh2T3hFY0trMEdzMUZmU25NamZ3MHFhMHg4aXVZRFhuakR1eWFGQjFnWVNZWjnSAcYBQVVfeXFMTjc1SkJXc1lFWTBNQ01GY2tpWUdkUjBzS3JRSG01MkpyYjg4aGxZRlZ2eTRDOXRwUzJiZk16dllCTUw5bU5Eb19tUjZRbjJYYnF6UFpHZkNKUUxaeHpXUDFuRHRkWkg3cDZCRkJraGtLMUFUb2FXR1JFbUJPejc5Mk4tZHhfY0UtTThadEZLQmEtbUg2TF9STWNmUGdyQmt6VHRiYncyNW9GNkVLdTFiRjlfV01YVUp4ZW93RVZWQW5lbFR3VWNn?oc=5",
-"date": "2026-10-09"
 }
 ],
 "SV": [
-{
-"title": "Remains Found in Haiti During Hunt for Missing Salvadoran Soldiers",
-"source": "The New York Times",
-"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNEhheFZNZ2tfQ1lLWUNHT0c3T29aZ2J1LVhBSmJUczIxNGhSTzFOOUt6M1lPQnZSTnVjaUljQ2w5Rk80UUJ0cndvVzg4ZlJhLU0yUHdNVk9kZld4d2RlbC1WblBPSVRyajlmV1dlMmVXclRxQUZtV2l2ZGluTGhHRDlhNmt2dEx0cW9yd1dB?oc=5",
-"date": "2026-10-25"
-},
 {
 "title": "El Salvador’s Bukele says bodies found in Haiti are not those of missing Salvadorans",
 "source": "Midland Reporter-Telegram",
 "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTkVsTjBsWHMzNGFvRjRsWjhJNUEwSW0wUnN3VlE0ZlhoQXFzZWlpb1VkU0ZNalZzOE5lQW5JcEZnbFNxTzRVRy0yWmVSak54djRtQTh4SDBEajRCa0pEWV9NTW83X0plUF9Pc0NFRGlJYWl0cWlIWFI4M01BTTd5RTJoVmlWVjFkZzYyTHZ2TjlfanR2N2s5OV9oY3pzMUZZ?oc=5",
 "date": "2026-10-25"
-},
-{
-"title": "El Salvador Sends Troops to Haiti to Rescue Military Personnel After Gang Ambush",
-"source": "WSJ",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ202dHdUU3ViV0c5Um5fdEZrcHVuUjlfOTZZdk1oeHluT3JpbHNZWVJzcW43WDF6N01wSGRNOGlDSDc2YmU4WEJkb3J3STloOW9VdmVtRFFnSUlHRHp1YzA0cTlObXpZLXFQY2NrWkktejV1Qm9femlEZUpfVFVfMnZBODBPQXREYjg2WUVwSW02eWltM2hhdW1JTHRMVEtYVTZpVjFnZ1loNFNHdEtvcEw0dERqNHdyV3FTdQ?oc=5",
-"date": "2026-10-23"
 },
 {
 "title": "Trump invoked a Cold War-era law to increase oil production and refining in the United States",
@@ -3067,9 +3055,21 @@
 "date": "2026-10-23"
 },
 {
+"title": "El Salvador Sends Troops to Haiti to Rescue Military Personnel After Gang Ambush",
+"source": "WSJ",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ202dHdUU3ViV0c5Um5fdEZrcHVuUjlfOTZZdk1oeHluT3JpbHNZWVJzcW43WDF6N01wSGRNOGlDSDc2YmU4WEJkb3J3STloOW9VdmVtRFFnSUlHRHp1YzA0cTlObXpZLXFQY2NrWkktejV1Qm9femlEZUpfVFVfMnZBODBPQXREYjg2WUVwSW02eWltM2hhdW1JTHRMVEtYVTZpVjFnZ1loNFNHdEtvcEw0dERqNHdyV3FTdQ?oc=5",
+"date": "2026-10-23"
+},
+{
 "title": "El Salvador - Agriculture, Manufacturing, Trade",
 "source": "Britannica",
 "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBULUctQ3ZvZEdnNDFGUm1DcUVUWFNzeTNCcDZVRWdxakxDMWFPXy15QUg4VVgzN1p2U2FfR0JWZ0d0ajRndVVsbGlGVkxlaE9yR25GaTNEVDl6SlNVd25HbHlR?oc=5",
+"date": "2026-10-22"
+},
+{
+"title": "El Salvador sends troops to Haiti to rescue four service members, source says",
+"source": "Channel 3000",
+"link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZ2R5QnZwdnhLVEM5RkJodFdmWXZjYmJoX04yWDY1TVIwb3A3Sm1zZlVuMlVENElmcVUzUXEzRWFJVGFSRGswajN3SVY0NXpJdURfWHFFYzRHZFRPRUpCdXlsVVhoVE1NVEx6N3dScmVRcENkSmJJbzk5a29KUE1sZUtmelJOaC0tYlFDeXJXMkZFNUw1MWY5U1pobUJBQl94d3h5YnVIQVNqRmlTb2dDQ1cwMklwZjRwOVN2YzQ4emlQOWJBMklxUmdVQm1CRVFjbWFEamoyck5sWmpXYnN4eW1iSUE2U2FZS2cydTBMeko?oc=5",
 "date": "2026-10-22"
 }
 ],
@@ -3183,12 +3183,6 @@
 "date": "2026-10-23"
 },
 {
-"title": "Australia’s Santos cuts 2026 volume forecast as Pikka disruptions offset strong quarter",
-"source": "The Mighty 790 KFGO",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOVNNQnNBNkNFMTk5WUNIaTFvLXBzWW9MVE1SbDR5MEJBSVlzQlp5dWgtbkMyTTNNOGVhWVR5c2pmRDdfdmJUWHNfVFh2bFVuNmQ1bHRHeE9VMWx3R0JFU1dVX200ZXlQdFFacDUyNnoyamtVSEpsY2sybEJHLV9SbHB5U2JFd0wtQlRvVzlfVTFqWWtFaDdxTnh5Y0J5Z3Bo?oc=5",
-"date": "2026-10-22"
-},
-{
 "title": "Oil giants say Hawaii’s climate suit belongs with lawmakers",
 "source": "Courthouse News",
 "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ1JnVjZzcU9OQlBNdUgtZHdhSmJWOVRjQ09IRGpYZF9sOC1fQVhKdThRTlhyck1fZkwyWjh2anZGbUhSNlVPQXdyQURaUktOVHVQQlFZVWVKZGt6OEY2Ni0xVjJBS2VqUWRxNEk0MENhRjlab2JraUFOX2k5ZEhJdFhzeWRyQXAzdE9VTTA2ZFBCaE0?oc=5",
@@ -3198,6 +3192,12 @@
 "title": "COP31 hosts Australia and Türkiye plan oil and gas expansion",
 "source": "Global Witness",
 "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcVNmUVFjQ1lZMGFpSGxKS3l3TlM2R0hxM3pDTURHaFBhOFRCR2Zxd2JKWFptdHpQSUhUbWNZX1dqZFVPSUhkWHZxR2F4VEsxcU9mbGpIQkJJSzRnR3JwNVRMdTB0YWlhb0gyVXhGbWh5NkFIZ3RNbzl1aHNROUY1ZkZNTGxUdnpRdmUzbW5hVXhDMHlMcFVKWVBJZ0R2cHNjMURKRW5JUGd0VlBqajNRaFZjOUE2T0ZXUkE?oc=5",
+"date": "2026-10-19"
+},
+{
+"title": "Europe takes China’s used cooking oil, the US takes Australia’s tallow",
+"source": "Fastmarkets",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWmZHN0h0ZFJRbjZ1SllUS3UtTHRoaVhwX2FOZ3h6a21hV29jd3ZSelVkcEw2b2dGejNEUlpIN1NNSkFDbWxtU0YwSThWTWJhUWNFaHpqUFluaHVkbGY4TkRITjhTdFJoOXFZelB1dFBiNF9TWmNYeG9zZThtTXJFNkEyRzV3OUgyek5uTWh0d1NqdGh2Sjh0NFZqRWxydjlWcFlUZnROclM?oc=5",
 "date": "2026-10-19"
 }
 ],
@@ -3209,10 +3209,10 @@
 "date": "2026-10-20"
 },
 {
-"title": "Bangladesh Fuel Import LCs | LC openings for petroleum imports surge 65% amid war",
-"source": "The Daily Star",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSkNLYUJNRW42NHY5Z2d2V0NsQ0dTOWRudFBhNkVHQ1I0OVlLem5DemwxV2JXYkZpTnJVNjFBUmtVREw4VXBVSWZSYWlfNHg5MGoxWGd0U3F6dlZQcnplV0RoZTRlcjFPYmhtQmFPQ3VESUhLNWZYdEloOXVrTE5vVkltalVpRHZybldDVUdTeS1oeXBmSWVQOW5tX3QzMVU?oc=5",
-"date": "2026-10-19"
+"title": "Amid oil squeeze, mounting economic pressure, Bangladesh seeks fresh $4.5 billion IMF loan",
+"source": "ThePrint",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYW9ENmM4YkF2ZWFmbGxmOElNNnhDdGl4cjU2WGJHcTd0Qmxoa1hSSjRMclM2RjlmaXlEaXRYNTRqNEpZcmlXc1JYZTNUYVdJbUtFSHJVSkNkOHpkMjVpX3E1aHh1Z0xuS3lBT2wyc2lmX1dXQXNnRE5fWkx4MUNPT0RCeUVxMG1LVzVEVVEyd2JaQXRINFJaQ2xXNTZBbnY0RVRsZGw1Yk9hS3pGU1JOYkRRaFpDX2ZyZTV5Rmp6d3UzUdIBxwFBVV95cUxOOWlyb2hjT1RMYWZZMEdfQURlZWVWUzFHTkdKVzNUNmU3Ri1jYTdaV2hOdU9sWFYwTXhDeXM1QXo5OGZSN0F1UUx0dzdsem1UQklJXzY5bTRyV21OLU5waDZzbDc0V0txNlM1R3AteGhybnRPOEVSM3lfcXlZTkJkbUNNeFZBQV9ON1NYc3ZDemZMZjE1bThIV2NNMEVxNXZVNkowM0g0b3BHcEhwY2JaNlJpRXowbTFYTzloeEU1NEhoOGZlQU1B?oc=5",
+"date": "2026-10-18"
 },
 {
 "title": "The Houthis won't back down, but what does it mean for Bangladesh?",
@@ -3221,16 +3221,16 @@
 "date": "2026-10-18"
 },
 {
-"title": "Amid oil squeeze, mounting economic pressure, Bangladesh seeks fresh $4.5 billion IMF loan",
-"source": "ThePrint",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYW9ENmM4YkF2ZWFmbGxmOElNNnhDdGl4cjU2WGJHcTd0Qmxoa1hSSjRMclM2RjlmaXlEaXRYNTRqNEpZcmlXc1JYZTNUYVdJbUtFSHJVSkNkOHpkMjVpX3E1aHh1Z0xuS3lBT2wyc2lmX1dXQXNnRE5fWkx4MUNPT0RCeUVxMG1LVzVEVVEyd2JaQXRINFJaQ2xXNTZBbnY0RVRsZGw1Yk9hS3pGU1JOYkRRaFpDX2ZyZTV5Rmp6d3UzUdIBxwFBVV95cUxOOWlyb2hjT1RMYWZZMEdfQURlZWVWUzFHTkdKVzNUNmU3Ri1jYTdaV2hOdU9sWFYwTXhDeXM1QXo5OGZSN0F1UUx0dzdsem1UQklJXzY5bTRyV21OLU5waDZzbDc0V0txNlM1R3AteGhybnRPOEVSM3lfcXlZTkJkbUNNeFZBQV9ON1NYc3ZDemZMZjE1bThIV2NNMEVxNXZVNkowM0g0b3BHcEhwY2JaNlJpRXowbTFYTzloeEU1NEhoOGZlQU1B?oc=5",
-"date": "2026-10-18"
+"title": "Energy shock tests Bangladesh’s US$1 trillion economy ambitions",
+"source": "South China Morning Post",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTmVIR3BnSHgwRXBKTEdMejlSV01UdWRBZ3Rja3JseDZ6ZFZZUlQ0eE9oX1A1TmVfME5CaWpKLUxZdm94OV82elVfTTlra0hsQkZTWWVEejBkX0xTaGRXTVdmUjVWY0FUSEg4RkIwT1h6NmltcUpHZXNIT2ZpMEZyV25QYWRaWnJUZ1NfWlIwbDBHeFhDWGw3MUlOc3QwR3IwakZrODZPNmdKbFlLSTdGUEZGTHlnajZxUTM2cTdPQ0tmbU1FNVJUczhNaFJnUWPSAc8BQVVfeXFMTVFDbW03aFlNbjBDanhhTFV1akJSbjk3cHhmM1RuaE16YmQxazNFVkhaZFhzaEt5dlZCVGFNaTg4TDUtNTdTbDFyRFNhbGNlUW9oZjF1eG52M2FEaktKVXpNZFBpMjNwclJKOHdWdUxoNlNoUVJVdkphRFhPdXpXYndsY3g5NnBBUGt5LTd0Y0tNQ0oxQW1Vb3JZU1RwMnFFV1dnS1pzczlIOE5mWDVDSnhxVjBrYmZvWGdEVElfUXRrWkNWUk0taDVDNWxwT1hr?oc=5",
+"date": "2026-10-15"
 },
 {
-"title": "Padma Oil's rejoinder, our reply",
-"source": "The Business Standard",
-"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpcEVWY0Q1OC1qcDV0TE8tWV9uUEJZOUZQTXd5R2pRem14Tk84NGw3Nl9aU293ZkpzODVYSnRtUzZWNmhXNzloTXYyTFdSbjBuaFRsUjBSaTNvSHNUZFBQckRORTBuQ1B4SkRWa0xobkdaNjJ6RnQzakt4aDRzQQ?oc=5",
-"date": "2026-10-18"
+"title": "Petrobangla extends offshore oil, gas bidding deadline to March 2027",
+"source": "www.daily-sun.com",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbVlmNTd1bEtrSVNPcVBBZk85eGY4eXlZdHJLS0huVE9DWGdReVp5eUNlU0hReGVGQjZyTGtpX2VWNGxnZUU1dHVIZUxyWW90bmpqYVpvOEhCYkl6dVF1OGZCWFNqMlJFb0xaWnoyUU1MSWlsNG1LZ29oSjhNYWVWNjA2VGdBb1p5djRQQ01DRDc3YkVRd1RoYnpoeE1lT1BqUV9UU1RSR2NaRU85dExlWDRXbjFOZDFLUGhV?oc=5",
+"date": "2026-10-13"
 }
 ],
 "BN": [
@@ -3267,22 +3267,16 @@
 ],
 "CN": [
 {
-"title": "Is China Driving Up Oil Prices?",
-"source": "Robin J Brooks | Substack",
-"link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nWVp0eWN5WEp2U3p4NldnSWRkd0JCcXFJTW1QZ3pqeFpNX0dKbzFhOFVLck9WWllZZDBac0lDSkFuZHgxVVk1WTExc0pKMGpwZmhpNmNnQmM4dDlJU1JFN0pmUVA3N0d6YXFQcEU3VC1DM1NJ?oc=5",
+"title": "China Independent Refiners Scramble for Oil, Underpinning Spot Premiums",
+"source": "EnergyNow.com",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaXdwamRGalpTS2xGckdvbWxRLXJGTlM0MnZSWXZmbTBoZEpKYTVucWVkQ1pRQkVxUWVLME11SkhLNGZMRWppU2xnRnc2cXNqSm5uLUFUal9yNWV4NFNhanVid2JBbVZHdEx5ZDlHOHpreEMyeEg0QlRGWEZXQUZpS2NiMkFCeXE5V203Ri0xbjdtMi1mdjJKekZCOVRCZTYxXzQ0?oc=5",
+"date": "2026-10-24"
+},
+{
+"title": "COMMENTARY: China’s Oil Fortress Will Reshape the Global Order: Bousso",
+"source": "EnergyNow.com",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRk5JWTIyQUZOS0JubnZRZDBMRC1Wem5JRVcxWmN0YWQ2RGFNVmdnUExSc3JFMWFkcVE1QkVUUlUyQ25rM05VMWhxQVc5R0RpQm1TY2FCdGdIOWJyQmN0SUVPZWdpaHZfYVJabHhJOXNybGs0bG9EUFJIQ2dLWVlrRTRLSnp0T3J1UzZjcHJQb1I?oc=5",
 "date": "2026-10-23"
-},
-{
-"title": "Iran’s secret oil supply bound for China has dried up thanks to US naval blockade, analysts say",
-"source": "New York Post",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUnVQUmtBMWxEa044SmZLUWJRY3BNMG9leS01MHFZTkhjdWNxM2h0MVZtVkpKOGdHOUdWd1VXWVdrYWlEcDdTUVl6OE5jZ2xwOUh1SjNSQlMyMm9YdDBBT21IeFc5VGpENWE3c2Fva25QRDFrd3FpWHVrU3pET1lsalB3Ym9EeDRHR2doMkZxQ0ZMWFVTc05rQUhR?oc=5",
-"date": "2026-10-22"
-},
-{
-"title": "Analysts say Iran's floating oil tanker reserves fully exhausted",
-"source": "The Jerusalem Post",
-"link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14a2gzeExlazA1ektFSGR4c2pGN0k2alozc0VHM3VEX2x3RWkyTXFzY0UybDFMZld6UEJQZ3ItM3lmMVBnTGN5UW5zcXVBOFYzVjZmUWZVUEc1UFowcHpzWHV4eE1iRGVNQWc?oc=5",
-"date": "2026-10-22"
 },
 {
 "title": "COMMENTARY: China uses crude stockpiles, but rising oil imports may curtail draws",
@@ -3291,10 +3285,16 @@
 "date": "2026-10-21"
 },
 {
-"title": "China bought half of Brazil’s oil exports as Iran war drove sales to record",
-"source": "South China Morning Post",
-"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd3hwOHpTSFlQd1ZxVmdzTXQ0OEJRRmNiSk5YODNrYzM4Wi1OU3UweXROZlIwbmVSdDRUanhNbVlaTEx4YTQ1dDhQX09yT0ZrZWU5eFd6emQ0ai1qYmdFRUcyVTBqQ2V1MjQ3OHZacnJqektXR0I3OGxkMW45MnZvUG1oVXM1YlVpSnVxMGNtQWFHNmdEWHdMMjNIZUx0Z0p2VTU0dnpVeGNFTS1BczFGN0tpWGVlRG52Q2tNOGtsb29tZE5Rc1HSAcYBQVVfeXFMTkI2eEtfV25haFU1UlB6dXFKd1FuVF9YWkowQkZxLWphQVBFWkc4VjlpZUNNQ1NrbzZVRUdSZnJQRXR4ZFU3SVVxbVA4ZDBRTGFsNVU4YTVpZW5JQVJhbHJJVUhuSVJZbzYtdkVqVjJ5RVZZOURVLW1JaU5EMEhob19valAwTnBUU1E3MXk4YUhudEZfQVRDTzFCMXZQRTQtRjhIdjNDdzQ5YmFKWGFVeUJubi1tQXN3QThNOTlNR3FPMDRudXl3?oc=5",
-"date": "2026-10-16"
+"title": "U.S.-to-China oil tanker costs more than launching a rocket",
+"source": "Transport Topics",
+"link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xUnBBSjhYNThSR1N5QzlueUZvbEk2Vmw5VWduUGhkblNZUTdLRlRuWUtJY0FhbUxUYTlkaktQQUpiVERUenJuMEc4SE9ZT1JqTy1maTNjUUNSQlBVLWhBZHFuM2d0Ynh3?oc=5",
+"date": "2026-10-09"
+},
+{
+"title": "China to resume October fuel exports after holiday pause, sources say",
+"source": "Reuters",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON1hqTEMxUXNhdTUya2dwTlA2VVktRm9QeWlYcDRJWkFiaGg4aXhpcTBFcnJETDJUZDZQRHdIdVBiVFl6UFdNU0VCdFlTRHhaaVk3akVSazBsN3QwOXBSUHFjckM4TWc4LUtIdzNyc2kyM0RjclFNOG1QYkplX3ljOHBFR1NibFRwUS1QMHAyd3ZhZjZTZGtoMmVjbGsyUWdaQ01FV21jSFFiM1FrQ0U4eHRYOTRUZlRTeTRlRFJVOFh4RVk?oc=5",
+"date": "2026-10-09"
 }
 ],
 "HK": [
@@ -3305,31 +3305,37 @@
 "date": "2026-10-22"
 },
 {
-"title": "Oil Street led six tested Hong Kong tourist scenes in short-term restoration",
-"source": "Bioengineer.org",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMllDZVo4ZDItYmh2SENhdkFPTmh5LXl5VVFWcEtPRlUxMUk2NThpMTNMUzc2Vk4wRHFmanZNNFFmNU1ZYVN5NWE2SGE2MVVyd0FvUUtTb2s5YjJfR01zUnZlT1YxVThROUJpUE0tOVVrN1dMQ3V4SmczX2ZzaUtpZmJ0aVJMSm5wREJxRXFLcmprNmZXN0Z4QWt2X3NscnJ3QjBV?oc=5",
-"date": "2026-10-22"
-},
-{
 "title": "Hong Kong Stocks Fall as Oil Rises, AI Investment Concerns Weigh",
 "source": "Moomoo",
 "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ1ZMajVNb2Q4ZkN4MGwzaEZDd1k5TGpfQ0VwWEtVcGxxM01iSjlJYUIxTk1ZeHJjNDV0MXdrYU1iOUFkYk9MS0k4X0pWZFVRTjFyYTQyUG1jRE5McE1RTDFraDZ3WVFBQlFhMnRJN2p3WTJxaDI3d1hwSUlVelZIU3AyeWp4V09KUWxUMXdWYnF1Tl9tdVBsWWxFVDgxaHFvWVFN?oc=5",
 "date": "2026-10-21"
 },
 {
+"title": "Hong Kong Stocks Fall as Oil Prices Climb; MiniMax Slips on New AI Model Launch",
+"source": "marketscreener.com",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdWRkYlBUVFlpZEdvV2VqSEtPa29oMktsaWtLbDhlN1A2S3FWMkZ6TVZVa1VOX3FxNVFRaGVLYVdwQWV2UGdEOFdpcllsbi0zQWV4UTI4SzNVVjNVOWVBTTZCX1FnVy1RVFJwQkJJZTdMVkowbEQybGdieFA0cWlEM292RVhkZzcteEZybjVfRkdJaDlfN1ZCZDJTWE5yT0pKNnJoblRYRmctNXlJWjAweWUySC1DTS1FVmlmb0FDcjN3QjMtR0tyZTFJdw?oc=5",
+"date": "2026-10-20"
+},
+{
+"title": "Refined Petroleum in Hong Kong Trade",
+"source": "The Observatory of Economic Complexity",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZUJ3WFdwdjMxcWdIcy04ajNzWnI4ZjBVUnZaMGVvRkoyMXZTSWNPaHZMZ0VldFdnODNoUUQ2cU51SnhmSnZtUmJQRWlUTnFZQ08tREJtZUJNdW5XeTJfdXlfMXZGTDlCM19jYmhzdEZfT2JnWnZQcjdlaHJoN3Z2TUVQWQ?oc=5",
+"date": "2026-10-19"
+},
+{
 "title": "Hong Kong’s richest man bets on oil despite global shift toward clean energy",
 "source": "VnExpress International",
 "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNczdjSGRsUXhmSmlMVDRGd2RkLXFRNVZPVUlGdFFRaVlIeG00Ny01bWlTY1k3MTZGN2d4ZDdPS1JyYWhfTFp3TUowWXdlcEd0MVc2VE5NSDk1Q2Z4SWNoUUhfOHlSaWZTdEZ1R2tZelJnZzZvQ05xTHpYOVBfVG1SWjJXMHZ0ZG1ET0VpSnlrZ1lHOWFqc3FSWXlKbDNjN0dxQUtPdzg5Tm1IbnpUMjdJS0RfUUd6djdqVWQ0b3VBVzN0SVk0Z1pNMnNnVElJazhNQTF3?oc=5",
 "date": "2026-10-14"
-},
-{
-"title": "Hong Kong Stocks Rose As Tech Rebounded Despite Oil Jitters",
-"source": "Finimize",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSXl6bzdMSnpqbnpWNm9tMzI2T1JSLUYyQ1dOUUNTVDVkUWF6TzVEaWFXNkZTa2EyelMtc2QwXzNNS3RNZUZ3bHJlRDJ2cXkxbnpBQUVyYTR1OGtvemFJeW5zSG9id1BsbjFGemJJS2lBS3NRTzRBalBEZFRqSmhUa0F0RzhwZWw3MDlGOTVMSi1Qdw?oc=5",
-"date": "2026-10-09"
 }
 ],
 "ID": [
+{
+"title": "Fuel crisis hits Indonesia's Bali, triggers long lines in gas stations for days",
+"source": "ABC News - Breaking News, Latest News and Videos",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaDJ5N21XY3BHTWdDTFk3ajNkNXlwYXA0MTBVbmdWUlBDY0JRaGdsREhHWG9TRE1VazJFa2N3ekp5UjJteG15UldXRjBKRXkzaWk4bFZ4VjZ1cjdzT0J1ZlJvbkFmSzM5eWtJMGJJRmR5VWowd3k5NjFKOVdETVYwQzdPdEdkR1ZnOW1hcm9qNGhQd3lCMGdyTHk3TGd1QnZmM1RmcG9FTXJ1Z9IBrwFBVV95cUxQeWVkVjhPc1kwVXRYUzd4enVTNWNJWXBYaGQ0SWZqUFhqTXlhdlFSZ0hUMnJuMmxPNmJrT2w3STQzdWpCaWxycmtCTURQN3dnWEtiLVdrZmlIVUdhS0U5Q19iRERZVW1IczZJdUxlOFpvRV9qUzFIR0h4R0lwVUlYak1kSU1BQU02UFYtaUxEY1Y2REx3UzNrZEtxTl9palVzd0VybDdzVUM5Uk5sVC13?oc=5",
+"date": "2026-10-24"
+},
 {
 "title": "El Niño threatens Indonesia's palm oil output as drought worsens in 2027",
 "source": "AgroLatam",
@@ -3343,22 +3349,16 @@
 "date": "2026-10-23"
 },
 {
+"title": "Space Debris Found Twice Within Days Amid ‘Growing Casualty Risk’",
+"source": "The New York Times",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOamIxSkJCT0hibHdxU1BsSEVvVGpLS1ZfSGI1enFSWDdpRmg4a293Sk9LanJoR0MzOHNkVHZYbnJyelBrRnpTVEtRVmd5RHNOYmtxV0tUMTlrd0hVanJQQUhybzJ6bXk5RUJ2aWpEZXBtbm8zX3BnSzFPNzZqTzIyemVHWGdjQUhsOVVz?oc=5",
+"date": "2026-10-22"
+},
+{
 "title": "Malaysia and Indonesia: A tale of two palm oil producers",
 "source": "Reuters",
 "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOODRlRkNXeEhTNW1mbjNFeWNONW9BUklEaWZCb0tSR2t2WVJxQmR2aW9tUnZ3Um56R05RNUVEYnhLZUZwbkV3bGE1SWs3bGcwcFZkX1JJTkZXSFpwcVpsTmtmQzZQZ050U1ViZFZINEtTOWFZQkhFNWdybFlNdTFwRGJrM25GWTNpNk1rM001MXdDV3dTMUJFM24waWpnWE1YZ2NUOHVmZm9TWXVWZ2MzM2RtSWE4VEVFUGxPR3BHcmxBaHZza1RhNQ?oc=5",
 "date": "2026-10-21"
-},
-{
-"title": "Near miss: Indonesia probes crash of suspected Chinese rocket fragment",
-"source": "The Japan Times",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTGxiOVJZYUFnaXZlcTNiZ1g2RFNnNGZYZmdhblBJeFI0SlBqRVFoQmZlSWhRa0UxNHRKdDZHVl91THJIbW1PRUtfdnAtUkRNR3FKUzlWWWg4Sjc3dWJrTTdaWGwyaTNaMk00b0xiYjdkaTlRWTJPaVhwT2Q1bzlOYjg5UHl2cDFzUmptUFA5MTFaZw?oc=5",
-"date": "2026-10-20"
-},
-{
-"title": "Indonesia Palm Oil Producers Address Fire Risks as Haze Concerns Trigger Regulatory Scrutiny",
-"source": "Yahoo Finance Singapore",
-"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUExyY0RiR2dIbW5TVWgxWjdNLUZINS1zclR1YWp5eElCQzhvY0V6Qld3UHVxSTNBekhIUTR1bDJScGxqREFKYkFQM2FOMUJ1bDRKbG9mVmttS1pNclV6aXEydmhabV8zdnpZRWczN292UnJrSHN0R1hqcWlVTFhmSkRYUFJyeGVkZmEtOU1n?oc=5",
-"date": "2026-10-19"
 }
 ],
 "IN": [
@@ -3395,6 +3395,12 @@
 ],
 "JP": [
 {
+"title": "Japan Oil Transportation Co., Ltd. Estimates – TSE:9074",
+"source": "TradingView",
+"link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zYlNJT1ZqeE55Q1NFNHZiMjV6ekMyak1WMXFBNmZieGg5dmpJeE5yWE9jbDV6NVZTVDNzWGVSaHBsLUVKYTlWNDZqd2pkYWxjYXZqMGotZk9xZldyVU5QcGhzOVVhYmRnUWJWWHQwR0F3RVRZ?oc=5",
+"date": "2026-10-25"
+},
+{
 "title": "Japan Trade Deficit Nearly Doubles on Surging Energy Import Costs - News and Statistics",
 "source": "IndexBox",
 "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcjdaaXIya0czV1A0Vm51YXpadUZ2cmc3X0k5bGtpV0dsNERvdW9jY0hFcjI5UGU5QmJONmZWeWtod2RQOC1ramllcHdOdmk4aW9hT0lkZUVSbzdMYmZBZDNMbUg2UTdSemNwSkEzY3ZiNDV6U1lGVG1SM1Jha0VTR0RMelBzNmhRYlZmLXZaV2RZN0k5UUJRS3pn?oc=5",
@@ -3410,12 +3416,6 @@
 "title": "Japan's Trade Deficit Doubles as Hormuz Crisis Hikes Energy Import Costs",
 "source": "Crude Oil Prices Today | OilPrice.com",
 "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRm9IbHlzQnB0T1dGMFQ5VTY3RkY1X1JaX1VJSEVtM1B4LWhnOW5icXNpS3ZxRFpualNpT002ZUVsVFBaaW9oN2YwSjlHN19BcVNsU2VzTVMxZWJYQ01BeXY1ZXBzZUZiTWdCQnRwOFJReTlHZnRNZWdQb2tlLVFCcFhGejAxSlNmYmpGcm1lY2cwSlJCRlJYWjVzMGtvVVhtY2ZZTTVCT2EzWTRKeXkwZlFraGlJLTJtMXBSMFBBcFpkSXNWRkHSAcsBQVVfeXFMTXl1cDJKem1tUU5NZUZRa0d2Y21LSnhQNFdCYzJ6WWdaVlI2X0MwbVpIMTR2Qk0zcWZ0bUxDX1lRYVd6QURYVUtOTXFRb3RSdnl1SENUZktMcjduRDliTUpBSTBuNnRJTGRmYk1ob24xb3BoUUliTlNJd1AyZ1p4ejFPMVNNSlRBUl9aZ3FubFlQMXFEeXZqYVRFTndUdnhBS1dkVldVM2ZPb243QzF3RjVoMWlXT1VaUFZzUEd4bjc0ZmpTR3NFNVdSWHc?oc=5",
-"date": "2026-10-21"
-},
-{
-"title": "Japan records a trade deficit as oil imports soar because of conflict in the Middle East",
-"source": "Ottumwa Courier",
-"link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQd1B2NXdVR09xOGFSNlQ4RHBpLURlN21paXpIVG9MWjhpdDIySjFsNVlXSWEzTHI0Vjk0dHFhTG5GbFRMX1gzaDBwMmsyYkpGLXhYR3YzeFZoM3BtZmFKNTJsOUNZZDNrRHpEWC15bTRSSV8tRVBqRU45WENLZkxxWWNkS3plSzBxREtQLTMtc3pRMlpWaWFzUElHQXdZc09zS1JCSDdWQXlZdm9FX1d1SW83ay1OM0w2N1pfZzJPbGdtbVhzRW0yamVwSHh1OXhINjZFQUtBRFZyZy1WZ2hwM1V1bTYxY3NQbEVrVVc4SEt6dmN6WlZySDkyeUttelVVX1dCMDRSTjZUUQ?oc=5",
 "date": "2026-10-21"
 },
 {
@@ -3439,9 +3439,9 @@
 "date": "2026-10-16"
 },
 {
-"title": "South Korea is reportedly to extend oil fuel price cap for another four weeks",
-"source": "Newsquawk",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUWl5cENsWmNQdWljQ3FhMW1pZHk5ZjdaZlBhYlptVkpnaUdwR0NlbDh3c0U5dnZTVEFLOTcxUW5yWkFRb2hTazA4UUVDeTVhWWxZWmt2YnlxeU5DR3Y3bjFKOW5jT01lbHVOTVNEVE1Fc2V4TjNqRTlFQmFkOW43S2wtRzBoT1NZeWY3RVJxRDNGU1VBX0k5T0dDYld4VUE1Um9UcUFETm5TU253WXNXd2dmaw?oc=5",
+"title": "South Korea Turns Back to Coal as LNG Crisis Deepens",
+"source": "Crude Oil Prices Today | OilPrice.com",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWVUwcUxxMWpLOUlCdnNWTXpETEJSUDNTT3FFdUdPYkpqWERrUHpFeVcwN2hjRXlWUWxTdnc1ZXFieWFjOWNzWDBBenhEZFhDdWlTZnhXd2duM0dlTDM5VktkQ0dxVkNyMEdzQWZNa3VJX19wZm1lYTc1NHBpemxhTjRIUk1tZnNpamZNVHdVZzQtNGxBdV80Y01obnhKZ1o1LS1vNWczM2lhOXly0gGyAUFVX3lxTE9NQ1Q3QmtXRGJnVTJ4T1gwZzJBWXJPZ2s2MDlBQ3lpcXdnbDZLcElZamswVkFLdDhKTERWMjViZE5oT1ZOb3pBZWxlemNCZktGSU52M3ZtWXc4TkNIa2hwYUl4cWk1aENfWm14YWhvc1N3TGF1cndRRXZ0eTNubkJSOHJlZWh6YmNqaVljV1R3UFlNQm9wOW56eWlTNEVHOW9YNDdLZmRpVlRuVnp2dXNRSUE?oc=5",
 "date": "2026-10-16"
 },
 {
@@ -3451,18 +3451,18 @@
 "date": "2026-10-08"
 },
 {
-"title": "South Korea threatens legal action if fuel shipments to Russia found to have broken law",
-"source": "The Guardian",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3d1MjVxXzNFcUdqbG9oZWtCbUVTNklQay0yQkFka01NLUdncFY3Wkl4Z1lJRzNIdWJJUkd4elRZRDlEVjd3aFk3ckh0VnpxbXUwRUNUYXRmWGV3UHNUdk1BYzlUaG9HOEdJSmthUUFHY2ktaTcyRC1KR2hWVEF4c3VicGh5eGE2LVJDSDJHalFuT09MOEpaNjdSQQ?oc=5",
+"title": "Seoul denies shipments of petroleum products to Russia, pledges to look into claims",
+"source": "Korea JoongAng Daily",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRDdKQ3N1MUFwVWVlc3pYUUNPZjl0QnBUSDZGQm5HNFBIMW81M0tPZHdFbHRrQm8yMlJXRExMS0NtM1pmSkpZLUVvWFc0dmFWVUM2Tzd1bjVHQ1U3emhyQmxQOEQwbXJTcFd3RHkweGNLazhTMHRJU3BzZHdoQW13WUp2RlB0RXhoMml4Y3dTU3FiT00zajRJbWwxUkpqRzQteVlDbDJDOEY0d0tjcHV5Z0xrb0FQZ0Q0bkxRLTV6dHVsT0lWV181LVV0czQ?oc=5",
 "date": "2026-10-08"
 }
 ],
 "MM": [
 {
-"title": "Palm oil prices to stay high next year on Southeast Asia drought",
-"source": "Nikkei Asia",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWUFQMWs5LUxSRlNpSDkzS2RQeU9oYzd2NnBzS2N6QnZBOHY5ZzNRSloyYzU5ZWFwTDQ1aGVxU3V6eXdOd1BQRXVXWUwtQmVIRUxtVlhxWHllRDFmQmM1RkRjMHhQRllRT3FPM01lNEV5YXEyQ3VjS1pTTms5RTc2YUVyZmM4akRBZjI1MXlWUXlfbkdwSTlhZ1ozZmNnVlcxSUl1c0RaQ3pPMUppbk5MaVAyS1VaN1hX?oc=5",
-"date": "2026-10-22"
+"title": "Oil tanker Agioi Fanendes carries Russian diesel to New York",
+"source": "Myanmar International TV",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ1pJUnRhdWFFRW9nZENKWGs5dld1dXRlbjBza28xOUhSTGsyZW01Z24yUlhuWi03VkE1N1JOSkdrN2piY0VxdjJBVVJlY2cyZWFMeW8xandPdXdscHp2RTNGSEhqRW54Tjl1ZDh6T01jX2EzSHlTd2hieTg5RUVHNG9QVnFRUDJQZ3o3c0hqVEx4bzg?oc=5",
+"date": "2026-10-24"
 },
 {
 "title": "Thousands Flee as Regime Troops Push Into Myanmar’s Oil Hub",
@@ -3471,25 +3471,31 @@
 "date": "2026-10-20"
 },
 {
-"title": "Oil tanker rate surge pushes Asia, Europe refiners into the red",
-"source": "Nikkei Asia",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWURLaFJ2VFEwQ0Itbm1SbEFiWGxEQkVCWlVjc2ZpRjQ2RmxmVmw4NlI0VlJzMkstR2RXVDlfX2FIWDB0QThHZlNLUUwyZjZBWHI5NWZIY0lrT1B5b1RGZVAxdkZ5RnpIVkY5b1BQc2pJcGxnU1UyN2NxcFZYVFowejF2Z2M3a1lSLTJwY0hsdXlFcmF6NDlnbERiaEtGNEFINlNGcQ?oc=5",
-"date": "2026-10-19"
-},
-{
-"title": "Oil tanker catches fire in Strait of Hormuz",
-"source": "Myanmar International TV",
-"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Ick1UdGw2UFh2eWVYOWpndDZ1b0ZnbVBuSXlFdE05eU9QRkhERi1uRzY3VzhNZ0RQZlV0MERIQXg1Wkl2TGlneU9tZHhCcFR6SHMwcmRlSi1zUnVZOE5vTktpa0ZxXzNkV0JxRUhQZFNLS3F3SlZqNg?oc=5",
-"date": "2026-10-18"
-},
-{
 "title": "Iran shipped jet fuel to Myanmar despite US blockade - Reuters",
 "source": "Iran International",
 "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oR0hQVmVDZWZVYzBFM3dPbVhMRWJyeEhIa0NBM0RubEIwb3ItRjQ2Tmo2RUlsaXNjdWJsQnlrTmhTQmxNc3JQekJuTy1XQWpQT1E?oc=5",
 "date": "2026-10-16"
+},
+{
+"title": "EXCLUSIVE: Iran ships some LPG, jet fuel despite US blockade, data shows",
+"source": "Reuters",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUW43alBLT1ZtZE5UZF9VNEY2ZDhBNjNOdk93dG1BZTNBZWZkQ050OVZGQmxUWURPdG16Q1pwTmRtNkFfQTNNWDJEazN2aHBRY1UwLW1MbGRSWXpLdVZRenB6SGY2cFhVcmFlRzRQZkhzV24xeTVtWnJfRTdfUHlIbktueERWSGNCLUw2bzIwdUw1a3FpQ3pMdEk4NE9HaVppTnlvaWNLV19xMy1pOEc0bw?oc=5",
+"date": "2026-10-16"
+},
+{
+"title": "Myanmar oil refinery comes back onstream to cut reliance on fuel imports",
+"source": "Nikkei Asia",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaGNkTTVrOVFsOHVuZUNfT0NGUjJHVFprbUxtSllIeV9tcDlkUmN5cmNtNjNkcE04OU1kNW9ETlM1c3pnMVQzRmt0RG9ZNTl5ZjNqRExxcFdyQ2h3RXlKei1GUHNGS3FKbUNqaHkxd3NYN1hRTl9xY19MRHJiMGFLZG11Q3RsM1lWclFhRnNDREUtQkQzaHNoMXFIaWZEMzh1YWxNbERaQjd5eWdrODUyVHdn?oc=5",
+"date": "2026-10-15"
 }
 ],
 "MY": [
+{
+"title": "Once US blockaded Iran, China’s ‘Malaysian’ oil imports dried up",
+"source": "Iran International",
+"link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5OWNlU3Z4QjBEVlJUOS1LOUVQTGh1VGxFMXZIM0s5TU1zSEtSSTFaSXVDMDB3OE5hM3p1Wm9DVE56bXZhRmliWkRWclRpYTFJbGc?oc=5",
+"date": "2026-10-23"
+},
 {
 "title": "Malaysia’s oil-rich Sarawak heads to polls, forcing Anwar into yet another federal test",
 "source": "South China Morning Post",
@@ -3513,15 +3519,15 @@
 "source": "Reuters",
 "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOODRlRkNXeEhTNW1mbjNFeWNONW9BUklEaWZCb0tSR2t2WVJxQmR2aW9tUnZ3Um56R05RNUVEYnhLZUZwbkV3bGE1SWs3bGcwcFZkX1JJTkZXSFpwcVpsTmtmQzZQZ050U1ViZFZINEtTOWFZQkhFNWdybFlNdTFwRGJrM25GWTNpNk1rM001MXdDV3dTMUJFM24waWpnWE1YZ2NUOHVmZm9TWXVWZ2MzM2RtSWE4VEVFUGxPR3BHcmxBaHZza1RhNQ?oc=5",
 "date": "2026-10-21"
-},
-{
-"title": "Malaysia May Hit Record Monthly Palm Oil Output",
-"source": "Briefs Finance",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZTFLQUJQckIxUU1lWUV3dUJwOC1xVkh0Z2p0RTgwb0FfQlBKR2tCVHJ6WEd4R0djZlFGT183aVBPYW0zUFlGRHB3cS1IRHROZHlBbFlaejg4Y2JXRUlVTEdndFRkWnlFUFBDYVp2SzFHMjljUVdIY2ljOW9IdWxKeFc0d2c2aEgwUy1uaWVUWGJfUQ?oc=5",
-"date": "2026-10-19"
 }
 ],
 "NP": [
+{
+"title": "Nepal condemns attacks on civilians after citizen killed by drone debris at Saudi oil field",
+"source": "Devdiscourse",
+"link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcFgxSzBYdXJDRkhXc2ZkVk0zMkM5QVQwVzhQVVFlRFhNU3NyRmZNdG1Wc2NTdFlFZTA3QjN1ekpjdjhRYnFvNExWZGd0SEM0cU1pd0lCaGN5M0JfamtrVFljdXd3YXFaYTBwYnFkbmpKN2gyWEphUnl4elE2QzZBZElrUVF5M2FiNFFMOE5mbm9Ta1Rad1lCb2ZvNVh6TXpEWGpjVjdXTm9Ha00wbllSMTBSVWZwa0tmM1E3cXdoTGlEcjRxc0FKVUliNWdkcE16UTJQWkdEZDdpMFdtT3IzMDFkbnY3MndqeEHSAeoBQVVfeXFMTnBYMUswWHVyQ0ZIV3NmZFZNMzJDOUFUMFc4UFVRZURYTVNzckZmTXRtVnNjU3RZRWUwN0IzdXpKY3Y4UWJxbzRMVmRndEhDNHFNaXdJQmhjeTNCX2pra1RZY3V3d2FxWmEwcGJxZG5qSjdoMlhKYVJ5eHpRNkM2QWRJa1FReTNhYjRRTDhOZm5vU2tUWndZQm9mbzVYek16RFhqY1Y3V05vR2tNMG5ZUjEwUlVmcGtLZjNRN3F3aExpRHI0cXNBSlVJYjVnZHBNelEyUFpHRGQ3aTBXbU9yMzAxZG52NzJ3anhB?oc=5",
+"date": "2026-10-23"
+},
 {
 "title": "Nepal says it is saddened by the killing of its citizen in Saudi oil field attack",
 "source": "The Kathmandu Post",
@@ -3535,22 +3541,16 @@
 "date": "2026-10-16"
 },
 {
-"title": "Nepal Oil Corporation to Keep Depots Open During Dashain Holidays",
-"source": "Hamro Patro",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbGQ1WDM5NTM5YVJRZ21UTWxwR1J6aUZuLXI1Z291NXp5Q3ZVd1lfLTFqeHBGVFF2dWJvUGUzVnhacjlKc1hDXy03UlZlcmtEcVpZc3NTdlZ4VFV0QTFmdlhhTzloSi16Vy1kLUFuQS1McVRmTWFCUUd2OWVrVjBRU0lfZ1BzRy16RXJvMjdrUFUyTG9TbzVrLW5rb0ZhMEFraFc0UDN5R2hpc0MyZlVuUkZmdl9OSkNTMjlVeDgzMHpCUQ?oc=5",
-"date": "2026-10-16"
+"title": "Houthis strike Saudi oil giant Aramco",
+"source": "The Rising Nepal",
+"link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBoZW4zS3ZEbjN5QUR5RjRiYWV0WE9XdGVUSkxHbi1rZFJOUV9UR3A1dnI3eGkzUVo0MDlUTUZMU0pOa296X19Yc1I4dGhWb3Nt?oc=5",
+"date": "2026-10-15"
 },
 {
 "title": "Fuel prices remain unchanged as NOC faces fortnightly loss",
 "source": "Nepalnews.com",
 "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVHBocklrQ2JSWmoxMVB2cEFGTUducUxkS3ZjT1RBNGJjMWpNQmtqd1RxZzJtVURMdlBjWUtoSlJOMmx6UUJGSG96cXZRMnlxdVFrdkdjX3lRbW9ZclduNzdEU3ZWS1VJV245NmVoZjlhYWNWTmphQ2NjRjdQd0VBWjd1RDY2cnVCZEY3ejdVal9VU1puR0RHajY2MDVWMnQtZHc?oc=5",
 "date": "2026-10-15"
-},
-{
-"title": "Administration steps up monitoring to prevent fuel shortages during festive season in Nepal",
-"source": "Khabarhub",
-"link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13ZERCZHd5OXdlcGd6YlNrbzdFTDFuWnNWelZmWUNEX19UTTFna1dDZ1hhSFdMcU1TLVg5elBwekcxcFR1N3FRZGRrYjBxcEFWeGlaZURhSFE?oc=5",
-"date": "2026-10-14"
 }
 ],
 "NZ": [
@@ -3573,15 +3573,15 @@
 "date": "2026-10-21"
 },
 {
-"title": "Monumental Energy acquires stake in Taranaki oil field",
-"source": "Oilfield Technology",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZUplNGdvN3RQRVRPaklsQy1pUTZBaThfdmN5OHVoLXZJbTRyN3ZYTTNUX0x2OXFGdEpCVExsYi1EcVdIc09UWVdtUUV6M1RJOGVsSFhBdEVWdDFaNUZqZW1QaTVLaklkTzlRWWdLalg4eFlOTWNpRlc5Y2ZwRlhyRmtUYW9vV0w5bXNKZmE1eXc4bGtMUWJmdnBwa0xPWmhNZHhqeWJRNFJ3R05UX2luU2d3?oc=5",
-"date": "2026-10-15"
-},
-{
 "title": "Sunda steps closer to dusting off 1985 gas field as New Zealand bid goes exclusive",
 "source": "Offshore Energy",
 "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPajZ1c0pMNHFXVF9Fdm1fQmlPbHNPZDdBUGIzVEJURzFZQ0ExbG1GSkNJQkl3M0hYS1A1S2c2aFp0Y09lelNWdlNzelRJb3lqLVJDalNmeHlQTERHWDlTQkdNWHE3VGREcFk2Uk9jUjczbWRrUmpESXRGVEZ0ZHFxRUhtS0dZRjN2Q1RaR0RIdXNEQ3FoaUxCSEN3YzFQbjlrUXRTYlV1MllZYWc1ZGFRanQwY0hJWVg4eGVUVXdB?oc=5",
+"date": "2026-10-14"
+},
+{
+"title": "Monumental Energy to Partner on the Maata Oil Field Located Onshore in the Taranaki Region Near Two Production Facilities",
+"source": "Nasdaq",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUVZIVWkweVlaYU1yTmx0VFRJSXZSU2p2aTNkZnZUR1dRWmI4TlRYX2RzVUVtV0pIanFCTzhYMzFyaWtCQU8zRjQ0Q1NsUEkwaF9zN3ZoOUZORzR2bVhmdDFHTklUazRsakxOYXlFNnVKUnczZ09leFYxVWUwSmM0Q1Y0dFU4MzBnbVljaHdtRFR0Y3czOE85ZGdPbDhrWDBaSHZ0eWR5ZEhtTEl2MGcwVEVWZ0RRWmh3SkNB?oc=5",
 "date": "2026-10-14"
 }
 ],
@@ -3695,12 +3695,6 @@
 "date": "2026-10-20"
 },
 {
-"title": "Authorities race to contain oil slick in Prachin Buri to protect river",
-"source": "Thai PBS World",
-"link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlSDlNTTRDOG9DVHluc2piNmVST21Xb3Rick0yRDdBTDBXUUJsbk84WkpJbFdxQTMwbmVhT29IUkllN04tV29NbGZZQ2piVEtkZlVCTFMyS201dzFWUFJPQQ?oc=5",
-"date": "2026-10-19"
-},
-{
 "title": "Valeura Starts Wassana Platform Installation Offshore Thailand",
 "source": "Offshore Engineer Magazine",
 "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWURzVnJKYk5DRGp3YmxDTkFtZ053TWZMdU5yS3BETjJWSVBLaWJkVkJaSmpySFhtM1YwRXA1amdSS0czcEpBenhWRmlJV1dUaVE0Wk5IajFEbGdNSEJleEdiQjJYbENUSzd4cmF2bTg5ZWNuMWliaHpUcENkWWg0SnQxMFgyaHNDdU8zNnZzRVVYRFNUaExZZ21Tbi1VWUxTMFE?oc=5",
@@ -3711,6 +3705,12 @@
 "source": "Offshore Energy",
 "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSkFHbXVfc0o2UExiNlBiM2hhU3RIYy1MdXdCZm1yYUZXRk4yWnpHZGljdmVxdk5oZ0d2dzQ0UDdKNDdFTE5LbENlaHdlMDRFclRJbmF3WVMxZ2FvbjlWMXdKZS1sUEN2T2s3WUh5dzZEazUwNFBnT2lyUnNIQWJvY2ZrNWg5VVVwR1RLT2J0Rk9qNmtpS2ROQ0o4UUozNEdmSG12Q1ZQM0ZUTFZ0MEUzMVRHNDViV2VlaHIzTEV2TzFKUQ?oc=5",
 "date": "2026-10-09"
+},
+{
+"title": "UAE, Thailand to Enter Non-oil Trade, Investment Partnership",
+"source": "www.marketscreener.com",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWm83aW1ZdEhHT2VjaHE1bGhzSHcwZEw0cVhLWlpjSVdOY2hjQjhYdEx2SUNmTTBpWE5TYnlBRFdlSTFYdXdEbUVTQTN2blFEUkM3MXo2V3VaT1dQVTViVU9BWmUwbGJ0M0JwTjdIOU5CbWw0aWJXbE5hcEF6Q3pvbHdQQjRkZjRWdEtiLXNpZ21weWd4RndhMDlxLVpPUVhUdUZaWXhqSUViTGg0Zjd2RA?oc=5",
+"date": "2026-10-08"
 }
 ],
 "TW": [
